@@ -1,0 +1,2000 @@
+01/27/2023:04:20:58,366 INF [ts2vec.py:128] e1 loss = 0.578535 recons = 0.2853 orth = 0.0000 trans = 0.2933
+01/27/2023:04:20:58,503 INF [ts2vec.py:141] v1 trans = 0.3012
+01/27/2023:04:20:59,9 INF [ts2vec.py:128] e2 loss = 0.572955 recons = 0.2847 orth = 0.0000 trans = 0.2883
+01/27/2023:04:20:59,145 INF [ts2vec.py:141] v2 trans = 0.2869
+01/27/2023:04:20:59,648 INF [ts2vec.py:128] e3 loss = 0.561054 recons = 0.2839 orth = 0.0000 trans = 0.2772
+01/27/2023:04:20:59,783 INF [ts2vec.py:141] v3 trans = 0.2949
+01/27/2023:04:21:00,281 INF [ts2vec.py:128] e4 loss = 0.560364 recons = 0.2836 orth = 0.0000 trans = 0.2767
+01/27/2023:04:21:00,420 INF [ts2vec.py:141] v4 trans = 0.2897
+01/27/2023:04:21:00,930 INF [ts2vec.py:128] e5 loss = 0.547434 recons = 0.2829 orth = 0.0000 trans = 0.2645
+01/27/2023:04:21:01,75 INF [ts2vec.py:141] v5 trans = 0.2805
+01/27/2023:04:21:01,598 INF [ts2vec.py:128] e6 loss = 0.518207 recons = 0.2830 orth = 0.0000 trans = 0.2352
+01/27/2023:04:21:01,735 INF [ts2vec.py:141] v6 trans = 0.2566
+01/27/2023:04:21:02,253 INF [ts2vec.py:128] e7 loss = 0.518779 recons = 0.2827 orth = 0.0000 trans = 0.2360
+01/27/2023:04:21:02,388 INF [ts2vec.py:141] v7 trans = 0.2765
+01/27/2023:04:21:02,893 INF [ts2vec.py:128] e8 loss = 0.482287 recons = 0.2824 orth = 0.0000 trans = 0.1999
+01/27/2023:04:21:03,29 INF [ts2vec.py:141] v8 trans = 0.2923
+01/27/2023:04:21:03,541 INF [ts2vec.py:128] e9 loss = 0.538701 recons = 0.2821 orth = 0.0000 trans = 0.2566
+01/27/2023:04:21:03,677 INF [ts2vec.py:141] v9 trans = 0.2676
+01/27/2023:04:21:04,179 INF [ts2vec.py:128] e10 loss = 0.479915 recons = 0.2815 orth = 0.0000 trans = 0.1984
+01/27/2023:04:21:04,321 INF [ts2vec.py:141] v10 trans = 0.1803
+01/27/2023:04:21:04,840 INF [ts2vec.py:128] e11 loss = 0.459563 recons = 0.2817 orth = 0.0000 trans = 0.1778
+01/27/2023:04:21:04,976 INF [ts2vec.py:141] v11 trans = 0.2273
+01/27/2023:04:21:05,489 INF [ts2vec.py:128] e12 loss = 0.414553 recons = 0.2814 orth = 0.0000 trans = 0.1331
+01/27/2023:04:21:05,626 INF [ts2vec.py:141] v12 trans = 0.1426
+01/27/2023:04:21:06,221 INF [ts2vec.py:128] e13 loss = 0.405529 recons = 0.2812 orth = 0.0000 trans = 0.1243
+01/27/2023:04:21:06,356 INF [ts2vec.py:141] v13 trans = 0.1306
+01/27/2023:04:21:06,866 INF [ts2vec.py:128] e14 loss = 0.392182 recons = 0.2809 orth = 0.0000 trans = 0.1113
+01/27/2023:04:21:07,3 INF [ts2vec.py:141] v14 trans = 0.1610
+01/27/2023:04:21:07,513 INF [ts2vec.py:128] e15 loss = 0.384115 recons = 0.2800 orth = 0.0000 trans = 0.1041
+01/27/2023:04:21:07,647 INF [ts2vec.py:141] v15 trans = 0.1114
+01/27/2023:04:21:08,153 INF [ts2vec.py:128] e16 loss = 0.379229 recons = 0.2801 orth = 0.0000 trans = 0.0992
+01/27/2023:04:21:08,287 INF [ts2vec.py:141] v16 trans = 0.1027
+01/27/2023:04:21:08,789 INF [ts2vec.py:128] e17 loss = 0.373090 recons = 0.2802 orth = 0.0000 trans = 0.0929
+01/27/2023:04:21:08,925 INF [ts2vec.py:141] v17 trans = 0.0947
+01/27/2023:04:21:09,435 INF [ts2vec.py:128] e18 loss = 0.373728 recons = 0.2806 orth = 0.0000 trans = 0.0931
+01/27/2023:04:21:09,572 INF [ts2vec.py:141] v18 trans = 0.1245
+01/27/2023:04:21:10,162 INF [ts2vec.py:128] e19 loss = 0.370855 recons = 0.2792 orth = 0.0000 trans = 0.0917
+01/27/2023:04:21:10,295 INF [ts2vec.py:141] v19 trans = 0.0961
+01/27/2023:04:21:10,803 INF [ts2vec.py:128] e20 loss = 0.368813 recons = 0.2786 orth = 0.0000 trans = 0.0902
+01/27/2023:04:21:10,938 INF [ts2vec.py:141] v20 trans = 0.0970
+01/27/2023:04:21:11,463 INF [ts2vec.py:128] e21 loss = 0.368169 recons = 0.2785 orth = 0.0000 trans = 0.0897
+01/27/2023:04:21:11,597 INF [ts2vec.py:141] v21 trans = 0.0922
+01/27/2023:04:21:12,105 INF [ts2vec.py:128] e22 loss = 0.367399 recons = 0.2787 orth = 0.0000 trans = 0.0887
+01/27/2023:04:21:12,241 INF [ts2vec.py:141] v22 trans = 0.0934
+01/27/2023:04:21:12,747 INF [ts2vec.py:128] e23 loss = 0.364649 recons = 0.2779 orth = 0.0000 trans = 0.0867
+01/27/2023:04:21:12,881 INF [ts2vec.py:141] v23 trans = 0.0850
+01/27/2023:04:21:13,390 INF [ts2vec.py:128] e24 loss = 0.366916 recons = 0.2781 orth = 0.0000 trans = 0.0888
+01/27/2023:04:21:13,525 INF [ts2vec.py:141] v24 trans = 0.1029
+01/27/2023:04:21:14,35 INF [ts2vec.py:128] e25 loss = 0.386191 recons = 0.2768 orth = 0.0000 trans = 0.1094
+01/27/2023:04:21:14,169 INF [ts2vec.py:141] v25 trans = 0.1153
+01/27/2023:04:21:14,676 INF [ts2vec.py:128] e26 loss = 0.367712 recons = 0.2718 orth = 0.0000 trans = 0.0959
+01/27/2023:04:21:14,813 INF [ts2vec.py:141] v26 trans = 0.1001
+01/27/2023:04:21:15,310 INF [ts2vec.py:128] e27 loss = 0.350694 recons = 0.2640 orth = 0.0000 trans = 0.0867
+01/27/2023:04:21:15,448 INF [ts2vec.py:141] v27 trans = 0.0855
+01/27/2023:04:21:15,951 INF [ts2vec.py:128] e28 loss = 0.347342 recons = 0.2609 orth = 0.0000 trans = 0.0864
+01/27/2023:04:21:16,86 INF [ts2vec.py:141] v28 trans = 0.0904
+01/27/2023:04:21:16,592 INF [ts2vec.py:128] e29 loss = 0.361899 recons = 0.2701 orth = 0.0000 trans = 0.0918
+01/27/2023:04:21:16,730 INF [ts2vec.py:141] v29 trans = 0.0869
+01/27/2023:04:21:17,234 INF [ts2vec.py:128] e30 loss = 0.339160 recons = 0.2577 orth = 0.0000 trans = 0.0815
+01/27/2023:04:21:17,368 INF [ts2vec.py:141] v30 trans = 0.0899
+01/27/2023:04:21:17,878 INF [ts2vec.py:128] e31 loss = 0.339534 recons = 0.2574 orth = 0.0000 trans = 0.0821
+01/27/2023:04:21:18,16 INF [ts2vec.py:141] v31 trans = 0.0876
+01/27/2023:04:21:18,516 INF [ts2vec.py:128] e32 loss = 0.340738 recons = 0.2546 orth = 0.0000 trans = 0.0861
+01/27/2023:04:21:18,650 INF [ts2vec.py:141] v32 trans = 0.0887
+01/27/2023:04:21:19,155 INF [ts2vec.py:128] e33 loss = 0.343369 recons = 0.2551 orth = 0.0000 trans = 0.0882
+01/27/2023:04:21:19,289 INF [ts2vec.py:141] v33 trans = 0.0997
+01/27/2023:04:21:19,797 INF [ts2vec.py:128] e34 loss = 0.332089 recons = 0.2551 orth = 0.0000 trans = 0.0770
+01/27/2023:04:21:19,934 INF [ts2vec.py:141] v34 trans = 0.0953
+01/27/2023:04:21:20,433 INF [ts2vec.py:128] e35 loss = 0.333597 recons = 0.2565 orth = 0.0000 trans = 0.0771
+01/27/2023:04:21:20,572 INF [ts2vec.py:141] v35 trans = 0.0856
+01/27/2023:04:21:21,70 INF [ts2vec.py:128] e36 loss = 0.332775 recons = 0.2548 orth = 0.0000 trans = 0.0779
+01/27/2023:04:21:21,206 INF [ts2vec.py:141] v36 trans = 0.0802
+01/27/2023:04:21:21,732 INF [ts2vec.py:128] e37 loss = 0.334132 recons = 0.2553 orth = 0.0000 trans = 0.0788
+01/27/2023:04:21:21,870 INF [ts2vec.py:141] v37 trans = 0.0799
+01/27/2023:04:21:22,369 INF [ts2vec.py:128] e38 loss = 0.338583 recons = 0.2537 orth = 0.0000 trans = 0.0848
+01/27/2023:04:21:22,503 INF [ts2vec.py:141] v38 trans = 0.0811
+01/27/2023:04:21:23,7 INF [ts2vec.py:128] e39 loss = 0.331374 recons = 0.2542 orth = 0.0000 trans = 0.0772
+01/27/2023:04:21:23,144 INF [ts2vec.py:141] v39 trans = 0.0791
+01/27/2023:04:21:23,652 INF [ts2vec.py:128] e40 loss = 0.335368 recons = 0.2560 orth = 0.0000 trans = 0.0794
+01/27/2023:04:21:23,786 INF [ts2vec.py:141] v40 trans = 0.0993
+01/27/2023:04:21:24,291 INF [ts2vec.py:128] e41 loss = 0.330957 recons = 0.2554 orth = 0.0000 trans = 0.0755
+01/27/2023:04:21:24,429 INF [ts2vec.py:141] v41 trans = 0.0868
+01/27/2023:04:21:24,942 INF [ts2vec.py:128] e42 loss = 0.334524 recons = 0.2562 orth = 0.0000 trans = 0.0783
+01/27/2023:04:21:25,80 INF [ts2vec.py:141] v42 trans = 0.0794
+01/27/2023:04:21:25,588 INF [ts2vec.py:128] e43 loss = 0.315772 recons = 0.2532 orth = 0.0000 trans = 0.0626
+01/27/2023:04:21:25,726 INF [ts2vec.py:141] v43 trans = 0.0759
+01/27/2023:04:21:26,236 INF [ts2vec.py:128] e44 loss = 0.327882 recons = 0.2531 orth = 0.0000 trans = 0.0748
+01/27/2023:04:21:26,371 INF [ts2vec.py:141] v44 trans = 0.0762
+01/27/2023:04:21:26,876 INF [ts2vec.py:128] e45 loss = 0.324495 recons = 0.2547 orth = 0.0000 trans = 0.0698
+01/27/2023:04:21:27,11 INF [ts2vec.py:141] v45 trans = 0.0800
+01/27/2023:04:21:27,527 INF [ts2vec.py:128] e46 loss = 0.326952 recons = 0.2543 orth = 0.0000 trans = 0.0726
+01/27/2023:04:21:27,661 INF [ts2vec.py:141] v46 trans = 0.0828
+01/27/2023:04:21:28,164 INF [ts2vec.py:128] e47 loss = 0.328912 recons = 0.2558 orth = 0.0000 trans = 0.0731
+01/27/2023:04:21:28,297 INF [ts2vec.py:141] v47 trans = 0.0850
+01/27/2023:04:21:28,804 INF [ts2vec.py:128] e48 loss = 0.326862 recons = 0.2543 orth = 0.0000 trans = 0.0726
+01/27/2023:04:21:28,941 INF [ts2vec.py:141] v48 trans = 0.0737
+01/27/2023:04:21:29,444 INF [ts2vec.py:128] e49 loss = 0.318446 recons = 0.2544 orth = 0.0000 trans = 0.0640
+01/27/2023:04:21:29,581 INF [ts2vec.py:141] v49 trans = 0.0690
+01/27/2023:04:21:30,92 INF [ts2vec.py:128] e50 loss = 0.314419 recons = 0.2527 orth = 0.0000 trans = 0.0617
+01/27/2023:04:21:30,230 INF [ts2vec.py:141] v50 trans = 0.0849
+01/27/2023:04:21:30,735 INF [ts2vec.py:128] e51 loss = 0.324032 recons = 0.2542 orth = 0.0000 trans = 0.0698
+01/27/2023:04:21:30,870 INF [ts2vec.py:141] v51 trans = 0.0793
+01/27/2023:04:21:31,389 INF [ts2vec.py:128] e52 loss = 0.318689 recons = 0.2557 orth = 0.0000 trans = 0.0630
+01/27/2023:04:21:31,531 INF [ts2vec.py:141] v52 trans = 0.0749
+01/27/2023:04:21:32,50 INF [ts2vec.py:128] e53 loss = 0.313027 recons = 0.2542 orth = 0.0000 trans = 0.0588
+01/27/2023:04:21:32,189 INF [ts2vec.py:141] v53 trans = 0.0767
+01/27/2023:04:21:32,705 INF [ts2vec.py:128] e54 loss = 0.313811 recons = 0.2535 orth = 0.0000 trans = 0.0603
+01/27/2023:04:21:32,840 INF [ts2vec.py:141] v54 trans = 0.0712
+01/27/2023:04:21:33,341 INF [ts2vec.py:128] e55 loss = 0.318697 recons = 0.2535 orth = 0.0000 trans = 0.0652
+01/27/2023:04:21:33,477 INF [ts2vec.py:141] v55 trans = 0.0688
+01/27/2023:04:21:33,987 INF [ts2vec.py:128] e56 loss = 0.313655 recons = 0.2524 orth = 0.0000 trans = 0.0612
+01/27/2023:04:21:34,121 INF [ts2vec.py:141] v56 trans = 0.0713
+01/27/2023:04:21:34,634 INF [ts2vec.py:128] e57 loss = 0.307427 recons = 0.2532 orth = 0.0000 trans = 0.0543
+01/27/2023:04:21:34,768 INF [ts2vec.py:141] v57 trans = 0.0714
+01/27/2023:04:21:35,274 INF [ts2vec.py:128] e58 loss = 0.315216 recons = 0.2531 orth = 0.0000 trans = 0.0621
+01/27/2023:04:21:35,410 INF [ts2vec.py:141] v58 trans = 0.0718
+01/27/2023:04:21:35,913 INF [ts2vec.py:128] e59 loss = 0.315656 recons = 0.2550 orth = 0.0000 trans = 0.0607
+01/27/2023:04:21:36,49 INF [ts2vec.py:141] v59 trans = 0.0644
+01/27/2023:04:21:36,554 INF [ts2vec.py:128] e60 loss = 0.309266 recons = 0.2525 orth = 0.0000 trans = 0.0567
+01/27/2023:04:21:36,688 INF [ts2vec.py:141] v60 trans = 0.0708
+01/27/2023:04:21:37,192 INF [ts2vec.py:128] e61 loss = 0.309264 recons = 0.2528 orth = 0.0000 trans = 0.0565
+01/27/2023:04:21:37,328 INF [ts2vec.py:141] v61 trans = 0.0610
+01/27/2023:04:21:37,831 INF [ts2vec.py:128] e62 loss = 0.315051 recons = 0.2547 orth = 0.0000 trans = 0.0604
+01/27/2023:04:21:37,967 INF [ts2vec.py:141] v62 trans = 0.0638
+01/27/2023:04:21:38,476 INF [ts2vec.py:128] e63 loss = 0.307798 recons = 0.2525 orth = 0.0000 trans = 0.0553
+01/27/2023:04:21:38,611 INF [ts2vec.py:141] v63 trans = 0.0691
+01/27/2023:04:21:39,111 INF [ts2vec.py:128] e64 loss = 0.309505 recons = 0.2521 orth = 0.0000 trans = 0.0574
+01/27/2023:04:21:39,248 INF [ts2vec.py:141] v64 trans = 0.0656
+01/27/2023:04:21:39,760 INF [ts2vec.py:128] e65 loss = 0.303601 recons = 0.2527 orth = 0.0000 trans = 0.0509
+01/27/2023:04:21:39,895 INF [ts2vec.py:141] v65 trans = 0.0704
+01/27/2023:04:21:40,397 INF [ts2vec.py:128] e66 loss = 0.311724 recons = 0.2540 orth = 0.0000 trans = 0.0578
+01/27/2023:04:21:40,530 INF [ts2vec.py:141] v66 trans = 0.0624
+01/27/2023:04:21:41,47 INF [ts2vec.py:128] e67 loss = 0.310681 recons = 0.2522 orth = 0.0000 trans = 0.0585
+01/27/2023:04:21:41,185 INF [ts2vec.py:141] v67 trans = 0.0633
+01/27/2023:04:21:41,720 INF [ts2vec.py:128] e68 loss = 0.302521 recons = 0.2527 orth = 0.0000 trans = 0.0498
+01/27/2023:04:21:41,859 INF [ts2vec.py:141] v68 trans = 0.0725
+01/27/2023:04:21:42,362 INF [ts2vec.py:128] e69 loss = 0.301695 recons = 0.2520 orth = 0.0000 trans = 0.0497
+01/27/2023:04:21:42,500 INF [ts2vec.py:141] v69 trans = 0.0653
+01/27/2023:04:21:43,5 INF [ts2vec.py:128] e70 loss = 0.310284 recons = 0.2539 orth = 0.0000 trans = 0.0564
+01/27/2023:04:21:43,141 INF [ts2vec.py:141] v70 trans = 0.0683
+01/27/2023:04:21:43,647 INF [ts2vec.py:128] e71 loss = 0.302340 recons = 0.2538 orth = 0.0000 trans = 0.0485
+01/27/2023:04:21:43,786 INF [ts2vec.py:141] v71 trans = 0.0635
+01/27/2023:04:21:44,285 INF [ts2vec.py:128] e72 loss = 0.303537 recons = 0.2530 orth = 0.0000 trans = 0.0506
+01/27/2023:04:21:44,419 INF [ts2vec.py:141] v72 trans = 0.0626
+01/27/2023:04:21:44,924 INF [ts2vec.py:128] e73 loss = 0.294684 recons = 0.2522 orth = 0.0000 trans = 0.0425
+01/27/2023:04:21:45,63 INF [ts2vec.py:141] v73 trans = 0.0646
+01/27/2023:04:21:45,567 INF [ts2vec.py:128] e74 loss = 0.303807 recons = 0.2534 orth = 0.0000 trans = 0.0505
+01/27/2023:04:21:45,700 INF [ts2vec.py:141] v74 trans = 0.0605
+01/27/2023:04:21:46,213 INF [ts2vec.py:128] e75 loss = 0.302915 recons = 0.2520 orth = 0.0000 trans = 0.0509
+01/27/2023:04:21:46,350 INF [ts2vec.py:141] v75 trans = 0.0597
+01/27/2023:04:21:46,856 INF [ts2vec.py:128] e76 loss = 0.305943 recons = 0.2526 orth = 0.0000 trans = 0.0534
+01/27/2023:04:21:46,994 INF [ts2vec.py:141] v76 trans = 0.0593
+01/27/2023:04:21:47,498 INF [ts2vec.py:128] e77 loss = 0.302080 recons = 0.2537 orth = 0.0000 trans = 0.0484
+01/27/2023:04:21:47,634 INF [ts2vec.py:141] v77 trans = 0.0563
+01/27/2023:04:21:48,146 INF [ts2vec.py:128] e78 loss = 0.306167 recons = 0.2531 orth = 0.0000 trans = 0.0531
+01/27/2023:04:21:48,282 INF [ts2vec.py:141] v78 trans = 0.0631
+01/27/2023:04:21:48,786 INF [ts2vec.py:128] e79 loss = 0.301349 recons = 0.2517 orth = 0.0000 trans = 0.0497
+01/27/2023:04:21:48,924 INF [ts2vec.py:141] v79 trans = 0.0650
+01/27/2023:04:21:49,439 INF [ts2vec.py:128] e80 loss = 0.298955 recons = 0.2532 orth = 0.0000 trans = 0.0457
+01/27/2023:04:21:49,575 INF [ts2vec.py:141] v80 trans = 0.0629
+01/27/2023:04:21:50,87 INF [ts2vec.py:128] e81 loss = 0.298518 recons = 0.2520 orth = 0.0000 trans = 0.0465
+01/27/2023:04:21:50,223 INF [ts2vec.py:141] v81 trans = 0.0647
+01/27/2023:04:21:50,729 INF [ts2vec.py:128] e82 loss = 0.301583 recons = 0.2524 orth = 0.0000 trans = 0.0492
+01/27/2023:04:21:50,864 INF [ts2vec.py:141] v82 trans = 0.0587
+01/27/2023:04:21:51,380 INF [ts2vec.py:128] e83 loss = 0.295922 recons = 0.2517 orth = 0.0000 trans = 0.0443
+01/27/2023:04:21:51,519 INF [ts2vec.py:141] v83 trans = 0.0571
+01/27/2023:04:21:52,27 INF [ts2vec.py:128] e84 loss = 0.301849 recons = 0.2527 orth = 0.0000 trans = 0.0491
+01/27/2023:04:21:52,163 INF [ts2vec.py:141] v84 trans = 0.0703
+01/27/2023:04:21:52,670 INF [ts2vec.py:128] e85 loss = 0.300054 recons = 0.2526 orth = 0.0000 trans = 0.0474
+01/27/2023:04:21:52,809 INF [ts2vec.py:141] v85 trans = 0.0627
+01/27/2023:04:21:53,317 INF [ts2vec.py:128] e86 loss = 0.299956 recons = 0.2522 orth = 0.0000 trans = 0.0477
+01/27/2023:04:21:53,453 INF [ts2vec.py:141] v86 trans = 0.0636
+01/27/2023:04:21:53,960 INF [ts2vec.py:128] e87 loss = 0.306050 recons = 0.2536 orth = 0.0000 trans = 0.0524
+01/27/2023:04:21:54,95 INF [ts2vec.py:141] v87 trans = 0.0640
+01/27/2023:04:21:54,608 INF [ts2vec.py:128] e88 loss = 0.297465 recons = 0.2526 orth = 0.0000 trans = 0.0449
+01/27/2023:04:21:54,745 INF [ts2vec.py:141] v88 trans = 0.0608
+01/27/2023:04:21:55,249 INF [ts2vec.py:128] e89 loss = 0.301237 recons = 0.2529 orth = 0.0000 trans = 0.0483
+01/27/2023:04:21:55,384 INF [ts2vec.py:141] v89 trans = 0.0619
+01/27/2023:04:21:55,887 INF [ts2vec.py:128] e90 loss = 0.299420 recons = 0.2520 orth = 0.0000 trans = 0.0474
+01/27/2023:04:21:56,22 INF [ts2vec.py:141] v90 trans = 0.0585
+01/27/2023:04:21:56,535 INF [ts2vec.py:128] e91 loss = 0.296361 recons = 0.2514 orth = 0.0000 trans = 0.0450
+01/27/2023:04:21:56,672 INF [ts2vec.py:141] v91 trans = 0.0584
+01/27/2023:04:21:57,181 INF [ts2vec.py:128] e92 loss = 0.299895 recons = 0.2516 orth = 0.0000 trans = 0.0483
+01/27/2023:04:21:57,317 INF [ts2vec.py:141] v92 trans = 0.0620
+01/27/2023:04:21:57,829 INF [ts2vec.py:128] e93 loss = 0.296857 recons = 0.2516 orth = 0.0000 trans = 0.0453
+01/27/2023:04:21:57,969 INF [ts2vec.py:141] v93 trans = 0.0533
+01/27/2023:04:21:58,475 INF [ts2vec.py:128] e94 loss = 0.300536 recons = 0.2508 orth = 0.0000 trans = 0.0497
+01/27/2023:04:21:58,611 INF [ts2vec.py:141] v94 trans = 0.0618
+01/27/2023:04:21:59,111 INF [ts2vec.py:128] e95 loss = 0.293260 recons = 0.2505 orth = 0.0000 trans = 0.0427
+01/27/2023:04:21:59,250 INF [ts2vec.py:141] v95 trans = 0.0623
+01/27/2023:04:21:59,763 INF [ts2vec.py:128] e96 loss = 0.292554 recons = 0.2514 orth = 0.0000 trans = 0.0412
+01/27/2023:04:21:59,899 INF [ts2vec.py:141] v96 trans = 0.0653
+01/27/2023:04:22:00,406 INF [ts2vec.py:128] e97 loss = 0.297562 recons = 0.2517 orth = 0.0000 trans = 0.0459
+01/27/2023:04:22:00,540 INF [ts2vec.py:141] v97 trans = 0.0567
+01/27/2023:04:22:01,46 INF [ts2vec.py:128] e98 loss = 0.295617 recons = 0.2508 orth = 0.0000 trans = 0.0448
+01/27/2023:04:22:01,183 INF [ts2vec.py:141] v98 trans = 0.0643
+01/27/2023:04:22:01,713 INF [ts2vec.py:128] e99 loss = 0.298176 recons = 0.2508 orth = 0.0000 trans = 0.0473
+01/27/2023:04:22:01,849 INF [ts2vec.py:141] v99 trans = 0.0630
+01/27/2023:04:22:02,361 INF [ts2vec.py:128] e100 loss = 0.295496 recons = 0.2507 orth = 0.0000 trans = 0.0448
+01/27/2023:04:22:02,499 INF [ts2vec.py:141] v100 trans = 0.0573
+01/27/2023:04:22:03,10 INF [ts2vec.py:128] e101 loss = 0.291368 recons = 0.2514 orth = 0.0000 trans = 0.0400
+01/27/2023:04:22:03,148 INF [ts2vec.py:141] v101 trans = 0.0714
+01/27/2023:04:22:03,664 INF [ts2vec.py:128] e102 loss = 0.294994 recons = 0.2525 orth = 0.0000 trans = 0.0425
+01/27/2023:04:22:03,801 INF [ts2vec.py:141] v102 trans = 0.0556
+01/27/2023:04:22:04,299 INF [ts2vec.py:128] e103 loss = 0.296511 recons = 0.2517 orth = 0.0000 trans = 0.0449
+01/27/2023:04:22:04,436 INF [ts2vec.py:141] v103 trans = 0.0593
+01/27/2023:04:22:04,942 INF [ts2vec.py:128] e104 loss = 0.290516 recons = 0.2514 orth = 0.0000 trans = 0.0391
+01/27/2023:04:22:05,77 INF [ts2vec.py:141] v104 trans = 0.0675
+01/27/2023:04:22:05,579 INF [ts2vec.py:128] e105 loss = 0.291485 recons = 0.2518 orth = 0.0000 trans = 0.0397
+01/27/2023:04:22:05,715 INF [ts2vec.py:141] v105 trans = 0.0618
+01/27/2023:04:22:06,223 INF [ts2vec.py:128] e106 loss = 0.294109 recons = 0.2508 orth = 0.0000 trans = 0.0433
+01/27/2023:04:22:06,359 INF [ts2vec.py:141] v106 trans = 0.0562
+01/27/2023:04:22:06,866 INF [ts2vec.py:128] e107 loss = 0.291313 recons = 0.2510 orth = 0.0000 trans = 0.0403
+01/27/2023:04:22:07,5 INF [ts2vec.py:141] v107 trans = 0.0553
+01/27/2023:04:22:07,505 INF [ts2vec.py:128] e108 loss = 0.299658 recons = 0.2505 orth = 0.0000 trans = 0.0491
+01/27/2023:04:22:07,641 INF [ts2vec.py:141] v108 trans = 0.0600
+01/27/2023:04:22:08,147 INF [ts2vec.py:128] e109 loss = 0.295949 recons = 0.2512 orth = 0.0000 trans = 0.0447
+01/27/2023:04:22:08,286 INF [ts2vec.py:141] v109 trans = 0.0637
+01/27/2023:04:22:08,796 INF [ts2vec.py:128] e110 loss = 0.294641 recons = 0.2517 orth = 0.0000 trans = 0.0429
+01/27/2023:04:22:08,932 INF [ts2vec.py:141] v110 trans = 0.0542
+01/27/2023:04:22:09,433 INF [ts2vec.py:128] e111 loss = 0.295845 recons = 0.2534 orth = 0.0000 trans = 0.0424
+01/27/2023:04:22:09,569 INF [ts2vec.py:141] v111 trans = 0.0553
+01/27/2023:04:22:10,80 INF [ts2vec.py:128] e112 loss = 0.292779 recons = 0.2531 orth = 0.0000 trans = 0.0397
+01/27/2023:04:22:10,217 INF [ts2vec.py:141] v112 trans = 0.0614
+01/27/2023:04:22:10,726 INF [ts2vec.py:128] e113 loss = 0.293400 recons = 0.2516 orth = 0.0000 trans = 0.0418
+01/27/2023:04:22:10,861 INF [ts2vec.py:141] v113 trans = 0.0611
+01/27/2023:04:22:11,384 INF [ts2vec.py:128] e114 loss = 0.298815 recons = 0.2513 orth = 0.0000 trans = 0.0475
+01/27/2023:04:22:11,523 INF [ts2vec.py:141] v114 trans = 0.0546
+01/27/2023:04:22:12,38 INF [ts2vec.py:128] e115 loss = 0.292589 recons = 0.2518 orth = 0.0000 trans = 0.0408
+01/27/2023:04:22:12,174 INF [ts2vec.py:141] v115 trans = 0.0545
+01/27/2023:04:22:12,687 INF [ts2vec.py:128] e116 loss = 0.292064 recons = 0.2511 orth = 0.0000 trans = 0.0409
+01/27/2023:04:22:12,824 INF [ts2vec.py:141] v116 trans = 0.0546
+01/27/2023:04:22:13,327 INF [ts2vec.py:128] e117 loss = 0.295623 recons = 0.2510 orth = 0.0000 trans = 0.0446
+01/27/2023:04:22:13,464 INF [ts2vec.py:141] v117 trans = 0.0559
+01/27/2023:04:22:13,964 INF [ts2vec.py:128] e118 loss = 0.291495 recons = 0.2511 orth = 0.0000 trans = 0.0404
+01/27/2023:04:22:14,100 INF [ts2vec.py:141] v118 trans = 0.0551
+01/27/2023:04:22:14,602 INF [ts2vec.py:128] e119 loss = 0.297426 recons = 0.2523 orth = 0.0000 trans = 0.0452
+01/27/2023:04:22:14,739 INF [ts2vec.py:141] v119 trans = 0.0601
+01/27/2023:04:22:15,246 INF [ts2vec.py:128] e120 loss = 0.294509 recons = 0.2509 orth = 0.0000 trans = 0.0436
+01/27/2023:04:22:15,392 INF [ts2vec.py:141] v120 trans = 0.0611
+01/27/2023:04:22:15,890 INF [ts2vec.py:128] e121 loss = 0.290710 recons = 0.2504 orth = 0.0000 trans = 0.0403
+01/27/2023:04:22:16,27 INF [ts2vec.py:141] v121 trans = 0.0585
+01/27/2023:04:22:16,529 INF [ts2vec.py:128] e122 loss = 0.292240 recons = 0.2512 orth = 0.0000 trans = 0.0410
+01/27/2023:04:22:16,666 INF [ts2vec.py:141] v122 trans = 0.0617
+01/27/2023:04:22:17,170 INF [ts2vec.py:128] e123 loss = 0.295499 recons = 0.2512 orth = 0.0000 trans = 0.0443
+01/27/2023:04:22:17,306 INF [ts2vec.py:141] v123 trans = 0.0550
+01/27/2023:04:22:17,814 INF [ts2vec.py:128] e124 loss = 0.293367 recons = 0.2514 orth = 0.0000 trans = 0.0419
+01/27/2023:04:22:17,950 INF [ts2vec.py:141] v124 trans = 0.0613
+01/27/2023:04:22:18,450 INF [ts2vec.py:128] e125 loss = 0.292619 recons = 0.2509 orth = 0.0000 trans = 0.0417
+01/27/2023:04:22:18,585 INF [ts2vec.py:141] v125 trans = 0.0581
+01/27/2023:04:22:19,85 INF [ts2vec.py:128] e126 loss = 0.295897 recons = 0.2517 orth = 0.0000 trans = 0.0442
+01/27/2023:04:22:19,221 INF [ts2vec.py:141] v126 trans = 0.0639
+01/27/2023:04:22:19,726 INF [ts2vec.py:128] e127 loss = 0.296020 recons = 0.2513 orth = 0.0000 trans = 0.0447
+01/27/2023:04:22:19,867 INF [ts2vec.py:141] v127 trans = 0.0573
+01/27/2023:04:22:20,375 INF [ts2vec.py:128] e128 loss = 0.295129 recons = 0.2514 orth = 0.0000 trans = 0.0437
+01/27/2023:04:22:20,512 INF [ts2vec.py:141] v128 trans = 0.0596
+01/27/2023:04:22:21,16 INF [ts2vec.py:128] e129 loss = 0.300759 recons = 0.2509 orth = 0.0000 trans = 0.0499
+01/27/2023:04:22:21,152 INF [ts2vec.py:141] v129 trans = 0.0582
+01/27/2023:04:22:21,680 INF [ts2vec.py:128] e130 loss = 0.294112 recons = 0.2511 orth = 0.0000 trans = 0.0430
+01/27/2023:04:22:21,817 INF [ts2vec.py:141] v130 trans = 0.0644
+01/27/2023:04:22:22,330 INF [ts2vec.py:128] e131 loss = 0.295427 recons = 0.2518 orth = 0.0000 trans = 0.0437
+01/27/2023:04:22:22,466 INF [ts2vec.py:141] v131 trans = 0.0527
+01/27/2023:04:22:22,961 INF [ts2vec.py:128] e132 loss = 0.292656 recons = 0.2508 orth = 0.0000 trans = 0.0419
+01/27/2023:04:22:23,96 INF [ts2vec.py:141] v132 trans = 0.0539
+01/27/2023:04:22:23,597 INF [ts2vec.py:128] e133 loss = 0.292043 recons = 0.2512 orth = 0.0000 trans = 0.0409
+01/27/2023:04:22:23,735 INF [ts2vec.py:141] v133 trans = 0.0530
+01/27/2023:04:22:24,234 INF [ts2vec.py:128] e134 loss = 0.291320 recons = 0.2507 orth = 0.0000 trans = 0.0406
+01/27/2023:04:22:24,370 INF [ts2vec.py:141] v134 trans = 0.0552
+01/27/2023:04:22:24,887 INF [ts2vec.py:128] e135 loss = 0.291985 recons = 0.2518 orth = 0.0000 trans = 0.0402
+01/27/2023:04:22:25,24 INF [ts2vec.py:141] v135 trans = 0.0540
+01/27/2023:04:22:25,536 INF [ts2vec.py:128] e136 loss = 0.288424 recons = 0.2496 orth = 0.0000 trans = 0.0389
+01/27/2023:04:22:25,674 INF [ts2vec.py:141] v136 trans = 0.0599
+01/27/2023:04:22:26,186 INF [ts2vec.py:128] e137 loss = 0.290103 recons = 0.2513 orth = 0.0000 trans = 0.0388
+01/27/2023:04:22:26,323 INF [ts2vec.py:141] v137 trans = 0.0518
+01/27/2023:04:22:26,829 INF [ts2vec.py:128] e138 loss = 0.289466 recons = 0.2515 orth = 0.0000 trans = 0.0380
+01/27/2023:04:22:26,967 INF [ts2vec.py:141] v138 trans = 0.0556
+01/27/2023:04:22:27,485 INF [ts2vec.py:128] e139 loss = 0.294628 recons = 0.2513 orth = 0.0000 trans = 0.0433
+01/27/2023:04:22:27,624 INF [ts2vec.py:141] v139 trans = 0.0556
+01/27/2023:04:22:28,129 INF [ts2vec.py:128] e140 loss = 0.291404 recons = 0.2510 orth = 0.0000 trans = 0.0404
+01/27/2023:04:22:28,265 INF [ts2vec.py:141] v140 trans = 0.0629
+01/27/2023:04:22:28,776 INF [ts2vec.py:128] e141 loss = 0.293617 recons = 0.2507 orth = 0.0000 trans = 0.0430
+01/27/2023:04:22:28,916 INF [ts2vec.py:141] v141 trans = 0.0640
+01/27/2023:04:22:29,421 INF [ts2vec.py:128] e142 loss = 0.295890 recons = 0.2504 orth = 0.0000 trans = 0.0455
+01/27/2023:04:22:29,558 INF [ts2vec.py:141] v142 trans = 0.0547
+01/27/2023:04:22:30,63 INF [ts2vec.py:128] e143 loss = 0.288352 recons = 0.2508 orth = 0.0000 trans = 0.0375
+01/27/2023:04:22:30,200 INF [ts2vec.py:141] v143 trans = 0.0544
+01/27/2023:04:22:30,704 INF [ts2vec.py:128] e144 loss = 0.292432 recons = 0.2500 orth = 0.0000 trans = 0.0424
+01/27/2023:04:22:30,839 INF [ts2vec.py:141] v144 trans = 0.0568
+01/27/2023:04:22:31,355 INF [ts2vec.py:128] e145 loss = 0.287114 recons = 0.2505 orth = 0.0000 trans = 0.0366
+01/27/2023:04:22:31,494 INF [ts2vec.py:141] v145 trans = 0.0559
+01/27/2023:04:22:32,11 INF [ts2vec.py:128] e146 loss = 0.292141 recons = 0.2504 orth = 0.0000 trans = 0.0418
+01/27/2023:04:22:32,144 INF [ts2vec.py:141] v146 trans = 0.0579
+01/27/2023:04:22:32,649 INF [ts2vec.py:128] e147 loss = 0.291592 recons = 0.2498 orth = 0.0000 trans = 0.0418
+01/27/2023:04:22:32,784 INF [ts2vec.py:141] v147 trans = 0.0614
+01/27/2023:04:22:33,299 INF [ts2vec.py:128] e148 loss = 0.287375 recons = 0.2506 orth = 0.0000 trans = 0.0368
+01/27/2023:04:22:33,439 INF [ts2vec.py:141] v148 trans = 0.0598
+01/27/2023:04:22:33,946 INF [ts2vec.py:128] e149 loss = 0.286863 recons = 0.2506 orth = 0.0000 trans = 0.0363
+01/27/2023:04:22:34,81 INF [ts2vec.py:141] v149 trans = 0.0614
+01/27/2023:04:22:34,592 INF [ts2vec.py:128] e150 loss = 0.300315 recons = 0.2516 orth = 0.0000 trans = 0.0487
+01/27/2023:04:22:34,728 INF [ts2vec.py:141] v150 trans = 0.0556
+01/27/2023:04:22:35,232 INF [ts2vec.py:128] e151 loss = 0.291786 recons = 0.2509 orth = 0.0000 trans = 0.0409
+01/27/2023:04:22:35,369 INF [ts2vec.py:141] v151 trans = 0.0569
+01/27/2023:04:22:35,875 INF [ts2vec.py:128] e152 loss = 0.296355 recons = 0.2504 orth = 0.0000 trans = 0.0460
+01/27/2023:04:22:36,12 INF [ts2vec.py:141] v152 trans = 0.0611
+01/27/2023:04:22:36,532 INF [ts2vec.py:128] e153 loss = 0.297442 recons = 0.2512 orth = 0.0000 trans = 0.0463
+01/27/2023:04:22:36,668 INF [ts2vec.py:141] v153 trans = 0.0613
+01/27/2023:04:22:37,176 INF [ts2vec.py:128] e154 loss = 0.290969 recons = 0.2502 orth = 0.0000 trans = 0.0408
+01/27/2023:04:22:37,311 INF [ts2vec.py:141] v154 trans = 0.0607
+01/27/2023:04:22:37,814 INF [ts2vec.py:128] e155 loss = 0.296339 recons = 0.2510 orth = 0.0000 trans = 0.0454
+01/27/2023:04:22:37,951 INF [ts2vec.py:141] v155 trans = 0.0580
+01/27/2023:04:22:38,453 INF [ts2vec.py:128] e156 loss = 0.288427 recons = 0.2513 orth = 0.0000 trans = 0.0371
+01/27/2023:04:22:38,589 INF [ts2vec.py:141] v156 trans = 0.0550
+01/27/2023:04:22:39,104 INF [ts2vec.py:128] e157 loss = 0.292878 recons = 0.2503 orth = 0.0000 trans = 0.0425
+01/27/2023:04:22:39,239 INF [ts2vec.py:141] v157 trans = 0.0587
+01/27/2023:04:22:39,748 INF [ts2vec.py:128] e158 loss = 0.291073 recons = 0.2511 orth = 0.0000 trans = 0.0399
+01/27/2023:04:22:39,885 INF [ts2vec.py:141] v158 trans = 0.0506
+01/27/2023:04:22:40,386 INF [ts2vec.py:128] e159 loss = 0.284430 recons = 0.2497 orth = 0.0000 trans = 0.0347
+01/27/2023:04:22:40,524 INF [ts2vec.py:141] v159 trans = 0.0581
+01/27/2023:04:22:41,27 INF [ts2vec.py:128] e160 loss = 0.289320 recons = 0.2503 orth = 0.0000 trans = 0.0390
+01/27/2023:04:22:41,163 INF [ts2vec.py:141] v160 trans = 0.0546
+01/27/2023:04:22:41,688 INF [ts2vec.py:128] e161 loss = 0.290650 recons = 0.2507 orth = 0.0000 trans = 0.0400
+01/27/2023:04:22:41,827 INF [ts2vec.py:141] v161 trans = 0.0520
+01/27/2023:04:22:42,330 INF [ts2vec.py:128] e162 loss = 0.294303 recons = 0.2509 orth = 0.0000 trans = 0.0434
+01/27/2023:04:22:42,469 INF [ts2vec.py:141] v162 trans = 0.0552
+01/27/2023:04:22:42,972 INF [ts2vec.py:128] e163 loss = 0.288852 recons = 0.2502 orth = 0.0000 trans = 0.0386
+01/27/2023:04:22:43,110 INF [ts2vec.py:141] v163 trans = 0.0527
+01/27/2023:04:22:43,613 INF [ts2vec.py:128] e164 loss = 0.287624 recons = 0.2504 orth = 0.0000 trans = 0.0373
+01/27/2023:04:22:43,749 INF [ts2vec.py:141] v164 trans = 0.0506
+01/27/2023:04:22:44,265 INF [ts2vec.py:128] e165 loss = 0.296002 recons = 0.2522 orth = 0.0000 trans = 0.0438
+01/27/2023:04:22:44,402 INF [ts2vec.py:141] v165 trans = 0.0607
+01/27/2023:04:22:44,907 INF [ts2vec.py:128] e166 loss = 0.293162 recons = 0.2530 orth = 0.0000 trans = 0.0401
+01/27/2023:04:22:45,41 INF [ts2vec.py:141] v166 trans = 0.0554
+01/27/2023:04:22:45,548 INF [ts2vec.py:128] e167 loss = 0.295625 recons = 0.2510 orth = 0.0000 trans = 0.0447
+01/27/2023:04:22:45,684 INF [ts2vec.py:141] v167 trans = 0.0561
+01/27/2023:04:22:46,187 INF [ts2vec.py:128] e168 loss = 0.296816 recons = 0.2518 orth = 0.0000 trans = 0.0450
+01/27/2023:04:22:46,324 INF [ts2vec.py:141] v168 trans = 0.0525
+01/27/2023:04:22:46,836 INF [ts2vec.py:128] e169 loss = 0.296940 recons = 0.2510 orth = 0.0000 trans = 0.0459
+01/27/2023:04:22:46,972 INF [ts2vec.py:141] v169 trans = 0.0546
+01/27/2023:04:22:47,478 INF [ts2vec.py:128] e170 loss = 0.295557 recons = 0.2503 orth = 0.0000 trans = 0.0453
+01/27/2023:04:22:47,615 INF [ts2vec.py:141] v170 trans = 0.0544
+01/27/2023:04:22:48,127 INF [ts2vec.py:128] e171 loss = 0.295233 recons = 0.2501 orth = 0.0000 trans = 0.0451
+01/27/2023:04:22:48,262 INF [ts2vec.py:141] v171 trans = 0.0584
+01/27/2023:04:22:48,770 INF [ts2vec.py:128] e172 loss = 0.296980 recons = 0.2499 orth = 0.0000 trans = 0.0471
+01/27/2023:04:22:48,908 INF [ts2vec.py:141] v172 trans = 0.0598
+01/27/2023:04:22:49,413 INF [ts2vec.py:128] e173 loss = 0.290991 recons = 0.2502 orth = 0.0000 trans = 0.0408
+01/27/2023:04:22:49,551 INF [ts2vec.py:141] v173 trans = 0.0587
+01/27/2023:04:22:50,60 INF [ts2vec.py:128] e174 loss = 0.296144 recons = 0.2502 orth = 0.0000 trans = 0.0459
+01/27/2023:04:22:50,195 INF [ts2vec.py:141] v174 trans = 0.0535
+01/27/2023:04:22:50,712 INF [ts2vec.py:128] e175 loss = 0.294367 recons = 0.2506 orth = 0.0000 trans = 0.0437
+01/27/2023:04:22:50,857 INF [ts2vec.py:141] v175 trans = 0.0564
+01/27/2023:04:22:51,378 INF [ts2vec.py:128] e176 loss = 0.289630 recons = 0.2499 orth = 0.0000 trans = 0.0397
+01/27/2023:04:22:51,525 INF [ts2vec.py:141] v176 trans = 0.0482
+01/27/2023:04:22:52,40 INF [ts2vec.py:128] e177 loss = 0.289195 recons = 0.2499 orth = 0.0000 trans = 0.0393
+01/27/2023:04:22:52,175 INF [ts2vec.py:141] v177 trans = 0.0576
+01/27/2023:04:22:52,684 INF [ts2vec.py:128] e178 loss = 0.292877 recons = 0.2497 orth = 0.0000 trans = 0.0432
+01/27/2023:04:22:52,820 INF [ts2vec.py:141] v178 trans = 0.0533
+01/27/2023:04:22:53,327 INF [ts2vec.py:128] e179 loss = 0.289316 recons = 0.2507 orth = 0.0000 trans = 0.0387
+01/27/2023:04:22:53,463 INF [ts2vec.py:141] v179 trans = 0.0564
+01/27/2023:04:22:53,967 INF [ts2vec.py:128] e180 loss = 0.292688 recons = 0.2512 orth = 0.0000 trans = 0.0415
+01/27/2023:04:22:54,102 INF [ts2vec.py:141] v180 trans = 0.0572
+01/27/2023:04:22:54,605 INF [ts2vec.py:128] e181 loss = 0.286380 recons = 0.2508 orth = 0.0000 trans = 0.0356
+01/27/2023:04:22:54,742 INF [ts2vec.py:141] v181 trans = 0.0559
+01/27/2023:04:22:55,254 INF [ts2vec.py:128] e182 loss = 0.286155 recons = 0.2505 orth = 0.0000 trans = 0.0357
+01/27/2023:04:22:55,391 INF [ts2vec.py:141] v182 trans = 0.0555
+01/27/2023:04:22:55,901 INF [ts2vec.py:128] e183 loss = 0.295836 recons = 0.2507 orth = 0.0000 trans = 0.0451
+01/27/2023:04:22:56,38 INF [ts2vec.py:141] v183 trans = 0.0634
+01/27/2023:04:22:56,548 INF [ts2vec.py:128] e184 loss = 0.295665 recons = 0.2503 orth = 0.0000 trans = 0.0453
+01/27/2023:04:22:56,684 INF [ts2vec.py:141] v184 trans = 0.0594
+01/27/2023:04:22:57,190 INF [ts2vec.py:128] e185 loss = 0.287841 recons = 0.2499 orth = 0.0000 trans = 0.0379
+01/27/2023:04:22:57,327 INF [ts2vec.py:141] v185 trans = 0.0550
+01/27/2023:04:22:57,833 INF [ts2vec.py:128] e186 loss = 0.282404 recons = 0.2492 orth = 0.0000 trans = 0.0332
+01/27/2023:04:22:57,969 INF [ts2vec.py:141] v186 trans = 0.0519
+01/27/2023:04:22:58,477 INF [ts2vec.py:128] e187 loss = 0.283914 recons = 0.2495 orth = 0.0000 trans = 0.0344
+01/27/2023:04:22:58,613 INF [ts2vec.py:141] v187 trans = 0.0563
+01/27/2023:04:22:59,115 INF [ts2vec.py:128] e188 loss = 0.294208 recons = 0.2500 orth = 0.0000 trans = 0.0442
+01/27/2023:04:22:59,252 INF [ts2vec.py:141] v188 trans = 0.0564
+01/27/2023:04:22:59,771 INF [ts2vec.py:128] e189 loss = 0.290062 recons = 0.2504 orth = 0.0000 trans = 0.0397
+01/27/2023:04:22:59,908 INF [ts2vec.py:141] v189 trans = 0.0604
+01/27/2023:04:23:00,420 INF [ts2vec.py:128] e190 loss = 0.287058 recons = 0.2503 orth = 0.0000 trans = 0.0368
+01/27/2023:04:23:00,562 INF [ts2vec.py:141] v190 trans = 0.0509
+01/27/2023:04:23:01,64 INF [ts2vec.py:128] e191 loss = 0.290534 recons = 0.2500 orth = 0.0000 trans = 0.0406
+01/27/2023:04:23:01,202 INF [ts2vec.py:141] v191 trans = 0.0569
+01/27/2023:04:23:01,734 INF [ts2vec.py:128] e192 loss = 0.288933 recons = 0.2493 orth = 0.0000 trans = 0.0396
+01/27/2023:04:23:01,868 INF [ts2vec.py:141] v192 trans = 0.0553
+01/27/2023:04:23:02,370 INF [ts2vec.py:128] e193 loss = 0.288608 recons = 0.2510 orth = 0.0000 trans = 0.0376
+01/27/2023:04:23:02,506 INF [ts2vec.py:141] v193 trans = 0.0568
+01/27/2023:04:23:03,13 INF [ts2vec.py:128] e194 loss = 0.290783 recons = 0.2503 orth = 0.0000 trans = 0.0405
+01/27/2023:04:23:03,149 INF [ts2vec.py:141] v194 trans = 0.0499
+01/27/2023:04:23:03,660 INF [ts2vec.py:128] e195 loss = 0.286221 recons = 0.2503 orth = 0.0000 trans = 0.0359
+01/27/2023:04:23:03,797 INF [ts2vec.py:141] v195 trans = 0.0490
+01/27/2023:04:23:04,304 INF [ts2vec.py:128] e196 loss = 0.290492 recons = 0.2499 orth = 0.0000 trans = 0.0406
+01/27/2023:04:23:04,444 INF [ts2vec.py:141] v196 trans = 0.0478
+01/27/2023:04:23:04,944 INF [ts2vec.py:128] e197 loss = 0.285533 recons = 0.2498 orth = 0.0000 trans = 0.0357
+01/27/2023:04:23:05,79 INF [ts2vec.py:141] v197 trans = 0.0556
+01/27/2023:04:23:05,588 INF [ts2vec.py:128] e198 loss = 0.286869 recons = 0.2502 orth = 0.0000 trans = 0.0367
+01/27/2023:04:23:05,727 INF [ts2vec.py:141] v198 trans = 0.0514
+01/27/2023:04:23:06,230 INF [ts2vec.py:128] e199 loss = 0.291156 recons = 0.2502 orth = 0.0000 trans = 0.0410
+01/27/2023:04:23:06,366 INF [ts2vec.py:141] v199 trans = 0.0562
+01/27/2023:04:23:06,876 INF [ts2vec.py:128] e200 loss = 0.290961 recons = 0.2500 orth = 0.0000 trans = 0.0410
+01/27/2023:04:23:07,14 INF [ts2vec.py:141] v200 trans = 0.0469
+01/27/2023:04:23:07,516 INF [ts2vec.py:128] e201 loss = 0.292775 recons = 0.2498 orth = 0.0000 trans = 0.0430
+01/27/2023:04:23:07,652 INF [ts2vec.py:141] v201 trans = 0.0503
+01/27/2023:04:23:08,156 INF [ts2vec.py:128] e202 loss = 0.293869 recons = 0.2500 orth = 0.0000 trans = 0.0439
+01/27/2023:04:23:08,292 INF [ts2vec.py:141] v202 trans = 0.0524
+01/27/2023:04:23:08,791 INF [ts2vec.py:128] e203 loss = 0.290258 recons = 0.2498 orth = 0.0000 trans = 0.0404
+01/27/2023:04:23:08,927 INF [ts2vec.py:141] v203 trans = 0.0594
+01/27/2023:04:23:09,438 INF [ts2vec.py:128] e204 loss = 0.290560 recons = 0.2510 orth = 0.0000 trans = 0.0395
+01/27/2023:04:23:09,574 INF [ts2vec.py:141] v204 trans = 0.0555
+01/27/2023:04:23:10,73 INF [ts2vec.py:128] e205 loss = 0.289911 recons = 0.2502 orth = 0.0000 trans = 0.0397
+01/27/2023:04:23:10,211 INF [ts2vec.py:141] v205 trans = 0.0591
+01/27/2023:04:23:10,720 INF [ts2vec.py:128] e206 loss = 0.288804 recons = 0.2498 orth = 0.0000 trans = 0.0390
+01/27/2023:04:23:10,857 INF [ts2vec.py:141] v206 trans = 0.0541
+01/27/2023:04:23:11,376 INF [ts2vec.py:128] e207 loss = 0.286012 recons = 0.2499 orth = 0.0000 trans = 0.0362
+01/27/2023:04:23:11,517 INF [ts2vec.py:141] v207 trans = 0.0568
+01/27/2023:04:23:12,31 INF [ts2vec.py:128] e208 loss = 0.283634 recons = 0.2493 orth = 0.0000 trans = 0.0343
+01/27/2023:04:23:12,169 INF [ts2vec.py:141] v208 trans = 0.0568
+01/27/2023:04:23:12,672 INF [ts2vec.py:128] e209 loss = 0.285823 recons = 0.2495 orth = 0.0000 trans = 0.0363
+01/27/2023:04:23:12,808 INF [ts2vec.py:141] v209 trans = 0.0577
+01/27/2023:04:23:13,315 INF [ts2vec.py:128] e210 loss = 0.287264 recons = 0.2496 orth = 0.0000 trans = 0.0377
+01/27/2023:04:23:13,452 INF [ts2vec.py:141] v210 trans = 0.0546
+01/27/2023:04:23:13,954 INF [ts2vec.py:128] e211 loss = 0.288183 recons = 0.2496 orth = 0.0000 trans = 0.0386
+01/27/2023:04:23:14,90 INF [ts2vec.py:141] v211 trans = 0.0562
+01/27/2023:04:23:14,599 INF [ts2vec.py:128] e212 loss = 0.288062 recons = 0.2495 orth = 0.0000 trans = 0.0385
+01/27/2023:04:23:14,736 INF [ts2vec.py:141] v212 trans = 0.0532
+01/27/2023:04:23:15,236 INF [ts2vec.py:128] e213 loss = 0.288124 recons = 0.2499 orth = 0.0000 trans = 0.0382
+01/27/2023:04:23:15,374 INF [ts2vec.py:141] v213 trans = 0.0504
+01/27/2023:04:23:15,881 INF [ts2vec.py:128] e214 loss = 0.287226 recons = 0.2497 orth = 0.0000 trans = 0.0376
+01/27/2023:04:23:16,16 INF [ts2vec.py:141] v214 trans = 0.0571
+01/27/2023:04:23:16,519 INF [ts2vec.py:128] e215 loss = 0.289260 recons = 0.2496 orth = 0.0000 trans = 0.0397
+01/27/2023:04:23:16,656 INF [ts2vec.py:141] v215 trans = 0.0604
+01/27/2023:04:23:17,166 INF [ts2vec.py:128] e216 loss = 0.292482 recons = 0.2506 orth = 0.0000 trans = 0.0419
+01/27/2023:04:23:17,304 INF [ts2vec.py:141] v216 trans = 0.0501
+01/27/2023:04:23:17,808 INF [ts2vec.py:128] e217 loss = 0.283988 recons = 0.2497 orth = 0.0000 trans = 0.0343
+01/27/2023:04:23:17,949 INF [ts2vec.py:141] v217 trans = 0.0594
+01/27/2023:04:23:18,458 INF [ts2vec.py:128] e218 loss = 0.287350 recons = 0.2501 orth = 0.0000 trans = 0.0373
+01/27/2023:04:23:18,594 INF [ts2vec.py:141] v218 trans = 0.0543
+01/27/2023:04:23:19,98 INF [ts2vec.py:128] e219 loss = 0.292534 recons = 0.2505 orth = 0.0000 trans = 0.0421
+01/27/2023:04:23:19,233 INF [ts2vec.py:141] v219 trans = 0.0628
+01/27/2023:04:23:19,738 INF [ts2vec.py:128] e220 loss = 0.288939 recons = 0.2497 orth = 0.0000 trans = 0.0393
+01/27/2023:04:23:19,874 INF [ts2vec.py:141] v220 trans = 0.0546
+01/27/2023:04:23:20,384 INF [ts2vec.py:128] e221 loss = 0.284401 recons = 0.2489 orth = 0.0000 trans = 0.0355
+01/27/2023:04:23:20,521 INF [ts2vec.py:141] v221 trans = 0.0575
+01/27/2023:04:23:21,31 INF [ts2vec.py:128] e222 loss = 0.291540 recons = 0.2487 orth = 0.0000 trans = 0.0428
+01/27/2023:04:23:21,166 INF [ts2vec.py:141] v222 trans = 0.0610
+01/27/2023:04:23:21,690 INF [ts2vec.py:128] e223 loss = 0.283308 recons = 0.2501 orth = 0.0000 trans = 0.0332
+01/27/2023:04:23:21,827 INF [ts2vec.py:141] v223 trans = 0.0605
+01/27/2023:04:23:22,331 INF [ts2vec.py:128] e224 loss = 0.290457 recons = 0.2526 orth = 0.0000 trans = 0.0378
+01/27/2023:04:23:22,472 INF [ts2vec.py:141] v224 trans = 0.0522
+01/27/2023:04:23:22,972 INF [ts2vec.py:128] e225 loss = 0.288385 recons = 0.2503 orth = 0.0000 trans = 0.0381
+01/27/2023:04:23:23,108 INF [ts2vec.py:141] v225 trans = 0.0525
+01/27/2023:04:23:23,615 INF [ts2vec.py:128] e226 loss = 0.290306 recons = 0.2503 orth = 0.0000 trans = 0.0400
+01/27/2023:04:23:23,751 INF [ts2vec.py:141] v226 trans = 0.0579
+01/27/2023:04:23:24,259 INF [ts2vec.py:128] e227 loss = 0.283501 recons = 0.2496 orth = 0.0000 trans = 0.0339
+01/27/2023:04:23:24,396 INF [ts2vec.py:141] v227 trans = 0.0580
+01/27/2023:04:23:24,905 INF [ts2vec.py:128] e228 loss = 0.287996 recons = 0.2496 orth = 0.0000 trans = 0.0384
+01/27/2023:04:23:25,46 INF [ts2vec.py:141] v228 trans = 0.0552
+01/27/2023:04:23:25,556 INF [ts2vec.py:128] e229 loss = 0.288233 recons = 0.2497 orth = 0.0000 trans = 0.0385
+01/27/2023:04:23:25,693 INF [ts2vec.py:141] v229 trans = 0.0542
+01/27/2023:04:23:26,196 INF [ts2vec.py:128] e230 loss = 0.287751 recons = 0.2493 orth = 0.0000 trans = 0.0385
+01/27/2023:04:23:26,333 INF [ts2vec.py:141] v230 trans = 0.0522
+01/27/2023:04:23:26,834 INF [ts2vec.py:128] e231 loss = 0.285439 recons = 0.2499 orth = 0.0000 trans = 0.0356
+01/27/2023:04:23:26,970 INF [ts2vec.py:141] v231 trans = 0.0545
+01/27/2023:04:23:27,483 INF [ts2vec.py:128] e232 loss = 0.289296 recons = 0.2500 orth = 0.0000 trans = 0.0393
+01/27/2023:04:23:27,622 INF [ts2vec.py:141] v232 trans = 0.0507
+01/27/2023:04:23:28,132 INF [ts2vec.py:128] e233 loss = 0.291035 recons = 0.2491 orth = 0.0000 trans = 0.0419
+01/27/2023:04:23:28,267 INF [ts2vec.py:141] v233 trans = 0.0600
+01/27/2023:04:23:28,772 INF [ts2vec.py:128] e234 loss = 0.283478 recons = 0.2498 orth = 0.0000 trans = 0.0337
+01/27/2023:04:23:28,909 INF [ts2vec.py:141] v234 trans = 0.0596
+01/27/2023:04:23:29,413 INF [ts2vec.py:128] e235 loss = 0.286652 recons = 0.2495 orth = 0.0000 trans = 0.0372
+01/27/2023:04:23:29,549 INF [ts2vec.py:141] v235 trans = 0.0566
+01/27/2023:04:23:30,50 INF [ts2vec.py:128] e236 loss = 0.284821 recons = 0.2494 orth = 0.0000 trans = 0.0354
+01/27/2023:04:23:30,187 INF [ts2vec.py:141] v236 trans = 0.0551
+01/27/2023:04:23:30,695 INF [ts2vec.py:128] e237 loss = 0.287848 recons = 0.2491 orth = 0.0000 trans = 0.0387
+01/27/2023:04:23:30,830 INF [ts2vec.py:141] v237 trans = 0.0571
+01/27/2023:04:23:31,345 INF [ts2vec.py:128] e238 loss = 0.287069 recons = 0.2497 orth = 0.0000 trans = 0.0374
+01/27/2023:04:23:31,483 INF [ts2vec.py:141] v238 trans = 0.0520
+01/27/2023:04:23:31,991 INF [ts2vec.py:128] e239 loss = 0.292483 recons = 0.2496 orth = 0.0000 trans = 0.0429
+01/27/2023:04:23:32,128 INF [ts2vec.py:141] v239 trans = 0.0542
+01/27/2023:04:23:32,639 INF [ts2vec.py:128] e240 loss = 0.281660 recons = 0.2492 orth = 0.0000 trans = 0.0325
+01/27/2023:04:23:32,776 INF [ts2vec.py:141] v240 trans = 0.0598
+01/27/2023:04:23:33,281 INF [ts2vec.py:128] e241 loss = 0.287293 recons = 0.2492 orth = 0.0000 trans = 0.0381
+01/27/2023:04:23:33,418 INF [ts2vec.py:141] v241 trans = 0.0554
+01/27/2023:04:23:33,917 INF [ts2vec.py:128] e242 loss = 0.282998 recons = 0.2489 orth = 0.0000 trans = 0.0341
+01/27/2023:04:23:34,55 INF [ts2vec.py:141] v242 trans = 0.0597
+01/27/2023:04:23:34,561 INF [ts2vec.py:128] e243 loss = 0.282771 recons = 0.2496 orth = 0.0000 trans = 0.0332
+01/27/2023:04:23:34,698 INF [ts2vec.py:141] v243 trans = 0.0527
+01/27/2023:04:23:35,201 INF [ts2vec.py:128] e244 loss = 0.285762 recons = 0.2494 orth = 0.0000 trans = 0.0363
+01/27/2023:04:23:35,338 INF [ts2vec.py:141] v244 trans = 0.0509
+01/27/2023:04:23:35,844 INF [ts2vec.py:128] e245 loss = 0.285905 recons = 0.2494 orth = 0.0000 trans = 0.0366
+01/27/2023:04:23:35,980 INF [ts2vec.py:141] v245 trans = 0.0549
+01/27/2023:04:23:36,489 INF [ts2vec.py:128] e246 loss = 0.284102 recons = 0.2498 orth = 0.0000 trans = 0.0343
+01/27/2023:04:23:36,625 INF [ts2vec.py:141] v246 trans = 0.0543
+01/27/2023:04:23:37,152 INF [ts2vec.py:128] e247 loss = 0.280687 recons = 0.2492 orth = 0.0000 trans = 0.0315
+01/27/2023:04:23:37,290 INF [ts2vec.py:141] v247 trans = 0.0534
+01/27/2023:04:23:37,796 INF [ts2vec.py:128] e248 loss = 0.289786 recons = 0.2488 orth = 0.0000 trans = 0.0410
+01/27/2023:04:23:37,934 INF [ts2vec.py:141] v248 trans = 0.0569
+01/27/2023:04:23:38,443 INF [ts2vec.py:128] e249 loss = 0.288161 recons = 0.2495 orth = 0.0000 trans = 0.0387
+01/27/2023:04:23:38,582 INF [ts2vec.py:141] v249 trans = 0.0571
+01/27/2023:04:23:39,88 INF [ts2vec.py:128] e250 loss = 0.286942 recons = 0.2497 orth = 0.0000 trans = 0.0372
+01/27/2023:04:23:39,224 INF [ts2vec.py:141] v250 trans = 0.0556
+01/27/2023:04:23:39,729 INF [ts2vec.py:128] e251 loss = 0.286913 recons = 0.2493 orth = 0.0000 trans = 0.0376
+01/27/2023:04:23:39,867 INF [ts2vec.py:141] v251 trans = 0.0594
+01/27/2023:04:23:40,374 INF [ts2vec.py:128] e252 loss = 0.285063 recons = 0.2486 orth = 0.0000 trans = 0.0364
+01/27/2023:04:23:40,512 INF [ts2vec.py:141] v252 trans = 0.0446
+01/27/2023:04:23:41,19 INF [ts2vec.py:128] e253 loss = 0.281601 recons = 0.2489 orth = 0.0000 trans = 0.0327
+01/27/2023:04:23:41,156 INF [ts2vec.py:141] v253 trans = 0.0560
+01/27/2023:04:23:41,688 INF [ts2vec.py:128] e254 loss = 0.284899 recons = 0.2525 orth = 0.0000 trans = 0.0324
+01/27/2023:04:23:41,823 INF [ts2vec.py:141] v254 trans = 0.0611
+01/27/2023:04:23:42,328 INF [ts2vec.py:128] e255 loss = 0.281387 recons = 0.2495 orth = 0.0000 trans = 0.0319
+01/27/2023:04:23:42,464 INF [ts2vec.py:141] v255 trans = 0.0572
+01/27/2023:04:23:42,973 INF [ts2vec.py:128] e256 loss = 0.282913 recons = 0.2496 orth = 0.0000 trans = 0.0333
+01/27/2023:04:23:43,110 INF [ts2vec.py:141] v256 trans = 0.0535
+01/27/2023:04:23:43,624 INF [ts2vec.py:128] e257 loss = 0.286312 recons = 0.2487 orth = 0.0000 trans = 0.0376
+01/27/2023:04:23:43,759 INF [ts2vec.py:141] v257 trans = 0.0550
+01/27/2023:04:23:44,267 INF [ts2vec.py:128] e258 loss = 0.279612 recons = 0.2493 orth = 0.0000 trans = 0.0303
+01/27/2023:04:23:44,404 INF [ts2vec.py:141] v258 trans = 0.0563
+01/27/2023:04:23:44,909 INF [ts2vec.py:128] e259 loss = 0.284031 recons = 0.2501 orth = 0.0000 trans = 0.0340
+01/27/2023:04:23:45,47 INF [ts2vec.py:141] v259 trans = 0.0508
+01/27/2023:04:23:45,558 INF [ts2vec.py:128] e260 loss = 0.287695 recons = 0.2497 orth = 0.0000 trans = 0.0380
+01/27/2023:04:23:45,698 INF [ts2vec.py:141] v260 trans = 0.0505
+01/27/2023:04:23:46,196 INF [ts2vec.py:128] e261 loss = 0.281044 recons = 0.2488 orth = 0.0000 trans = 0.0323
+01/27/2023:04:23:46,333 INF [ts2vec.py:141] v261 trans = 0.0559
+01/27/2023:04:23:46,842 INF [ts2vec.py:128] e262 loss = 0.287385 recons = 0.2504 orth = 0.0000 trans = 0.0370
+01/27/2023:04:23:46,977 INF [ts2vec.py:141] v262 trans = 0.0556
+01/27/2023:04:23:47,480 INF [ts2vec.py:128] e263 loss = 0.287390 recons = 0.2496 orth = 0.0000 trans = 0.0378
+01/27/2023:04:23:47,616 INF [ts2vec.py:141] v263 trans = 0.0628
+01/27/2023:04:23:48,131 INF [ts2vec.py:128] e264 loss = 0.283734 recons = 0.2493 orth = 0.0000 trans = 0.0344
+01/27/2023:04:23:48,268 INF [ts2vec.py:141] v264 trans = 0.0496
+01/27/2023:04:23:48,773 INF [ts2vec.py:128] e265 loss = 0.286782 recons = 0.2494 orth = 0.0000 trans = 0.0374
+01/27/2023:04:23:48,914 INF [ts2vec.py:141] v265 trans = 0.0526
+01/27/2023:04:23:49,418 INF [ts2vec.py:128] e266 loss = 0.287899 recons = 0.2492 orth = 0.0000 trans = 0.0387
+01/27/2023:04:23:49,553 INF [ts2vec.py:141] v266 trans = 0.0492
+01/27/2023:04:23:50,60 INF [ts2vec.py:128] e267 loss = 0.283514 recons = 0.2490 orth = 0.0000 trans = 0.0346
+01/27/2023:04:23:50,197 INF [ts2vec.py:141] v267 trans = 0.0546
+01/27/2023:04:23:50,706 INF [ts2vec.py:128] e268 loss = 0.284645 recons = 0.2490 orth = 0.0000 trans = 0.0357
+01/27/2023:04:23:50,842 INF [ts2vec.py:141] v268 trans = 0.0564
+01/27/2023:04:23:51,365 INF [ts2vec.py:128] e269 loss = 0.284720 recons = 0.2496 orth = 0.0000 trans = 0.0352
+01/27/2023:04:23:51,502 INF [ts2vec.py:141] v269 trans = 0.0560
+01/27/2023:04:23:52,16 INF [ts2vec.py:128] e270 loss = 0.281828 recons = 0.2492 orth = 0.0000 trans = 0.0327
+01/27/2023:04:23:52,152 INF [ts2vec.py:141] v270 trans = 0.0531
+01/27/2023:04:23:52,662 INF [ts2vec.py:128] e271 loss = 0.285184 recons = 0.2486 orth = 0.0000 trans = 0.0366
+01/27/2023:04:23:52,797 INF [ts2vec.py:141] v271 trans = 0.0509
+01/27/2023:04:23:53,308 INF [ts2vec.py:128] e272 loss = 0.282397 recons = 0.2486 orth = 0.0000 trans = 0.0338
+01/27/2023:04:23:53,445 INF [ts2vec.py:141] v272 trans = 0.0565
+01/27/2023:04:23:53,947 INF [ts2vec.py:128] e273 loss = 0.289231 recons = 0.2487 orth = 0.0000 trans = 0.0405
+01/27/2023:04:23:54,82 INF [ts2vec.py:141] v273 trans = 0.0523
+01/27/2023:04:23:54,583 INF [ts2vec.py:128] e274 loss = 0.285197 recons = 0.2483 orth = 0.0000 trans = 0.0369
+01/27/2023:04:23:54,719 INF [ts2vec.py:141] v274 trans = 0.0490
+01/27/2023:04:23:55,231 INF [ts2vec.py:128] e275 loss = 0.290454 recons = 0.2487 orth = 0.0000 trans = 0.0417
+01/27/2023:04:23:55,371 INF [ts2vec.py:141] v275 trans = 0.0553
+01/27/2023:04:23:55,885 INF [ts2vec.py:128] e276 loss = 0.278288 recons = 0.2487 orth = 0.0000 trans = 0.0296
+01/27/2023:04:23:56,23 INF [ts2vec.py:141] v276 trans = 0.0493
+01/27/2023:04:23:56,523 INF [ts2vec.py:128] e277 loss = 0.283865 recons = 0.2482 orth = 0.0000 trans = 0.0356
+01/27/2023:04:23:56,664 INF [ts2vec.py:141] v277 trans = 0.0588
+01/27/2023:04:23:57,169 INF [ts2vec.py:128] e278 loss = 0.283645 recons = 0.2482 orth = 0.0000 trans = 0.0354
+01/27/2023:04:23:57,306 INF [ts2vec.py:141] v278 trans = 0.0556
+01/27/2023:04:23:57,808 INF [ts2vec.py:128] e279 loss = 0.285814 recons = 0.2483 orth = 0.0000 trans = 0.0375
+01/27/2023:04:23:57,947 INF [ts2vec.py:141] v279 trans = 0.0535
+01/27/2023:04:23:58,454 INF [ts2vec.py:128] e280 loss = 0.285997 recons = 0.2485 orth = 0.0000 trans = 0.0375
+01/27/2023:04:23:58,591 INF [ts2vec.py:141] v280 trans = 0.0570
+01/27/2023:04:23:59,95 INF [ts2vec.py:128] e281 loss = 0.282322 recons = 0.2486 orth = 0.0000 trans = 0.0337
+01/27/2023:04:23:59,232 INF [ts2vec.py:141] v281 trans = 0.0541
+01/27/2023:04:23:59,740 INF [ts2vec.py:128] e282 loss = 0.283139 recons = 0.2488 orth = 0.0000 trans = 0.0344
+01/27/2023:04:23:59,875 INF [ts2vec.py:141] v282 trans = 0.0563
+01/27/2023:04:24:00,374 INF [ts2vec.py:128] e283 loss = 0.279419 recons = 0.2483 orth = 0.0000 trans = 0.0311
+01/27/2023:04:24:00,513 INF [ts2vec.py:141] v283 trans = 0.0569
+01/27/2023:04:24:01,16 INF [ts2vec.py:128] e284 loss = 0.283827 recons = 0.2482 orth = 0.0000 trans = 0.0356
+01/27/2023:04:24:01,153 INF [ts2vec.py:141] v284 trans = 0.0561
+01/27/2023:04:24:01,679 INF [ts2vec.py:128] e285 loss = 0.288053 recons = 0.2484 orth = 0.0000 trans = 0.0397
+01/27/2023:04:24:01,817 INF [ts2vec.py:141] v285 trans = 0.0578
+01/27/2023:04:24:02,333 INF [ts2vec.py:128] e286 loss = 0.284264 recons = 0.2484 orth = 0.0000 trans = 0.0358
+01/27/2023:04:24:02,469 INF [ts2vec.py:141] v286 trans = 0.0534
+01/27/2023:04:24:02,972 INF [ts2vec.py:128] e287 loss = 0.283712 recons = 0.2478 orth = 0.0000 trans = 0.0359
+01/27/2023:04:24:03,108 INF [ts2vec.py:141] v287 trans = 0.0562
+01/27/2023:04:24:03,619 INF [ts2vec.py:128] e288 loss = 0.282986 recons = 0.2485 orth = 0.0000 trans = 0.0345
+01/27/2023:04:24:03,756 INF [ts2vec.py:141] v288 trans = 0.0497
+01/27/2023:04:24:04,264 INF [ts2vec.py:128] e289 loss = 0.281859 recons = 0.2482 orth = 0.0000 trans = 0.0336
+01/27/2023:04:24:04,402 INF [ts2vec.py:141] v289 trans = 0.0554
+01/27/2023:04:24:04,909 INF [ts2vec.py:128] e290 loss = 0.284180 recons = 0.2482 orth = 0.0000 trans = 0.0360
+01/27/2023:04:24:05,46 INF [ts2vec.py:141] v290 trans = 0.0491
+01/27/2023:04:24:05,546 INF [ts2vec.py:128] e291 loss = 0.286168 recons = 0.2492 orth = 0.0000 trans = 0.0369
+01/27/2023:04:24:05,684 INF [ts2vec.py:141] v291 trans = 0.0532
+01/27/2023:04:24:06,185 INF [ts2vec.py:128] e292 loss = 0.284520 recons = 0.2485 orth = 0.0000 trans = 0.0360
+01/27/2023:04:24:06,323 INF [ts2vec.py:141] v292 trans = 0.0521
+01/27/2023:04:24:06,842 INF [ts2vec.py:128] e293 loss = 0.284287 recons = 0.2485 orth = 0.0000 trans = 0.0358
+01/27/2023:04:24:06,992 INF [ts2vec.py:141] v293 trans = 0.0541
+01/27/2023:04:24:07,503 INF [ts2vec.py:128] e294 loss = 0.280605 recons = 0.2481 orth = 0.0000 trans = 0.0325
+01/27/2023:04:24:07,640 INF [ts2vec.py:141] v294 trans = 0.0539
+01/27/2023:04:24:08,155 INF [ts2vec.py:128] e295 loss = 0.276266 recons = 0.2480 orth = 0.0000 trans = 0.0283
+01/27/2023:04:24:08,292 INF [ts2vec.py:141] v295 trans = 0.0526
+01/27/2023:04:24:08,801 INF [ts2vec.py:128] e296 loss = 0.281827 recons = 0.2484 orth = 0.0000 trans = 0.0334
+01/27/2023:04:24:08,939 INF [ts2vec.py:141] v296 trans = 0.0531
+01/27/2023:04:24:09,454 INF [ts2vec.py:128] e297 loss = 0.280158 recons = 0.2485 orth = 0.0000 trans = 0.0316
+01/27/2023:04:24:09,592 INF [ts2vec.py:141] v297 trans = 0.0587
+01/27/2023:04:24:10,103 INF [ts2vec.py:128] e298 loss = 0.283235 recons = 0.2491 orth = 0.0000 trans = 0.0341
+01/27/2023:04:24:10,240 INF [ts2vec.py:141] v298 trans = 0.0613
+01/27/2023:04:24:10,831 INF [ts2vec.py:128] e299 loss = 0.282498 recons = 0.2482 orth = 0.0000 trans = 0.0343
+01/27/2023:04:24:10,970 INF [ts2vec.py:141] v299 trans = 0.0546
+01/27/2023:04:24:11,498 INF [ts2vec.py:128] e300 loss = 0.285349 recons = 0.2488 orth = 0.0000 trans = 0.0366
+01/27/2023:04:24:11,636 INF [ts2vec.py:141] v300 trans = 0.0551
+01/27/2023:04:24:12,147 INF [ts2vec.py:128] e301 loss = 0.279694 recons = 0.2482 orth = 0.0000 trans = 0.0315
+01/27/2023:04:24:12,286 INF [ts2vec.py:141] v301 trans = 0.0547
+01/27/2023:04:24:12,790 INF [ts2vec.py:128] e302 loss = 0.276259 recons = 0.2475 orth = 0.0000 trans = 0.0287
+01/27/2023:04:24:12,927 INF [ts2vec.py:141] v302 trans = 0.0559
+01/27/2023:04:24:13,429 INF [ts2vec.py:128] e303 loss = 0.282095 recons = 0.2475 orth = 0.0000 trans = 0.0346
+01/27/2023:04:24:13,565 INF [ts2vec.py:141] v303 trans = 0.0485
+01/27/2023:04:24:14,78 INF [ts2vec.py:128] e304 loss = 0.280739 recons = 0.2473 orth = 0.0000 trans = 0.0334
+01/27/2023:04:24:14,222 INF [ts2vec.py:141] v304 trans = 0.0562
+01/27/2023:04:24:14,734 INF [ts2vec.py:128] e305 loss = 0.278737 recons = 0.2473 orth = 0.0000 trans = 0.0315
+01/27/2023:04:24:14,933 INF [ts2vec.py:141] v305 trans = 0.0576
+01/27/2023:04:24:15,463 INF [ts2vec.py:128] e306 loss = 0.280566 recons = 0.2468 orth = 0.0000 trans = 0.0338
+01/27/2023:04:24:15,602 INF [ts2vec.py:141] v306 trans = 0.0540
+01/27/2023:04:24:16,117 INF [ts2vec.py:128] e307 loss = 0.291702 recons = 0.2472 orth = 0.0000 trans = 0.0445
+01/27/2023:04:24:16,252 INF [ts2vec.py:141] v307 trans = 0.0553
+01/27/2023:04:24:16,758 INF [ts2vec.py:128] e308 loss = 0.279827 recons = 0.2474 orth = 0.0000 trans = 0.0324
+01/27/2023:04:24:16,893 INF [ts2vec.py:141] v308 trans = 0.0547
+01/27/2023:04:24:17,398 INF [ts2vec.py:128] e309 loss = 0.280596 recons = 0.2473 orth = 0.0000 trans = 0.0333
+01/27/2023:04:24:17,536 INF [ts2vec.py:141] v309 trans = 0.0503
+01/27/2023:04:24:18,45 INF [ts2vec.py:128] e310 loss = 0.283678 recons = 0.2477 orth = 0.0000 trans = 0.0360
+01/27/2023:04:24:18,182 INF [ts2vec.py:141] v310 trans = 0.0477
+01/27/2023:04:24:18,700 INF [ts2vec.py:128] e311 loss = 0.278174 recons = 0.2473 orth = 0.0000 trans = 0.0309
+01/27/2023:04:24:18,836 INF [ts2vec.py:141] v311 trans = 0.0515
+01/27/2023:04:24:19,345 INF [ts2vec.py:128] e312 loss = 0.279940 recons = 0.2482 orth = 0.0000 trans = 0.0317
+01/27/2023:04:24:19,481 INF [ts2vec.py:141] v312 trans = 0.0569
+01/27/2023:04:24:19,985 INF [ts2vec.py:128] e313 loss = 0.279066 recons = 0.2480 orth = 0.0000 trans = 0.0311
+01/27/2023:04:24:20,121 INF [ts2vec.py:141] v313 trans = 0.0630
+01/27/2023:04:24:20,628 INF [ts2vec.py:128] e314 loss = 0.281213 recons = 0.2476 orth = 0.0000 trans = 0.0336
+01/27/2023:04:24:20,763 INF [ts2vec.py:141] v314 trans = 0.0586
+01/27/2023:04:24:21,281 INF [ts2vec.py:128] e315 loss = 0.279800 recons = 0.2479 orth = 0.0000 trans = 0.0319
+01/27/2023:04:24:21,423 INF [ts2vec.py:141] v315 trans = 0.0541
+01/27/2023:04:24:21,937 INF [ts2vec.py:128] e316 loss = 0.278940 recons = 0.2477 orth = 0.0000 trans = 0.0312
+01/27/2023:04:24:22,74 INF [ts2vec.py:141] v316 trans = 0.0524
+01/27/2023:04:24:22,584 INF [ts2vec.py:128] e317 loss = 0.285981 recons = 0.2481 orth = 0.0000 trans = 0.0378
+01/27/2023:04:24:22,721 INF [ts2vec.py:141] v317 trans = 0.0593
+01/27/2023:04:24:23,230 INF [ts2vec.py:128] e318 loss = 0.284546 recons = 0.2481 orth = 0.0000 trans = 0.0365
+01/27/2023:04:24:23,368 INF [ts2vec.py:141] v318 trans = 0.0598
+01/27/2023:04:24:23,876 INF [ts2vec.py:128] e319 loss = 0.280040 recons = 0.2477 orth = 0.0000 trans = 0.0323
+01/27/2023:04:24:24,14 INF [ts2vec.py:141] v319 trans = 0.0535
+01/27/2023:04:24:24,518 INF [ts2vec.py:128] e320 loss = 0.279282 recons = 0.2476 orth = 0.0000 trans = 0.0316
+01/27/2023:04:24:24,656 INF [ts2vec.py:141] v320 trans = 0.0563
+01/27/2023:04:24:25,169 INF [ts2vec.py:128] e321 loss = 0.280460 recons = 0.2484 orth = 0.0000 trans = 0.0320
+01/27/2023:04:24:25,304 INF [ts2vec.py:141] v321 trans = 0.0549
+01/27/2023:04:24:25,818 INF [ts2vec.py:128] e322 loss = 0.280943 recons = 0.2478 orth = 0.0000 trans = 0.0331
+01/27/2023:04:24:25,955 INF [ts2vec.py:141] v322 trans = 0.0509
+01/27/2023:04:24:26,467 INF [ts2vec.py:128] e323 loss = 0.281394 recons = 0.2477 orth = 0.0000 trans = 0.0337
+01/27/2023:04:24:26,607 INF [ts2vec.py:141] v323 trans = 0.0526
+01/27/2023:04:24:27,110 INF [ts2vec.py:128] e324 loss = 0.279348 recons = 0.2477 orth = 0.0000 trans = 0.0317
+01/27/2023:04:24:27,246 INF [ts2vec.py:141] v324 trans = 0.0554
+01/27/2023:04:24:27,754 INF [ts2vec.py:128] e325 loss = 0.278230 recons = 0.2480 orth = 0.0000 trans = 0.0302
+01/27/2023:04:24:27,892 INF [ts2vec.py:141] v325 trans = 0.0556
+01/27/2023:04:24:28,395 INF [ts2vec.py:128] e326 loss = 0.282928 recons = 0.2472 orth = 0.0000 trans = 0.0358
+01/27/2023:04:24:28,532 INF [ts2vec.py:141] v326 trans = 0.0493
+01/27/2023:04:24:29,47 INF [ts2vec.py:128] e327 loss = 0.281401 recons = 0.2474 orth = 0.0000 trans = 0.0340
+01/27/2023:04:24:29,184 INF [ts2vec.py:141] v327 trans = 0.0520
+01/27/2023:04:24:29,696 INF [ts2vec.py:128] e328 loss = 0.278361 recons = 0.2471 orth = 0.0000 trans = 0.0313
+01/27/2023:04:24:29,832 INF [ts2vec.py:141] v328 trans = 0.0540
+01/27/2023:04:24:30,343 INF [ts2vec.py:128] e329 loss = 0.277135 recons = 0.2476 orth = 0.0000 trans = 0.0295
+01/27/2023:04:24:30,481 INF [ts2vec.py:141] v329 trans = 0.0552
+01/27/2023:04:24:30,982 INF [ts2vec.py:128] e330 loss = 0.281752 recons = 0.2483 orth = 0.0000 trans = 0.0334
+01/27/2023:04:24:31,119 INF [ts2vec.py:141] v330 trans = 0.0516
+01/27/2023:04:24:31,654 INF [ts2vec.py:128] e331 loss = 0.285444 recons = 0.2482 orth = 0.0000 trans = 0.0372
+01/27/2023:04:24:31,793 INF [ts2vec.py:141] v331 trans = 0.0523
+01/27/2023:04:24:32,304 INF [ts2vec.py:128] e332 loss = 0.277282 recons = 0.2487 orth = 0.0000 trans = 0.0286
+01/27/2023:04:24:32,442 INF [ts2vec.py:141] v332 trans = 0.0519
+01/27/2023:04:24:32,949 INF [ts2vec.py:128] e333 loss = 0.285279 recons = 0.2485 orth = 0.0000 trans = 0.0368
+01/27/2023:04:24:33,85 INF [ts2vec.py:141] v333 trans = 0.0511
+01/27/2023:04:24:33,591 INF [ts2vec.py:128] e334 loss = 0.280121 recons = 0.2476 orth = 0.0000 trans = 0.0325
+01/27/2023:04:24:33,730 INF [ts2vec.py:141] v334 trans = 0.0581
+01/27/2023:04:24:34,237 INF [ts2vec.py:128] e335 loss = 0.279760 recons = 0.2476 orth = 0.0000 trans = 0.0321
+01/27/2023:04:24:34,374 INF [ts2vec.py:141] v335 trans = 0.0583
+01/27/2023:04:24:34,878 INF [ts2vec.py:128] e336 loss = 0.280877 recons = 0.2474 orth = 0.0000 trans = 0.0335
+01/27/2023:04:24:35,15 INF [ts2vec.py:141] v336 trans = 0.0537
+01/27/2023:04:24:35,531 INF [ts2vec.py:128] e337 loss = 0.280010 recons = 0.2473 orth = 0.0000 trans = 0.0327
+01/27/2023:04:24:35,666 INF [ts2vec.py:141] v337 trans = 0.0502
+01/27/2023:04:24:36,175 INF [ts2vec.py:128] e338 loss = 0.283397 recons = 0.2472 orth = 0.0000 trans = 0.0362
+01/27/2023:04:24:36,312 INF [ts2vec.py:141] v338 trans = 0.0514
+01/27/2023:04:24:36,817 INF [ts2vec.py:128] e339 loss = 0.280001 recons = 0.2476 orth = 0.0000 trans = 0.0324
+01/27/2023:04:24:36,955 INF [ts2vec.py:141] v339 trans = 0.0477
+01/27/2023:04:24:37,461 INF [ts2vec.py:128] e340 loss = 0.280433 recons = 0.2477 orth = 0.0000 trans = 0.0327
+01/27/2023:04:24:37,597 INF [ts2vec.py:141] v340 trans = 0.0523
+01/27/2023:04:24:38,106 INF [ts2vec.py:128] e341 loss = 0.277935 recons = 0.2478 orth = 0.0000 trans = 0.0302
+01/27/2023:04:24:38,241 INF [ts2vec.py:141] v341 trans = 0.0530
+01/27/2023:04:24:38,755 INF [ts2vec.py:128] e342 loss = 0.278511 recons = 0.2473 orth = 0.0000 trans = 0.0312
+01/27/2023:04:24:38,897 INF [ts2vec.py:141] v342 trans = 0.0519
+01/27/2023:04:24:39,402 INF [ts2vec.py:128] e343 loss = 0.281252 recons = 0.2471 orth = 0.0000 trans = 0.0341
+01/27/2023:04:24:39,540 INF [ts2vec.py:141] v343 trans = 0.0494
+01/27/2023:04:24:40,48 INF [ts2vec.py:128] e344 loss = 0.273841 recons = 0.2482 orth = 0.0000 trans = 0.0256
+01/27/2023:04:24:40,185 INF [ts2vec.py:141] v344 trans = 0.0503
+01/27/2023:04:24:40,706 INF [ts2vec.py:128] e345 loss = 0.278656 recons = 0.2473 orth = 0.0000 trans = 0.0313
+01/27/2023:04:24:40,843 INF [ts2vec.py:141] v345 trans = 0.0594
+01/27/2023:04:24:41,360 INF [ts2vec.py:128] e346 loss = 0.279717 recons = 0.2477 orth = 0.0000 trans = 0.0321
+01/27/2023:04:24:41,501 INF [ts2vec.py:141] v346 trans = 0.0555
+01/27/2023:04:24:42,17 INF [ts2vec.py:128] e347 loss = 0.281560 recons = 0.2485 orth = 0.0000 trans = 0.0331
+01/27/2023:04:24:42,155 INF [ts2vec.py:141] v347 trans = 0.0521
+01/27/2023:04:24:42,670 INF [ts2vec.py:128] e348 loss = 0.281347 recons = 0.2480 orth = 0.0000 trans = 0.0333
+01/27/2023:04:24:42,813 INF [ts2vec.py:141] v348 trans = 0.0544
+01/27/2023:04:24:43,331 INF [ts2vec.py:128] e349 loss = 0.279290 recons = 0.2479 orth = 0.0000 trans = 0.0314
+01/27/2023:04:24:43,471 INF [ts2vec.py:141] v349 trans = 0.0566
+01/27/2023:04:24:43,984 INF [ts2vec.py:128] e350 loss = 0.278755 recons = 0.2478 orth = 0.0000 trans = 0.0310
+01/27/2023:04:24:44,126 INF [ts2vec.py:141] v350 trans = 0.0490
+01/27/2023:04:24:44,641 INF [ts2vec.py:128] e351 loss = 0.279157 recons = 0.2477 orth = 0.0000 trans = 0.0314
+01/27/2023:04:24:44,780 INF [ts2vec.py:141] v351 trans = 0.0471
+01/27/2023:04:24:45,297 INF [ts2vec.py:128] e352 loss = 0.282798 recons = 0.2476 orth = 0.0000 trans = 0.0352
+01/27/2023:04:24:45,434 INF [ts2vec.py:141] v352 trans = 0.0498
+01/27/2023:04:24:45,962 INF [ts2vec.py:128] e353 loss = 0.278641 recons = 0.2468 orth = 0.0000 trans = 0.0319
+01/27/2023:04:24:46,98 INF [ts2vec.py:141] v353 trans = 0.0484
+01/27/2023:04:24:46,608 INF [ts2vec.py:128] e354 loss = 0.283689 recons = 0.2472 orth = 0.0000 trans = 0.0365
+01/27/2023:04:24:46,744 INF [ts2vec.py:141] v354 trans = 0.0496
+01/27/2023:04:24:47,248 INF [ts2vec.py:128] e355 loss = 0.279919 recons = 0.2480 orth = 0.0000 trans = 0.0319
+01/27/2023:04:24:47,386 INF [ts2vec.py:141] v355 trans = 0.0622
+01/27/2023:04:24:47,894 INF [ts2vec.py:128] e356 loss = 0.277586 recons = 0.2474 orth = 0.0000 trans = 0.0302
+01/27/2023:04:24:48,31 INF [ts2vec.py:141] v356 trans = 0.0484
+01/27/2023:04:24:48,537 INF [ts2vec.py:128] e357 loss = 0.279960 recons = 0.2476 orth = 0.0000 trans = 0.0324
+01/27/2023:04:24:48,676 INF [ts2vec.py:141] v357 trans = 0.0504
+01/27/2023:04:24:49,185 INF [ts2vec.py:128] e358 loss = 0.281320 recons = 0.2476 orth = 0.0000 trans = 0.0337
+01/27/2023:04:24:49,323 INF [ts2vec.py:141] v358 trans = 0.0580
+01/27/2023:04:24:49,830 INF [ts2vec.py:128] e359 loss = 0.281445 recons = 0.2470 orth = 0.0000 trans = 0.0344
+01/27/2023:04:24:49,968 INF [ts2vec.py:141] v359 trans = 0.0511
+01/27/2023:04:24:50,475 INF [ts2vec.py:128] e360 loss = 0.280541 recons = 0.2473 orth = 0.0000 trans = 0.0333
+01/27/2023:04:24:50,612 INF [ts2vec.py:141] v360 trans = 0.0604
+01/27/2023:04:24:51,120 INF [ts2vec.py:128] e361 loss = 0.280978 recons = 0.2473 orth = 0.0000 trans = 0.0336
+01/27/2023:04:24:51,258 INF [ts2vec.py:141] v361 trans = 0.0519
+01/27/2023:04:24:51,787 INF [ts2vec.py:128] e362 loss = 0.280900 recons = 0.2470 orth = 0.0000 trans = 0.0339
+01/27/2023:04:24:51,925 INF [ts2vec.py:141] v362 trans = 0.0573
+01/27/2023:04:24:52,432 INF [ts2vec.py:128] e363 loss = 0.277352 recons = 0.2464 orth = 0.0000 trans = 0.0309
+01/27/2023:04:24:52,568 INF [ts2vec.py:141] v363 trans = 0.0519
+01/27/2023:04:24:53,76 INF [ts2vec.py:128] e364 loss = 0.274013 recons = 0.2468 orth = 0.0000 trans = 0.0272
+01/27/2023:04:24:53,212 INF [ts2vec.py:141] v364 trans = 0.0559
+01/27/2023:04:24:53,721 INF [ts2vec.py:128] e365 loss = 0.280388 recons = 0.2466 orth = 0.0000 trans = 0.0338
+01/27/2023:04:24:53,857 INF [ts2vec.py:141] v365 trans = 0.0593
+01/27/2023:04:24:54,407 INF [ts2vec.py:128] e366 loss = 0.277292 recons = 0.2468 orth = 0.0000 trans = 0.0305
+01/27/2023:04:24:54,542 INF [ts2vec.py:141] v366 trans = 0.0499
+01/27/2023:04:24:55,61 INF [ts2vec.py:128] e367 loss = 0.280348 recons = 0.2467 orth = 0.0000 trans = 0.0337
+01/27/2023:04:24:55,201 INF [ts2vec.py:141] v367 trans = 0.0563
+01/27/2023:04:24:55,705 INF [ts2vec.py:128] e368 loss = 0.280173 recons = 0.2471 orth = 0.0000 trans = 0.0331
+01/27/2023:04:24:55,841 INF [ts2vec.py:141] v368 trans = 0.0540
+01/27/2023:04:24:56,340 INF [ts2vec.py:128] e369 loss = 0.276534 recons = 0.2473 orth = 0.0000 trans = 0.0292
+01/27/2023:04:24:56,479 INF [ts2vec.py:141] v369 trans = 0.0556
+01/27/2023:04:24:56,994 INF [ts2vec.py:128] e370 loss = 0.280377 recons = 0.2466 orth = 0.0000 trans = 0.0338
+01/27/2023:04:24:57,132 INF [ts2vec.py:141] v370 trans = 0.0559
+01/27/2023:04:24:57,644 INF [ts2vec.py:128] e371 loss = 0.279587 recons = 0.2473 orth = 0.0000 trans = 0.0323
+01/27/2023:04:24:57,780 INF [ts2vec.py:141] v371 trans = 0.0615
+01/27/2023:04:24:58,280 INF [ts2vec.py:128] e372 loss = 0.276857 recons = 0.2467 orth = 0.0000 trans = 0.0301
+01/27/2023:04:24:58,418 INF [ts2vec.py:141] v372 trans = 0.0542
+01/27/2023:04:24:58,934 INF [ts2vec.py:128] e373 loss = 0.279036 recons = 0.2478 orth = 0.0000 trans = 0.0312
+01/27/2023:04:24:59,72 INF [ts2vec.py:141] v373 trans = 0.0543
+01/27/2023:04:24:59,588 INF [ts2vec.py:128] e374 loss = 0.276156 recons = 0.2475 orth = 0.0000 trans = 0.0287
+01/27/2023:04:24:59,731 INF [ts2vec.py:141] v374 trans = 0.0551
+01/27/2023:04:25:00,246 INF [ts2vec.py:128] e375 loss = 0.283024 recons = 0.2491 orth = 0.0000 trans = 0.0339
+01/27/2023:04:25:00,381 INF [ts2vec.py:141] v375 trans = 0.0500
+01/27/2023:04:25:00,881 INF [ts2vec.py:128] e376 loss = 0.281430 recons = 0.2474 orth = 0.0000 trans = 0.0340
+01/27/2023:04:25:01,19 INF [ts2vec.py:141] v376 trans = 0.0479
+01/27/2023:04:25:01,542 INF [ts2vec.py:128] e377 loss = 0.275540 recons = 0.2468 orth = 0.0000 trans = 0.0287
+01/27/2023:04:25:01,681 INF [ts2vec.py:141] v377 trans = 0.0517
+01/27/2023:04:25:02,191 INF [ts2vec.py:128] e378 loss = 0.279622 recons = 0.2470 orth = 0.0000 trans = 0.0326
+01/27/2023:04:25:02,329 INF [ts2vec.py:141] v378 trans = 0.0560
+01/27/2023:04:25:02,834 INF [ts2vec.py:128] e379 loss = 0.279022 recons = 0.2470 orth = 0.0000 trans = 0.0321
+01/27/2023:04:25:02,972 INF [ts2vec.py:141] v379 trans = 0.0564
+01/27/2023:04:25:03,479 INF [ts2vec.py:128] e380 loss = 0.278780 recons = 0.2466 orth = 0.0000 trans = 0.0322
+01/27/2023:04:25:03,616 INF [ts2vec.py:141] v380 trans = 0.0519
+01/27/2023:04:25:04,116 INF [ts2vec.py:128] e381 loss = 0.274009 recons = 0.2459 orth = 0.0000 trans = 0.0281
+01/27/2023:04:25:04,253 INF [ts2vec.py:141] v381 trans = 0.0501
+01/27/2023:04:25:04,757 INF [ts2vec.py:128] e382 loss = 0.272274 recons = 0.2464 orth = 0.0000 trans = 0.0259
+01/27/2023:04:25:04,896 INF [ts2vec.py:141] v382 trans = 0.0516
+01/27/2023:04:25:05,397 INF [ts2vec.py:128] e383 loss = 0.276121 recons = 0.2467 orth = 0.0000 trans = 0.0294
+01/27/2023:04:25:05,533 INF [ts2vec.py:141] v383 trans = 0.0491
+01/27/2023:04:25:06,41 INF [ts2vec.py:128] e384 loss = 0.275911 recons = 0.2463 orth = 0.0000 trans = 0.0296
+01/27/2023:04:25:06,176 INF [ts2vec.py:141] v384 trans = 0.0578
+01/27/2023:04:25:06,686 INF [ts2vec.py:128] e385 loss = 0.275588 recons = 0.2464 orth = 0.0000 trans = 0.0292
+01/27/2023:04:25:06,825 INF [ts2vec.py:141] v385 trans = 0.0523
+01/27/2023:04:25:07,339 INF [ts2vec.py:128] e386 loss = 0.275176 recons = 0.2461 orth = 0.0000 trans = 0.0291
+01/27/2023:04:25:07,476 INF [ts2vec.py:141] v386 trans = 0.0478
+01/27/2023:04:25:07,978 INF [ts2vec.py:128] e387 loss = 0.281319 recons = 0.2461 orth = 0.0000 trans = 0.0352
+01/27/2023:04:25:08,114 INF [ts2vec.py:141] v387 trans = 0.0505
+01/27/2023:04:25:08,619 INF [ts2vec.py:128] e388 loss = 0.274081 recons = 0.2462 orth = 0.0000 trans = 0.0278
+01/27/2023:04:25:08,757 INF [ts2vec.py:141] v388 trans = 0.0539
+01/27/2023:04:25:09,258 INF [ts2vec.py:128] e389 loss = 0.274598 recons = 0.2469 orth = 0.0000 trans = 0.0277
+01/27/2023:04:25:09,394 INF [ts2vec.py:141] v389 trans = 0.0535
+01/27/2023:04:25:09,905 INF [ts2vec.py:128] e390 loss = 0.278078 recons = 0.2474 orth = 0.0000 trans = 0.0307
+01/27/2023:04:25:10,43 INF [ts2vec.py:141] v390 trans = 0.0552
+01/27/2023:04:25:10,557 INF [ts2vec.py:128] e391 loss = 0.277740 recons = 0.2466 orth = 0.0000 trans = 0.0311
+01/27/2023:04:25:10,696 INF [ts2vec.py:141] v391 trans = 0.0592
+01/27/2023:04:25:11,202 INF [ts2vec.py:128] e392 loss = 0.278344 recons = 0.2461 orth = 0.0000 trans = 0.0322
+01/27/2023:04:25:11,343 INF [ts2vec.py:141] v392 trans = 0.0551
+01/27/2023:04:25:11,861 INF [ts2vec.py:128] e393 loss = 0.273351 recons = 0.2464 orth = 0.0000 trans = 0.0270
+01/27/2023:04:25:11,997 INF [ts2vec.py:141] v393 trans = 0.0548
+01/27/2023:04:25:12,509 INF [ts2vec.py:128] e394 loss = 0.278237 recons = 0.2464 orth = 0.0000 trans = 0.0318
+01/27/2023:04:25:12,648 INF [ts2vec.py:141] v394 trans = 0.0596
+01/27/2023:04:25:13,158 INF [ts2vec.py:128] e395 loss = 0.276606 recons = 0.2466 orth = 0.0000 trans = 0.0300
+01/27/2023:04:25:13,293 INF [ts2vec.py:141] v395 trans = 0.0522
+01/27/2023:04:25:13,796 INF [ts2vec.py:128] e396 loss = 0.276722 recons = 0.2459 orth = 0.0000 trans = 0.0309
+01/27/2023:04:25:13,934 INF [ts2vec.py:141] v396 trans = 0.0541
+01/27/2023:04:25:14,437 INF [ts2vec.py:128] e397 loss = 0.275655 recons = 0.2460 orth = 0.0000 trans = 0.0297
+01/27/2023:04:25:14,574 INF [ts2vec.py:141] v397 trans = 0.0489
+01/27/2023:04:25:15,88 INF [ts2vec.py:128] e398 loss = 0.275264 recons = 0.2466 orth = 0.0000 trans = 0.0286
+01/27/2023:04:25:15,225 INF [ts2vec.py:141] v398 trans = 0.0539
+01/27/2023:04:25:15,736 INF [ts2vec.py:128] e399 loss = 0.277181 recons = 0.2464 orth = 0.0000 trans = 0.0308
+01/27/2023:04:25:15,874 INF [ts2vec.py:141] v399 trans = 0.0531
+01/27/2023:04:25:16,379 INF [ts2vec.py:128] e400 loss = 0.275725 recons = 0.2457 orth = 0.0000 trans = 0.0300
+01/27/2023:04:25:16,515 INF [ts2vec.py:141] v400 trans = 0.0524
+01/27/2023:04:25:17,20 INF [ts2vec.py:128] e401 loss = 0.277528 recons = 0.2461 orth = 0.0000 trans = 0.0315
+01/27/2023:04:25:17,159 INF [ts2vec.py:141] v401 trans = 0.0579
+01/27/2023:04:25:17,673 INF [ts2vec.py:128] e402 loss = 0.276346 recons = 0.2455 orth = 0.0000 trans = 0.0309
+01/27/2023:04:25:17,810 INF [ts2vec.py:141] v402 trans = 0.0524
+01/27/2023:04:25:18,316 INF [ts2vec.py:128] e403 loss = 0.281099 recons = 0.2456 orth = 0.0000 trans = 0.0355
+01/27/2023:04:25:18,454 INF [ts2vec.py:141] v403 trans = 0.0531
+01/27/2023:04:25:18,953 INF [ts2vec.py:128] e404 loss = 0.274694 recons = 0.2454 orth = 0.0000 trans = 0.0293
+01/27/2023:04:25:19,90 INF [ts2vec.py:141] v404 trans = 0.0578
+01/27/2023:04:25:19,594 INF [ts2vec.py:128] e405 loss = 0.279015 recons = 0.2459 orth = 0.0000 trans = 0.0331
+01/27/2023:04:25:19,731 INF [ts2vec.py:141] v405 trans = 0.0517
+01/27/2023:04:25:20,246 INF [ts2vec.py:128] e406 loss = 0.275199 recons = 0.2460 orth = 0.0000 trans = 0.0292
+01/27/2023:04:25:20,384 INF [ts2vec.py:141] v406 trans = 0.0576
+01/27/2023:04:25:20,893 INF [ts2vec.py:128] e407 loss = 0.275147 recons = 0.2458 orth = 0.0000 trans = 0.0293
+01/27/2023:04:25:21,30 INF [ts2vec.py:141] v407 trans = 0.0516
+01/27/2023:04:25:21,553 INF [ts2vec.py:128] e408 loss = 0.277053 recons = 0.2458 orth = 0.0000 trans = 0.0313
+01/27/2023:04:25:21,693 INF [ts2vec.py:141] v408 trans = 0.0573
+01/27/2023:04:25:22,193 INF [ts2vec.py:128] e409 loss = 0.273662 recons = 0.2457 orth = 0.0000 trans = 0.0280
+01/27/2023:04:25:22,330 INF [ts2vec.py:141] v409 trans = 0.0598
+01/27/2023:04:25:22,830 INF [ts2vec.py:128] e410 loss = 0.274713 recons = 0.2461 orth = 0.0000 trans = 0.0286
+01/27/2023:04:25:22,970 INF [ts2vec.py:141] v410 trans = 0.0542
+01/27/2023:04:25:23,480 INF [ts2vec.py:128] e411 loss = 0.278938 recons = 0.2458 orth = 0.0000 trans = 0.0332
+01/27/2023:04:25:23,618 INF [ts2vec.py:141] v411 trans = 0.0465
+01/27/2023:04:25:24,122 INF [ts2vec.py:128] e412 loss = 0.274860 recons = 0.2460 orth = 0.0000 trans = 0.0289
+01/27/2023:04:25:24,263 INF [ts2vec.py:141] v412 trans = 0.0502
+01/27/2023:04:25:24,780 INF [ts2vec.py:128] e413 loss = 0.274161 recons = 0.2461 orth = 0.0000 trans = 0.0281
+01/27/2023:04:25:24,919 INF [ts2vec.py:141] v413 trans = 0.0556
+01/27/2023:04:25:25,423 INF [ts2vec.py:128] e414 loss = 0.277825 recons = 0.2462 orth = 0.0000 trans = 0.0316
+01/27/2023:04:25:25,559 INF [ts2vec.py:141] v414 trans = 0.0590
+01/27/2023:04:25:26,70 INF [ts2vec.py:128] e415 loss = 0.277344 recons = 0.2456 orth = 0.0000 trans = 0.0317
+01/27/2023:04:25:26,205 INF [ts2vec.py:141] v415 trans = 0.0512
+01/27/2023:04:25:26,710 INF [ts2vec.py:128] e416 loss = 0.273267 recons = 0.2448 orth = 0.0000 trans = 0.0284
+01/27/2023:04:25:26,850 INF [ts2vec.py:141] v416 trans = 0.0517
+01/27/2023:04:25:27,360 INF [ts2vec.py:128] e417 loss = 0.276573 recons = 0.2457 orth = 0.0000 trans = 0.0309
+01/27/2023:04:25:27,508 INF [ts2vec.py:141] v417 trans = 0.0542
+01/27/2023:04:25:28,17 INF [ts2vec.py:128] e418 loss = 0.272607 recons = 0.2452 orth = 0.0000 trans = 0.0275
+01/27/2023:04:25:28,156 INF [ts2vec.py:141] v418 trans = 0.0542
+01/27/2023:04:25:28,658 INF [ts2vec.py:128] e419 loss = 0.276699 recons = 0.2448 orth = 0.0000 trans = 0.0319
+01/27/2023:04:25:28,794 INF [ts2vec.py:141] v419 trans = 0.0561
+01/27/2023:04:25:29,295 INF [ts2vec.py:128] e420 loss = 0.277426 recons = 0.2455 orth = 0.0000 trans = 0.0319
+01/27/2023:04:25:29,434 INF [ts2vec.py:141] v420 trans = 0.0472
+01/27/2023:04:25:29,938 INF [ts2vec.py:128] e421 loss = 0.273644 recons = 0.2463 orth = 0.0000 trans = 0.0274
+01/27/2023:04:25:30,77 INF [ts2vec.py:141] v421 trans = 0.0564
+01/27/2023:04:25:30,579 INF [ts2vec.py:128] e422 loss = 0.276231 recons = 0.2459 orth = 0.0000 trans = 0.0303
+01/27/2023:04:25:30,716 INF [ts2vec.py:141] v422 trans = 0.0591
+01/27/2023:04:25:31,219 INF [ts2vec.py:128] e423 loss = 0.275076 recons = 0.2462 orth = 0.0000 trans = 0.0289
+01/27/2023:04:25:31,359 INF [ts2vec.py:141] v423 trans = 0.0563
+01/27/2023:04:25:31,883 INF [ts2vec.py:128] e424 loss = 0.273630 recons = 0.2457 orth = 0.0000 trans = 0.0280
+01/27/2023:04:25:32,20 INF [ts2vec.py:141] v424 trans = 0.0602
+01/27/2023:04:25:32,528 INF [ts2vec.py:128] e425 loss = 0.275773 recons = 0.2454 orth = 0.0000 trans = 0.0304
+01/27/2023:04:25:32,667 INF [ts2vec.py:141] v425 trans = 0.0568
+01/27/2023:04:25:33,175 INF [ts2vec.py:128] e426 loss = 0.276319 recons = 0.2457 orth = 0.0000 trans = 0.0306
+01/27/2023:04:25:33,314 INF [ts2vec.py:141] v426 trans = 0.0536
+01/27/2023:04:25:33,823 INF [ts2vec.py:128] e427 loss = 0.272585 recons = 0.2453 orth = 0.0000 trans = 0.0272
+01/27/2023:04:25:33,959 INF [ts2vec.py:141] v427 trans = 0.0543
+01/27/2023:04:25:34,460 INF [ts2vec.py:128] e428 loss = 0.275732 recons = 0.2458 orth = 0.0000 trans = 0.0299
+01/27/2023:04:25:34,598 INF [ts2vec.py:141] v428 trans = 0.0522
+01/27/2023:04:25:35,107 INF [ts2vec.py:128] e429 loss = 0.275106 recons = 0.2460 orth = 0.0000 trans = 0.0291
+01/27/2023:04:25:35,247 INF [ts2vec.py:141] v429 trans = 0.0478
+01/27/2023:04:25:35,741 INF [ts2vec.py:128] e430 loss = 0.279039 recons = 0.2465 orth = 0.0000 trans = 0.0325
+01/27/2023:04:25:35,878 INF [ts2vec.py:141] v430 trans = 0.0465
+01/27/2023:04:25:36,386 INF [ts2vec.py:128] e431 loss = 0.275600 recons = 0.2455 orth = 0.0000 trans = 0.0301
+01/27/2023:04:25:36,524 INF [ts2vec.py:141] v431 trans = 0.0438
+01/27/2023:04:25:37,26 INF [ts2vec.py:128] e432 loss = 0.275790 recons = 0.2458 orth = 0.0000 trans = 0.0300
+01/27/2023:04:25:37,163 INF [ts2vec.py:141] v432 trans = 0.0548
+01/27/2023:04:25:37,674 INF [ts2vec.py:128] e433 loss = 0.270823 recons = 0.2456 orth = 0.0000 trans = 0.0252
+01/27/2023:04:25:37,811 INF [ts2vec.py:141] v433 trans = 0.0528
+01/27/2023:04:25:38,315 INF [ts2vec.py:128] e434 loss = 0.276382 recons = 0.2452 orth = 0.0000 trans = 0.0312
+01/27/2023:04:25:38,456 INF [ts2vec.py:141] v434 trans = 0.0513
+01/27/2023:04:25:38,965 INF [ts2vec.py:128] e435 loss = 0.277374 recons = 0.2458 orth = 0.0000 trans = 0.0316
+01/27/2023:04:25:39,105 INF [ts2vec.py:141] v435 trans = 0.0541
+01/27/2023:04:25:39,608 INF [ts2vec.py:128] e436 loss = 0.277143 recons = 0.2459 orth = 0.0000 trans = 0.0313
+01/27/2023:04:25:39,746 INF [ts2vec.py:141] v436 trans = 0.0548
+01/27/2023:04:25:40,262 INF [ts2vec.py:128] e437 loss = 0.272696 recons = 0.2452 orth = 0.0000 trans = 0.0275
+01/27/2023:04:25:40,401 INF [ts2vec.py:141] v437 trans = 0.0554
+01/27/2023:04:25:40,910 INF [ts2vec.py:128] e438 loss = 0.275266 recons = 0.2452 orth = 0.0000 trans = 0.0300
+01/27/2023:04:25:41,49 INF [ts2vec.py:141] v438 trans = 0.0530
+01/27/2023:04:25:41,577 INF [ts2vec.py:128] e439 loss = 0.274682 recons = 0.2460 orth = 0.0000 trans = 0.0287
+01/27/2023:04:25:41,715 INF [ts2vec.py:141] v439 trans = 0.0565
+01/27/2023:04:25:42,219 INF [ts2vec.py:128] e440 loss = 0.275767 recons = 0.2457 orth = 0.0000 trans = 0.0301
+01/27/2023:04:25:42,359 INF [ts2vec.py:141] v440 trans = 0.0495
+01/27/2023:04:25:42,857 INF [ts2vec.py:128] e441 loss = 0.271687 recons = 0.2455 orth = 0.0000 trans = 0.0262
+01/27/2023:04:25:42,994 INF [ts2vec.py:141] v441 trans = 0.0549
+01/27/2023:04:25:43,493 INF [ts2vec.py:128] e442 loss = 0.276717 recons = 0.2458 orth = 0.0000 trans = 0.0309
+01/27/2023:04:25:43,628 INF [ts2vec.py:141] v442 trans = 0.0523
+01/27/2023:04:25:44,132 INF [ts2vec.py:128] e443 loss = 0.271384 recons = 0.2450 orth = 0.0000 trans = 0.0263
+01/27/2023:04:25:44,270 INF [ts2vec.py:141] v443 trans = 0.0522
+01/27/2023:04:25:44,773 INF [ts2vec.py:128] e444 loss = 0.273066 recons = 0.2455 orth = 0.0000 trans = 0.0276
+01/27/2023:04:25:44,912 INF [ts2vec.py:141] v444 trans = 0.0508
+01/27/2023:04:25:45,422 INF [ts2vec.py:128] e445 loss = 0.275124 recons = 0.2453 orth = 0.0000 trans = 0.0298
+01/27/2023:04:25:45,561 INF [ts2vec.py:141] v445 trans = 0.0487
+01/27/2023:04:25:46,73 INF [ts2vec.py:128] e446 loss = 0.274585 recons = 0.2456 orth = 0.0000 trans = 0.0290
+01/27/2023:04:25:46,211 INF [ts2vec.py:141] v446 trans = 0.0530
+01/27/2023:04:25:46,719 INF [ts2vec.py:128] e447 loss = 0.274909 recons = 0.2457 orth = 0.0000 trans = 0.0292
+01/27/2023:04:25:46,856 INF [ts2vec.py:141] v447 trans = 0.0545
+01/27/2023:04:25:47,357 INF [ts2vec.py:128] e448 loss = 0.273369 recons = 0.2451 orth = 0.0000 trans = 0.0283
+01/27/2023:04:25:47,494 INF [ts2vec.py:141] v448 trans = 0.0493
+01/27/2023:04:25:48,0 INF [ts2vec.py:128] e449 loss = 0.270958 recons = 0.2453 orth = 0.0000 trans = 0.0256
+01/27/2023:04:25:48,139 INF [ts2vec.py:141] v449 trans = 0.0561
+01/27/2023:04:25:48,642 INF [ts2vec.py:128] e450 loss = 0.274783 recons = 0.2456 orth = 0.0000 trans = 0.0292
+01/27/2023:04:25:48,780 INF [ts2vec.py:141] v450 trans = 0.0528
+01/27/2023:04:25:49,280 INF [ts2vec.py:128] e451 loss = 0.272358 recons = 0.2448 orth = 0.0000 trans = 0.0275
+01/27/2023:04:25:49,417 INF [ts2vec.py:141] v451 trans = 0.0506
+01/27/2023:04:25:49,922 INF [ts2vec.py:128] e452 loss = 0.270904 recons = 0.2446 orth = 0.0000 trans = 0.0263
+01/27/2023:04:25:50,61 INF [ts2vec.py:141] v452 trans = 0.0574
+01/27/2023:04:25:50,572 INF [ts2vec.py:128] e453 loss = 0.273527 recons = 0.2446 orth = 0.0000 trans = 0.0289
+01/27/2023:04:25:50,710 INF [ts2vec.py:141] v453 trans = 0.0546
+01/27/2023:04:25:51,212 INF [ts2vec.py:128] e454 loss = 0.270139 recons = 0.2449 orth = 0.0000 trans = 0.0253
+01/27/2023:04:25:51,351 INF [ts2vec.py:141] v454 trans = 0.0551
+01/27/2023:04:25:51,875 INF [ts2vec.py:128] e455 loss = 0.277113 recons = 0.2450 orth = 0.0000 trans = 0.0321
+01/27/2023:04:25:52,13 INF [ts2vec.py:141] v455 trans = 0.0514
+01/27/2023:04:25:52,514 INF [ts2vec.py:128] e456 loss = 0.272355 recons = 0.2451 orth = 0.0000 trans = 0.0273
+01/27/2023:04:25:52,651 INF [ts2vec.py:141] v456 trans = 0.0508
+01/27/2023:04:25:53,164 INF [ts2vec.py:128] e457 loss = 0.274876 recons = 0.2456 orth = 0.0000 trans = 0.0293
+01/27/2023:04:25:53,301 INF [ts2vec.py:141] v457 trans = 0.0601
+01/27/2023:04:25:53,803 INF [ts2vec.py:128] e458 loss = 0.270757 recons = 0.2450 orth = 0.0000 trans = 0.0258
+01/27/2023:04:25:53,942 INF [ts2vec.py:141] v458 trans = 0.0562
+01/27/2023:04:25:54,453 INF [ts2vec.py:128] e459 loss = 0.271255 recons = 0.2450 orth = 0.0000 trans = 0.0263
+01/27/2023:04:25:54,592 INF [ts2vec.py:141] v459 trans = 0.0515
+01/27/2023:04:25:55,101 INF [ts2vec.py:128] e460 loss = 0.278707 recons = 0.2449 orth = 0.0000 trans = 0.0338
+01/27/2023:04:25:55,239 INF [ts2vec.py:141] v460 trans = 0.0531
+01/27/2023:04:25:55,749 INF [ts2vec.py:128] e461 loss = 0.275438 recons = 0.2448 orth = 0.0000 trans = 0.0306
+01/27/2023:04:25:55,888 INF [ts2vec.py:141] v461 trans = 0.0561
+01/27/2023:04:25:56,393 INF [ts2vec.py:128] e462 loss = 0.274037 recons = 0.2447 orth = 0.0000 trans = 0.0293
+01/27/2023:04:25:56,530 INF [ts2vec.py:141] v462 trans = 0.0558
+01/27/2023:04:25:57,51 INF [ts2vec.py:128] e463 loss = 0.267642 recons = 0.2447 orth = 0.0000 trans = 0.0229
+01/27/2023:04:25:57,190 INF [ts2vec.py:141] v463 trans = 0.0564
+01/27/2023:04:25:57,689 INF [ts2vec.py:128] e464 loss = 0.272753 recons = 0.2449 orth = 0.0000 trans = 0.0278
+01/27/2023:04:25:57,830 INF [ts2vec.py:141] v464 trans = 0.0583
+01/27/2023:04:25:58,336 INF [ts2vec.py:128] e465 loss = 0.275247 recons = 0.2449 orth = 0.0000 trans = 0.0303
+01/27/2023:04:25:58,475 INF [ts2vec.py:141] v465 trans = 0.0535
+01/27/2023:04:25:58,984 INF [ts2vec.py:128] e466 loss = 0.271695 recons = 0.2450 orth = 0.0000 trans = 0.0267
+01/27/2023:04:25:59,123 INF [ts2vec.py:141] v466 trans = 0.0541
+01/27/2023:04:25:59,626 INF [ts2vec.py:128] e467 loss = 0.274696 recons = 0.2450 orth = 0.0000 trans = 0.0297
+01/27/2023:04:25:59,762 INF [ts2vec.py:141] v467 trans = 0.0501
+01/27/2023:04:26:00,264 INF [ts2vec.py:128] e468 loss = 0.272838 recons = 0.2448 orth = 0.0000 trans = 0.0281
+01/27/2023:04:26:00,401 INF [ts2vec.py:141] v468 trans = 0.0602
+01/27/2023:04:26:00,914 INF [ts2vec.py:128] e469 loss = 0.273000 recons = 0.2443 orth = 0.0000 trans = 0.0287
+01/27/2023:04:26:01,53 INF [ts2vec.py:141] v469 trans = 0.0527
+01/27/2023:04:26:01,574 INF [ts2vec.py:128] e470 loss = 0.273443 recons = 0.2446 orth = 0.0000 trans = 0.0289
+01/27/2023:04:26:01,715 INF [ts2vec.py:141] v470 trans = 0.0544
+01/27/2023:04:26:02,223 INF [ts2vec.py:128] e471 loss = 0.271399 recons = 0.2450 orth = 0.0000 trans = 0.0264
+01/27/2023:04:26:02,366 INF [ts2vec.py:141] v471 trans = 0.0560
+01/27/2023:04:26:02,878 INF [ts2vec.py:128] e472 loss = 0.273003 recons = 0.2451 orth = 0.0000 trans = 0.0279
+01/27/2023:04:26:03,14 INF [ts2vec.py:141] v472 trans = 0.0560
+01/27/2023:04:26:03,521 INF [ts2vec.py:128] e473 loss = 0.272594 recons = 0.2444 orth = 0.0000 trans = 0.0282
+01/27/2023:04:26:03,656 INF [ts2vec.py:141] v473 trans = 0.0606
+01/27/2023:04:26:04,170 INF [ts2vec.py:128] e474 loss = 0.270937 recons = 0.2440 orth = 0.0000 trans = 0.0269
+01/27/2023:04:26:04,306 INF [ts2vec.py:141] v474 trans = 0.0561
+01/27/2023:04:26:04,813 INF [ts2vec.py:128] e475 loss = 0.273087 recons = 0.2441 orth = 0.0000 trans = 0.0290
+01/27/2023:04:26:04,950 INF [ts2vec.py:141] v475 trans = 0.0598
+01/27/2023:04:26:05,462 INF [ts2vec.py:128] e476 loss = 0.272743 recons = 0.2441 orth = 0.0000 trans = 0.0286
+01/27/2023:04:26:05,601 INF [ts2vec.py:141] v476 trans = 0.0564
+01/27/2023:04:26:06,111 INF [ts2vec.py:128] e477 loss = 0.275319 recons = 0.2448 orth = 0.0000 trans = 0.0305
+01/27/2023:04:26:06,251 INF [ts2vec.py:141] v477 trans = 0.0516
+01/27/2023:04:26:06,767 INF [ts2vec.py:128] e478 loss = 0.271664 recons = 0.2446 orth = 0.0000 trans = 0.0271
+01/27/2023:04:26:06,905 INF [ts2vec.py:141] v478 trans = 0.0536
+01/27/2023:04:26:07,407 INF [ts2vec.py:128] e479 loss = 0.269679 recons = 0.2444 orth = 0.0000 trans = 0.0253
+01/27/2023:04:26:07,544 INF [ts2vec.py:141] v479 trans = 0.0535
+01/27/2023:04:26:08,57 INF [ts2vec.py:128] e480 loss = 0.271413 recons = 0.2443 orth = 0.0000 trans = 0.0272
+01/27/2023:04:26:08,194 INF [ts2vec.py:141] v480 trans = 0.0500
+01/27/2023:04:26:08,701 INF [ts2vec.py:128] e481 loss = 0.273365 recons = 0.2450 orth = 0.0000 trans = 0.0283
+01/27/2023:04:26:08,838 INF [ts2vec.py:141] v481 trans = 0.0523
+01/27/2023:04:26:09,341 INF [ts2vec.py:128] e482 loss = 0.273271 recons = 0.2445 orth = 0.0000 trans = 0.0288
+01/27/2023:04:26:09,478 INF [ts2vec.py:141] v482 trans = 0.0553
+01/27/2023:04:26:09,983 INF [ts2vec.py:128] e483 loss = 0.273771 recons = 0.2447 orth = 0.0000 trans = 0.0291
+01/27/2023:04:26:10,120 INF [ts2vec.py:141] v483 trans = 0.0548
+01/27/2023:04:26:10,632 INF [ts2vec.py:128] e484 loss = 0.273829 recons = 0.2450 orth = 0.0000 trans = 0.0289
+01/27/2023:04:26:10,768 INF [ts2vec.py:141] v484 trans = 0.0507
+01/27/2023:04:26:11,276 INF [ts2vec.py:128] e485 loss = 0.272280 recons = 0.2445 orth = 0.0000 trans = 0.0278
+01/27/2023:04:26:11,418 INF [ts2vec.py:141] v485 trans = 0.0512
+01/27/2023:04:26:11,955 INF [ts2vec.py:128] e486 loss = 0.272233 recons = 0.2449 orth = 0.0000 trans = 0.0274
+01/27/2023:04:26:12,93 INF [ts2vec.py:141] v486 trans = 0.0483
+01/27/2023:04:26:12,600 INF [ts2vec.py:128] e487 loss = 0.272688 recons = 0.2448 orth = 0.0000 trans = 0.0279
+01/27/2023:04:26:12,737 INF [ts2vec.py:141] v487 trans = 0.0549
+01/27/2023:04:26:13,247 INF [ts2vec.py:128] e488 loss = 0.269894 recons = 0.2447 orth = 0.0000 trans = 0.0252
+01/27/2023:04:26:13,384 INF [ts2vec.py:141] v488 trans = 0.0570
+01/27/2023:04:26:13,885 INF [ts2vec.py:128] e489 loss = 0.271165 recons = 0.2441 orth = 0.0000 trans = 0.0271
+01/27/2023:04:26:14,22 INF [ts2vec.py:141] v489 trans = 0.0522
+01/27/2023:04:26:14,524 INF [ts2vec.py:128] e490 loss = 0.270239 recons = 0.2442 orth = 0.0000 trans = 0.0261
+01/27/2023:04:26:14,662 INF [ts2vec.py:141] v490 trans = 0.0485
+01/27/2023:04:26:15,163 INF [ts2vec.py:128] e491 loss = 0.269118 recons = 0.2446 orth = 0.0000 trans = 0.0245
+01/27/2023:04:26:15,301 INF [ts2vec.py:141] v491 trans = 0.0554
+01/27/2023:04:26:15,811 INF [ts2vec.py:128] e492 loss = 0.272874 recons = 0.2450 orth = 0.0000 trans = 0.0278
+01/27/2023:04:26:15,950 INF [ts2vec.py:141] v492 trans = 0.0507
+01/27/2023:04:26:16,450 INF [ts2vec.py:128] e493 loss = 0.271083 recons = 0.2440 orth = 0.0000 trans = 0.0271
+01/27/2023:04:26:16,588 INF [ts2vec.py:141] v493 trans = 0.0553
+01/27/2023:04:26:17,93 INF [ts2vec.py:128] e494 loss = 0.274291 recons = 0.2445 orth = 0.0000 trans = 0.0298
+01/27/2023:04:26:17,232 INF [ts2vec.py:141] v494 trans = 0.0482
+01/27/2023:04:26:17,737 INF [ts2vec.py:128] e495 loss = 0.268654 recons = 0.2442 orth = 0.0000 trans = 0.0244
+01/27/2023:04:26:17,875 INF [ts2vec.py:141] v495 trans = 0.0531
+01/27/2023:04:26:18,378 INF [ts2vec.py:128] e496 loss = 0.271903 recons = 0.2442 orth = 0.0000 trans = 0.0277
+01/27/2023:04:26:18,517 INF [ts2vec.py:141] v496 trans = 0.0543
+01/27/2023:04:26:19,21 INF [ts2vec.py:128] e497 loss = 0.272357 recons = 0.2444 orth = 0.0000 trans = 0.0280
+01/27/2023:04:26:19,158 INF [ts2vec.py:141] v497 trans = 0.0509
+01/27/2023:04:26:19,658 INF [ts2vec.py:128] e498 loss = 0.270127 recons = 0.2445 orth = 0.0000 trans = 0.0256
+01/27/2023:04:26:19,796 INF [ts2vec.py:141] v498 trans = 0.0510
+01/27/2023:04:26:20,304 INF [ts2vec.py:128] e499 loss = 0.273124 recons = 0.2445 orth = 0.0000 trans = 0.0286
+01/27/2023:04:26:20,441 INF [ts2vec.py:141] v499 trans = 0.0531
+01/27/2023:04:26:20,948 INF [ts2vec.py:128] e500 loss = 0.267266 recons = 0.2440 orth = 0.0000 trans = 0.0232
+01/27/2023:04:26:21,86 INF [ts2vec.py:141] v500 trans = 0.0522
+01/27/2023:04:26:21,609 INF [ts2vec.py:128] e501 loss = 0.272183 recons = 0.2443 orth = 0.0000 trans = 0.0278
+01/27/2023:04:26:21,747 INF [ts2vec.py:141] v501 trans = 0.0480
+01/27/2023:04:26:22,263 INF [ts2vec.py:128] e502 loss = 0.273935 recons = 0.2454 orth = 0.0000 trans = 0.0285
+01/27/2023:04:26:22,402 INF [ts2vec.py:141] v502 trans = 0.0531
+01/27/2023:04:26:22,903 INF [ts2vec.py:128] e503 loss = 0.272498 recons = 0.2442 orth = 0.0000 trans = 0.0283
+01/27/2023:04:26:23,41 INF [ts2vec.py:141] v503 trans = 0.0560
+01/27/2023:04:26:23,547 INF [ts2vec.py:128] e504 loss = 0.269517 recons = 0.2448 orth = 0.0000 trans = 0.0247
+01/27/2023:04:26:23,685 INF [ts2vec.py:141] v504 trans = 0.0494
+01/27/2023:04:26:24,198 INF [ts2vec.py:128] e505 loss = 0.271702 recons = 0.2440 orth = 0.0000 trans = 0.0278
+01/27/2023:04:26:24,335 INF [ts2vec.py:141] v505 trans = 0.0591
+01/27/2023:04:26:24,842 INF [ts2vec.py:128] e506 loss = 0.269937 recons = 0.2442 orth = 0.0000 trans = 0.0257
+01/27/2023:04:26:24,978 INF [ts2vec.py:141] v506 trans = 0.0549
+01/27/2023:04:26:25,484 INF [ts2vec.py:128] e507 loss = 0.269635 recons = 0.2443 orth = 0.0000 trans = 0.0254
+01/27/2023:04:26:25,621 INF [ts2vec.py:141] v507 trans = 0.0514
+01/27/2023:04:26:26,125 INF [ts2vec.py:128] e508 loss = 0.269307 recons = 0.2440 orth = 0.0000 trans = 0.0253
+01/27/2023:04:26:26,262 INF [ts2vec.py:141] v508 trans = 0.0602
+01/27/2023:04:26:26,772 INF [ts2vec.py:128] e509 loss = 0.270990 recons = 0.2442 orth = 0.0000 trans = 0.0268
+01/27/2023:04:26:26,910 INF [ts2vec.py:141] v509 trans = 0.0512
+01/27/2023:04:26:27,417 INF [ts2vec.py:128] e510 loss = 0.267076 recons = 0.2438 orth = 0.0000 trans = 0.0232
+01/27/2023:04:26:27,553 INF [ts2vec.py:141] v510 trans = 0.0520
+01/27/2023:04:26:28,53 INF [ts2vec.py:128] e511 loss = 0.272463 recons = 0.2442 orth = 0.0000 trans = 0.0283
+01/27/2023:04:26:28,195 INF [ts2vec.py:141] v511 trans = 0.0515
+01/27/2023:04:26:28,708 INF [ts2vec.py:128] e512 loss = 0.271136 recons = 0.2442 orth = 0.0000 trans = 0.0269
+01/27/2023:04:26:28,846 INF [ts2vec.py:141] v512 trans = 0.0523
+01/27/2023:04:26:29,364 INF [ts2vec.py:128] e513 loss = 0.268726 recons = 0.2440 orth = 0.0000 trans = 0.0247
+01/27/2023:04:26:29,504 INF [ts2vec.py:141] v513 trans = 0.0568
+01/27/2023:04:26:30,11 INF [ts2vec.py:128] e514 loss = 0.272657 recons = 0.2445 orth = 0.0000 trans = 0.0282
+01/27/2023:04:26:30,149 INF [ts2vec.py:141] v514 trans = 0.0495
+01/27/2023:04:26:30,655 INF [ts2vec.py:128] e515 loss = 0.271002 recons = 0.2440 orth = 0.0000 trans = 0.0270
+01/27/2023:04:26:30,793 INF [ts2vec.py:141] v515 trans = 0.0561
+01/27/2023:04:26:31,298 INF [ts2vec.py:128] e516 loss = 0.268207 recons = 0.2439 orth = 0.0000 trans = 0.0243
+01/27/2023:04:26:31,440 INF [ts2vec.py:141] v516 trans = 0.0554
+01/27/2023:04:26:31,953 INF [ts2vec.py:128] e517 loss = 0.269140 recons = 0.2444 orth = 0.0000 trans = 0.0248
+01/27/2023:04:26:32,91 INF [ts2vec.py:141] v517 trans = 0.0545
+01/27/2023:04:26:32,597 INF [ts2vec.py:128] e518 loss = 0.270991 recons = 0.2454 orth = 0.0000 trans = 0.0255
+01/27/2023:04:26:32,735 INF [ts2vec.py:141] v518 trans = 0.0524
+01/27/2023:04:26:33,239 INF [ts2vec.py:128] e519 loss = 0.272440 recons = 0.2450 orth = 0.0000 trans = 0.0275
+01/27/2023:04:26:33,377 INF [ts2vec.py:141] v519 trans = 0.0573
+01/27/2023:04:26:33,890 INF [ts2vec.py:128] e520 loss = 0.272174 recons = 0.2447 orth = 0.0000 trans = 0.0275
+01/27/2023:04:26:34,26 INF [ts2vec.py:141] v520 trans = 0.0551
+01/27/2023:04:26:34,534 INF [ts2vec.py:128] e521 loss = 0.269240 recons = 0.2446 orth = 0.0000 trans = 0.0247
+01/27/2023:04:26:34,672 INF [ts2vec.py:141] v521 trans = 0.0500
+01/27/2023:04:26:35,171 INF [ts2vec.py:128] e522 loss = 0.270458 recons = 0.2445 orth = 0.0000 trans = 0.0259
+01/27/2023:04:26:35,309 INF [ts2vec.py:141] v522 trans = 0.0544
+01/27/2023:04:26:35,812 INF [ts2vec.py:128] e523 loss = 0.269368 recons = 0.2441 orth = 0.0000 trans = 0.0253
+01/27/2023:04:26:35,949 INF [ts2vec.py:141] v523 trans = 0.0512
+01/27/2023:04:26:36,450 INF [ts2vec.py:128] e524 loss = 0.270721 recons = 0.2437 orth = 0.0000 trans = 0.0270
+01/27/2023:04:26:36,587 INF [ts2vec.py:141] v524 trans = 0.0495
+01/27/2023:04:26:37,97 INF [ts2vec.py:128] e525 loss = 0.271520 recons = 0.2444 orth = 0.0000 trans = 0.0271
+01/27/2023:04:26:37,235 INF [ts2vec.py:141] v525 trans = 0.0506
+01/27/2023:04:26:37,738 INF [ts2vec.py:128] e526 loss = 0.273608 recons = 0.2447 orth = 0.0000 trans = 0.0289
+01/27/2023:04:26:37,877 INF [ts2vec.py:141] v526 trans = 0.0589
+01/27/2023:04:26:38,385 INF [ts2vec.py:128] e527 loss = 0.269276 recons = 0.2445 orth = 0.0000 trans = 0.0248
+01/27/2023:04:26:38,525 INF [ts2vec.py:141] v527 trans = 0.0479
+01/27/2023:04:26:39,38 INF [ts2vec.py:128] e528 loss = 0.271934 recons = 0.2443 orth = 0.0000 trans = 0.0276
+01/27/2023:04:26:39,174 INF [ts2vec.py:141] v528 trans = 0.0528
+01/27/2023:04:26:39,682 INF [ts2vec.py:128] e529 loss = 0.271709 recons = 0.2449 orth = 0.0000 trans = 0.0268
+01/27/2023:04:26:39,820 INF [ts2vec.py:141] v529 trans = 0.0543
+01/27/2023:04:26:40,324 INF [ts2vec.py:128] e530 loss = 0.275059 recons = 0.2443 orth = 0.0000 trans = 0.0307
+01/27/2023:04:26:40,461 INF [ts2vec.py:141] v530 trans = 0.0553
+01/27/2023:04:26:40,963 INF [ts2vec.py:128] e531 loss = 0.270081 recons = 0.2443 orth = 0.0000 trans = 0.0258
+01/27/2023:04:26:41,103 INF [ts2vec.py:141] v531 trans = 0.0498
+01/27/2023:04:26:41,624 INF [ts2vec.py:128] e532 loss = 0.268421 recons = 0.2440 orth = 0.0000 trans = 0.0244
+01/27/2023:04:26:41,765 INF [ts2vec.py:141] v532 trans = 0.0504
+01/27/2023:04:26:42,277 INF [ts2vec.py:128] e533 loss = 0.268867 recons = 0.2438 orth = 0.0000 trans = 0.0250
+01/27/2023:04:26:42,414 INF [ts2vec.py:141] v533 trans = 0.0556
+01/27/2023:04:26:42,922 INF [ts2vec.py:128] e534 loss = 0.267869 recons = 0.2435 orth = 0.0000 trans = 0.0244
+01/27/2023:04:26:43,60 INF [ts2vec.py:141] v534 trans = 0.0512
+01/27/2023:04:26:43,562 INF [ts2vec.py:128] e535 loss = 0.269544 recons = 0.2435 orth = 0.0000 trans = 0.0261
+01/27/2023:04:26:43,710 INF [ts2vec.py:141] v535 trans = 0.0536
+01/27/2023:04:26:44,222 INF [ts2vec.py:128] e536 loss = 0.270548 recons = 0.2440 orth = 0.0000 trans = 0.0265
+01/27/2023:04:26:44,359 INF [ts2vec.py:141] v536 trans = 0.0557
+01/27/2023:04:26:44,870 INF [ts2vec.py:128] e537 loss = 0.267717 recons = 0.2437 orth = 0.0000 trans = 0.0241
+01/27/2023:04:26:45,9 INF [ts2vec.py:141] v537 trans = 0.0537
+01/27/2023:04:26:45,507 INF [ts2vec.py:128] e538 loss = 0.268420 recons = 0.2438 orth = 0.0000 trans = 0.0247
+01/27/2023:04:26:45,644 INF [ts2vec.py:141] v538 trans = 0.0486
+01/27/2023:04:26:46,162 INF [ts2vec.py:128] e539 loss = 0.271089 recons = 0.2436 orth = 0.0000 trans = 0.0274
+01/27/2023:04:26:46,299 INF [ts2vec.py:141] v539 trans = 0.0519
+01/27/2023:04:26:46,800 INF [ts2vec.py:128] e540 loss = 0.269023 recons = 0.2436 orth = 0.0000 trans = 0.0254
+01/27/2023:04:26:46,940 INF [ts2vec.py:141] v540 trans = 0.0569
+01/27/2023:04:26:47,444 INF [ts2vec.py:128] e541 loss = 0.270764 recons = 0.2441 orth = 0.0000 trans = 0.0266
+01/27/2023:04:26:47,582 INF [ts2vec.py:141] v541 trans = 0.0512
+01/27/2023:04:26:48,84 INF [ts2vec.py:128] e542 loss = 0.273307 recons = 0.2437 orth = 0.0000 trans = 0.0296
+01/27/2023:04:26:48,221 INF [ts2vec.py:141] v542 trans = 0.0575
+01/27/2023:04:26:48,731 INF [ts2vec.py:128] e543 loss = 0.271114 recons = 0.2440 orth = 0.0000 trans = 0.0271
+01/27/2023:04:26:48,869 INF [ts2vec.py:141] v543 trans = 0.0582
+01/27/2023:04:26:49,376 INF [ts2vec.py:128] e544 loss = 0.271168 recons = 0.2436 orth = 0.0000 trans = 0.0275
+01/27/2023:04:26:49,515 INF [ts2vec.py:141] v544 trans = 0.0534
+01/27/2023:04:26:50,24 INF [ts2vec.py:128] e545 loss = 0.269602 recons = 0.2436 orth = 0.0000 trans = 0.0260
+01/27/2023:04:26:50,162 INF [ts2vec.py:141] v545 trans = 0.0590
+01/27/2023:04:26:50,675 INF [ts2vec.py:128] e546 loss = 0.272733 recons = 0.2438 orth = 0.0000 trans = 0.0289
+01/27/2023:04:26:50,814 INF [ts2vec.py:141] v546 trans = 0.0583
+01/27/2023:04:26:51,318 INF [ts2vec.py:128] e547 loss = 0.269682 recons = 0.2438 orth = 0.0000 trans = 0.0258
+01/27/2023:04:26:51,457 INF [ts2vec.py:141] v547 trans = 0.0571
+01/27/2023:04:26:51,976 INF [ts2vec.py:128] e548 loss = 0.267678 recons = 0.2439 orth = 0.0000 trans = 0.0238
+01/27/2023:04:26:52,116 INF [ts2vec.py:141] v548 trans = 0.0523
+01/27/2023:04:26:52,625 INF [ts2vec.py:128] e549 loss = 0.268902 recons = 0.2438 orth = 0.0000 trans = 0.0251
+01/27/2023:04:26:52,764 INF [ts2vec.py:141] v549 trans = 0.0501
+01/27/2023:04:26:53,269 INF [ts2vec.py:128] e550 loss = 0.269379 recons = 0.2436 orth = 0.0000 trans = 0.0258
+01/27/2023:04:26:53,408 INF [ts2vec.py:141] v550 trans = 0.0600
+01/27/2023:04:26:53,916 INF [ts2vec.py:128] e551 loss = 0.266314 recons = 0.2436 orth = 0.0000 trans = 0.0228
+01/27/2023:04:26:54,52 INF [ts2vec.py:141] v551 trans = 0.0545
+01/27/2023:04:26:54,552 INF [ts2vec.py:128] e552 loss = 0.268694 recons = 0.2437 orth = 0.0000 trans = 0.0250
+01/27/2023:04:26:54,689 INF [ts2vec.py:141] v552 trans = 0.0527
+01/27/2023:04:26:55,191 INF [ts2vec.py:128] e553 loss = 0.270363 recons = 0.2441 orth = 0.0000 trans = 0.0263
+01/27/2023:04:26:55,332 INF [ts2vec.py:141] v553 trans = 0.0467
+01/27/2023:04:26:55,836 INF [ts2vec.py:128] e554 loss = 0.269456 recons = 0.2439 orth = 0.0000 trans = 0.0256
+01/27/2023:04:26:55,974 INF [ts2vec.py:141] v554 trans = 0.0497
+01/27/2023:04:26:56,486 INF [ts2vec.py:128] e555 loss = 0.270253 recons = 0.2452 orth = 0.0000 trans = 0.0251
+01/27/2023:04:26:56,623 INF [ts2vec.py:141] v555 trans = 0.0538
+01/27/2023:04:26:57,138 INF [ts2vec.py:128] e556 loss = 0.267378 recons = 0.2441 orth = 0.0000 trans = 0.0233
+01/27/2023:04:26:57,276 INF [ts2vec.py:141] v556 trans = 0.0517
+01/27/2023:04:26:57,781 INF [ts2vec.py:128] e557 loss = 0.270248 recons = 0.2436 orth = 0.0000 trans = 0.0266
+01/27/2023:04:26:57,919 INF [ts2vec.py:141] v557 trans = 0.0536
+01/27/2023:04:26:58,427 INF [ts2vec.py:128] e558 loss = 0.267644 recons = 0.2438 orth = 0.0000 trans = 0.0238
+01/27/2023:04:26:58,565 INF [ts2vec.py:141] v558 trans = 0.0536
+01/27/2023:04:26:59,66 INF [ts2vec.py:128] e559 loss = 0.270441 recons = 0.2441 orth = 0.0000 trans = 0.0263
+01/27/2023:04:26:59,203 INF [ts2vec.py:141] v559 trans = 0.0542
+01/27/2023:04:26:59,711 INF [ts2vec.py:128] e560 loss = 0.268503 recons = 0.2437 orth = 0.0000 trans = 0.0248
+01/27/2023:04:26:59,849 INF [ts2vec.py:141] v560 trans = 0.0510
+01/27/2023:04:27:00,360 INF [ts2vec.py:128] e561 loss = 0.267128 recons = 0.2435 orth = 0.0000 trans = 0.0236
+01/27/2023:04:27:00,497 INF [ts2vec.py:141] v561 trans = 0.0523
+01/27/2023:04:27:01,8 INF [ts2vec.py:128] e562 loss = 0.267455 recons = 0.2433 orth = 0.0000 trans = 0.0242
+01/27/2023:04:27:01,147 INF [ts2vec.py:141] v562 trans = 0.0577
+01/27/2023:04:27:01,668 INF [ts2vec.py:128] e563 loss = 0.267594 recons = 0.2436 orth = 0.0000 trans = 0.0240
+01/27/2023:04:27:01,809 INF [ts2vec.py:141] v563 trans = 0.0569
+01/27/2023:04:27:02,307 INF [ts2vec.py:128] e564 loss = 0.270910 recons = 0.2437 orth = 0.0000 trans = 0.0272
+01/27/2023:04:27:02,446 INF [ts2vec.py:141] v564 trans = 0.0544
+01/27/2023:04:27:02,954 INF [ts2vec.py:128] e565 loss = 0.269091 recons = 0.2436 orth = 0.0000 trans = 0.0255
+01/27/2023:04:27:03,90 INF [ts2vec.py:141] v565 trans = 0.0519
+01/27/2023:04:27:03,592 INF [ts2vec.py:128] e566 loss = 0.271099 recons = 0.2435 orth = 0.0000 trans = 0.0276
+01/27/2023:04:27:03,730 INF [ts2vec.py:141] v566 trans = 0.0609
+01/27/2023:04:27:04,239 INF [ts2vec.py:128] e567 loss = 0.269240 recons = 0.2435 orth = 0.0000 trans = 0.0257
+01/27/2023:04:27:04,376 INF [ts2vec.py:141] v567 trans = 0.0492
+01/27/2023:04:27:04,877 INF [ts2vec.py:128] e568 loss = 0.267751 recons = 0.2433 orth = 0.0000 trans = 0.0245
+01/27/2023:04:27:05,15 INF [ts2vec.py:141] v568 trans = 0.0568
+01/27/2023:04:27:05,515 INF [ts2vec.py:128] e569 loss = 0.270227 recons = 0.2434 orth = 0.0000 trans = 0.0268
+01/27/2023:04:27:05,651 INF [ts2vec.py:141] v569 trans = 0.0535
+01/27/2023:04:27:06,159 INF [ts2vec.py:128] e570 loss = 0.270123 recons = 0.2445 orth = 0.0000 trans = 0.0257
+01/27/2023:04:27:06,297 INF [ts2vec.py:141] v570 trans = 0.0532
+01/27/2023:04:27:06,799 INF [ts2vec.py:128] e571 loss = 0.267846 recons = 0.2440 orth = 0.0000 trans = 0.0239
+01/27/2023:04:27:06,937 INF [ts2vec.py:141] v571 trans = 0.0570
+01/27/2023:04:27:07,450 INF [ts2vec.py:128] e572 loss = 0.269609 recons = 0.2438 orth = 0.0000 trans = 0.0258
+01/27/2023:04:27:07,588 INF [ts2vec.py:141] v572 trans = 0.0549
+01/27/2023:04:27:08,103 INF [ts2vec.py:128] e573 loss = 0.269006 recons = 0.2439 orth = 0.0000 trans = 0.0251
+01/27/2023:04:27:08,238 INF [ts2vec.py:141] v573 trans = 0.0473
+01/27/2023:04:27:08,744 INF [ts2vec.py:128] e574 loss = 0.266953 recons = 0.2435 orth = 0.0000 trans = 0.0235
+01/27/2023:04:27:08,882 INF [ts2vec.py:141] v574 trans = 0.0556
+01/27/2023:04:27:09,392 INF [ts2vec.py:128] e575 loss = 0.266942 recons = 0.2436 orth = 0.0000 trans = 0.0234
+01/27/2023:04:27:09,528 INF [ts2vec.py:141] v575 trans = 0.0542
+01/27/2023:04:27:10,27 INF [ts2vec.py:128] e576 loss = 0.268683 recons = 0.2434 orth = 0.0000 trans = 0.0252
+01/27/2023:04:27:10,164 INF [ts2vec.py:141] v576 trans = 0.0512
+01/27/2023:04:27:10,673 INF [ts2vec.py:128] e577 loss = 0.271211 recons = 0.2437 orth = 0.0000 trans = 0.0275
+01/27/2023:04:27:10,812 INF [ts2vec.py:141] v577 trans = 0.0568
+01/27/2023:04:27:11,321 INF [ts2vec.py:128] e578 loss = 0.271391 recons = 0.2432 orth = 0.0000 trans = 0.0282
+01/27/2023:04:27:11,461 INF [ts2vec.py:141] v578 trans = 0.0496
+01/27/2023:04:27:11,983 INF [ts2vec.py:128] e579 loss = 0.269984 recons = 0.2429 orth = 0.0000 trans = 0.0271
+01/27/2023:04:27:12,121 INF [ts2vec.py:141] v579 trans = 0.0615
+01/27/2023:04:27:12,631 INF [ts2vec.py:128] e580 loss = 0.265695 recons = 0.2436 orth = 0.0000 trans = 0.0221
+01/27/2023:04:27:12,768 INF [ts2vec.py:141] v580 trans = 0.0560
+01/27/2023:04:27:13,270 INF [ts2vec.py:128] e581 loss = 0.269753 recons = 0.2431 orth = 0.0000 trans = 0.0267
+01/27/2023:04:27:13,410 INF [ts2vec.py:141] v581 trans = 0.0531
+01/27/2023:04:27:13,912 INF [ts2vec.py:128] e582 loss = 0.267021 recons = 0.2423 orth = 0.0000 trans = 0.0247
+01/27/2023:04:27:14,52 INF [ts2vec.py:141] v582 trans = 0.0517
+01/27/2023:04:27:14,559 INF [ts2vec.py:128] e583 loss = 0.267633 recons = 0.2427 orth = 0.0000 trans = 0.0249
+01/27/2023:04:27:14,698 INF [ts2vec.py:141] v583 trans = 0.0545
+01/27/2023:04:27:15,208 INF [ts2vec.py:128] e584 loss = 0.269389 recons = 0.2430 orth = 0.0000 trans = 0.0264
+01/27/2023:04:27:15,345 INF [ts2vec.py:141] v584 trans = 0.0595
+01/27/2023:04:27:15,939 INF [ts2vec.py:128] e585 loss = 0.268745 recons = 0.2433 orth = 0.0000 trans = 0.0254
+01/27/2023:04:27:16,78 INF [ts2vec.py:141] v585 trans = 0.0550
+01/27/2023:04:27:16,580 INF [ts2vec.py:128] e586 loss = 0.268081 recons = 0.2430 orth = 0.0000 trans = 0.0251
+01/27/2023:04:27:16,717 INF [ts2vec.py:141] v586 trans = 0.0579
+01/27/2023:04:27:17,229 INF [ts2vec.py:128] e587 loss = 0.267683 recons = 0.2430 orth = 0.0000 trans = 0.0247
+01/27/2023:04:27:17,367 INF [ts2vec.py:141] v587 trans = 0.0597
+01/27/2023:04:27:17,877 INF [ts2vec.py:128] e588 loss = 0.266145 recons = 0.2430 orth = 0.0000 trans = 0.0231
+01/27/2023:04:27:18,14 INF [ts2vec.py:141] v588 trans = 0.0527
+01/27/2023:04:27:18,524 INF [ts2vec.py:128] e589 loss = 0.268438 recons = 0.2431 orth = 0.0000 trans = 0.0253
+01/27/2023:04:27:18,661 INF [ts2vec.py:141] v589 trans = 0.0572
+01/27/2023:04:27:19,164 INF [ts2vec.py:128] e590 loss = 0.268040 recons = 0.2427 orth = 0.0000 trans = 0.0253
+01/27/2023:04:27:19,302 INF [ts2vec.py:141] v590 trans = 0.0497
+01/27/2023:04:27:19,806 INF [ts2vec.py:128] e591 loss = 0.265505 recons = 0.2429 orth = 0.0000 trans = 0.0226
+01/27/2023:04:27:19,942 INF [ts2vec.py:141] v591 trans = 0.0521
+01/27/2023:04:27:20,452 INF [ts2vec.py:128] e592 loss = 0.266727 recons = 0.2429 orth = 0.0000 trans = 0.0239
+01/27/2023:04:27:20,589 INF [ts2vec.py:141] v592 trans = 0.0560
+01/27/2023:04:27:21,94 INF [ts2vec.py:128] e593 loss = 0.268689 recons = 0.2427 orth = 0.0000 trans = 0.0260
+01/27/2023:04:27:21,234 INF [ts2vec.py:141] v593 trans = 0.0525
+01/27/2023:04:27:21,759 INF [ts2vec.py:128] e594 loss = 0.270372 recons = 0.2432 orth = 0.0000 trans = 0.0272
+01/27/2023:04:27:21,898 INF [ts2vec.py:141] v594 trans = 0.0578
+01/27/2023:04:27:22,399 INF [ts2vec.py:128] e595 loss = 0.267655 recons = 0.2430 orth = 0.0000 trans = 0.0247
+01/27/2023:04:27:22,539 INF [ts2vec.py:141] v595 trans = 0.0531
+01/27/2023:04:27:23,48 INF [ts2vec.py:128] e596 loss = 0.266665 recons = 0.2431 orth = 0.0000 trans = 0.0236
+01/27/2023:04:27:23,188 INF [ts2vec.py:141] v596 trans = 0.0489
+01/27/2023:04:27:23,699 INF [ts2vec.py:128] e597 loss = 0.270460 recons = 0.2429 orth = 0.0000 trans = 0.0275
+01/27/2023:04:27:23,835 INF [ts2vec.py:141] v597 trans = 0.0557
+01/27/2023:04:27:24,348 INF [ts2vec.py:128] e598 loss = 0.267457 recons = 0.2433 orth = 0.0000 trans = 0.0241
+01/27/2023:04:27:24,488 INF [ts2vec.py:141] v598 trans = 0.0583
+01/27/2023:04:27:24,995 INF [ts2vec.py:128] e599 loss = 0.267058 recons = 0.2429 orth = 0.0000 trans = 0.0241
+01/27/2023:04:27:25,135 INF [ts2vec.py:141] v599 trans = 0.0523
+01/27/2023:04:27:25,647 INF [ts2vec.py:128] e600 loss = 0.267604 recons = 0.2430 orth = 0.0000 trans = 0.0246
+01/27/2023:04:27:25,785 INF [ts2vec.py:141] v600 trans = 0.0550
+01/27/2023:04:27:26,387 INF [ts2vec.py:128] e601 loss = 0.267661 recons = 0.2432 orth = 0.0000 trans = 0.0244
+01/27/2023:04:27:26,525 INF [ts2vec.py:141] v601 trans = 0.0575
+01/27/2023:04:27:27,31 INF [ts2vec.py:128] e602 loss = 0.268785 recons = 0.2428 orth = 0.0000 trans = 0.0260
+01/27/2023:04:27:27,168 INF [ts2vec.py:141] v602 trans = 0.0553
+01/27/2023:04:27:27,676 INF [ts2vec.py:128] e603 loss = 0.267931 recons = 0.2424 orth = 0.0000 trans = 0.0255
+01/27/2023:04:27:27,815 INF [ts2vec.py:141] v603 trans = 0.0533
+01/27/2023:04:27:28,324 INF [ts2vec.py:128] e604 loss = 0.269696 recons = 0.2430 orth = 0.0000 trans = 0.0267
+01/27/2023:04:27:28,462 INF [ts2vec.py:141] v604 trans = 0.0577
+01/27/2023:04:27:28,967 INF [ts2vec.py:128] e605 loss = 0.265418 recons = 0.2431 orth = 0.0000 trans = 0.0223
+01/27/2023:04:27:29,105 INF [ts2vec.py:141] v605 trans = 0.0521
+01/27/2023:04:27:29,611 INF [ts2vec.py:128] e606 loss = 0.268250 recons = 0.2428 orth = 0.0000 trans = 0.0254
+01/27/2023:04:27:29,749 INF [ts2vec.py:141] v606 trans = 0.0579
+01/27/2023:04:27:30,260 INF [ts2vec.py:128] e607 loss = 0.266329 recons = 0.2429 orth = 0.0000 trans = 0.0234
+01/27/2023:04:27:30,400 INF [ts2vec.py:141] v607 trans = 0.0561
+01/27/2023:04:27:30,909 INF [ts2vec.py:128] e608 loss = 0.268083 recons = 0.2427 orth = 0.0000 trans = 0.0254
+01/27/2023:04:27:31,47 INF [ts2vec.py:141] v608 trans = 0.0561
+01/27/2023:04:27:31,568 INF [ts2vec.py:128] e609 loss = 0.265739 recons = 0.2432 orth = 0.0000 trans = 0.0226
+01/27/2023:04:27:31,709 INF [ts2vec.py:141] v609 trans = 0.0592
+01/27/2023:04:27:32,222 INF [ts2vec.py:128] e610 loss = 0.267686 recons = 0.2436 orth = 0.0000 trans = 0.0241
+01/27/2023:04:27:32,360 INF [ts2vec.py:141] v610 trans = 0.0581
+01/27/2023:04:27:32,864 INF [ts2vec.py:128] e611 loss = 0.269112 recons = 0.2436 orth = 0.0000 trans = 0.0255
+01/27/2023:04:27:33,3 INF [ts2vec.py:141] v611 trans = 0.0605
+01/27/2023:04:27:33,512 INF [ts2vec.py:128] e612 loss = 0.271850 recons = 0.2441 orth = 0.0000 trans = 0.0278
+01/27/2023:04:27:33,649 INF [ts2vec.py:141] v612 trans = 0.0598
+01/27/2023:04:27:34,157 INF [ts2vec.py:128] e613 loss = 0.265666 recons = 0.2436 orth = 0.0000 trans = 0.0221
+01/27/2023:04:27:34,296 INF [ts2vec.py:141] v613 trans = 0.0573
+01/27/2023:04:27:34,802 INF [ts2vec.py:128] e614 loss = 0.268204 recons = 0.2439 orth = 0.0000 trans = 0.0243
+01/27/2023:04:27:34,941 INF [ts2vec.py:141] v614 trans = 0.0508
+01/27/2023:04:27:35,443 INF [ts2vec.py:128] e615 loss = 0.268398 recons = 0.2432 orth = 0.0000 trans = 0.0252
+01/27/2023:04:27:35,580 INF [ts2vec.py:141] v615 trans = 0.0618
+01/27/2023:04:27:36,85 INF [ts2vec.py:128] e616 loss = 0.267919 recons = 0.2439 orth = 0.0000 trans = 0.0240
+01/27/2023:04:27:36,224 INF [ts2vec.py:141] v616 trans = 0.0578
+01/27/2023:04:27:36,726 INF [ts2vec.py:128] e617 loss = 0.267806 recons = 0.2431 orth = 0.0000 trans = 0.0247
+01/27/2023:04:27:36,861 INF [ts2vec.py:141] v617 trans = 0.0533
+01/27/2023:04:27:37,372 INF [ts2vec.py:128] e618 loss = 0.267282 recons = 0.2437 orth = 0.0000 trans = 0.0236
+01/27/2023:04:27:37,510 INF [ts2vec.py:141] v618 trans = 0.0512
+01/27/2023:04:27:38,21 INF [ts2vec.py:128] e619 loss = 0.270252 recons = 0.2429 orth = 0.0000 trans = 0.0274
+01/27/2023:04:27:38,160 INF [ts2vec.py:141] v619 trans = 0.0533
+01/27/2023:04:27:38,667 INF [ts2vec.py:128] e620 loss = 0.266750 recons = 0.2427 orth = 0.0000 trans = 0.0241
+01/27/2023:04:27:38,805 INF [ts2vec.py:141] v620 trans = 0.0561
+01/27/2023:04:27:39,314 INF [ts2vec.py:128] e621 loss = 0.265783 recons = 0.2431 orth = 0.0000 trans = 0.0227
+01/27/2023:04:27:39,454 INF [ts2vec.py:141] v621 trans = 0.0545
+01/27/2023:04:27:39,958 INF [ts2vec.py:128] e622 loss = 0.268084 recons = 0.2432 orth = 0.0000 trans = 0.0249
+01/27/2023:04:27:40,96 INF [ts2vec.py:141] v622 trans = 0.0543
+01/27/2023:04:27:40,604 INF [ts2vec.py:128] e623 loss = 0.267155 recons = 0.2432 orth = 0.0000 trans = 0.0240
+01/27/2023:04:27:40,743 INF [ts2vec.py:141] v623 trans = 0.0546
+01/27/2023:04:27:41,251 INF [ts2vec.py:128] e624 loss = 0.268783 recons = 0.2431 orth = 0.0000 trans = 0.0257
+01/27/2023:04:27:41,390 INF [ts2vec.py:141] v624 trans = 0.0514
+01/27/2023:04:27:41,917 INF [ts2vec.py:128] e625 loss = 0.268449 recons = 0.2432 orth = 0.0000 trans = 0.0252
+01/27/2023:04:27:42,53 INF [ts2vec.py:141] v625 trans = 0.0559
+01/27/2023:04:27:42,562 INF [ts2vec.py:128] e626 loss = 0.266828 recons = 0.2430 orth = 0.0000 trans = 0.0238
+01/27/2023:04:27:42,700 INF [ts2vec.py:141] v626 trans = 0.0599
+01/27/2023:04:27:43,210 INF [ts2vec.py:128] e627 loss = 0.266575 recons = 0.2435 orth = 0.0000 trans = 0.0231
+01/27/2023:04:27:43,348 INF [ts2vec.py:141] v627 trans = 0.0549
+01/27/2023:04:27:43,853 INF [ts2vec.py:128] e628 loss = 0.269184 recons = 0.2432 orth = 0.0000 trans = 0.0260
+01/27/2023:04:27:43,994 INF [ts2vec.py:141] v628 trans = 0.0544
+01/27/2023:04:27:44,494 INF [ts2vec.py:128] e629 loss = 0.266978 recons = 0.2431 orth = 0.0000 trans = 0.0239
+01/27/2023:04:27:44,633 INF [ts2vec.py:141] v629 trans = 0.0556
+01/27/2023:04:27:45,139 INF [ts2vec.py:128] e630 loss = 0.268791 recons = 0.2427 orth = 0.0000 trans = 0.0261
+01/27/2023:04:27:45,278 INF [ts2vec.py:141] v630 trans = 0.0508
+01/27/2023:04:27:45,791 INF [ts2vec.py:128] e631 loss = 0.265981 recons = 0.2428 orth = 0.0000 trans = 0.0232
+01/27/2023:04:27:45,935 INF [ts2vec.py:141] v631 trans = 0.0553
+01/27/2023:04:27:46,442 INF [ts2vec.py:128] e632 loss = 0.266429 recons = 0.2431 orth = 0.0000 trans = 0.0234
+01/27/2023:04:27:46,580 INF [ts2vec.py:141] v632 trans = 0.0557
+01/27/2023:04:27:47,93 INF [ts2vec.py:128] e633 loss = 0.262867 recons = 0.2424 orth = 0.0000 trans = 0.0204
+01/27/2023:04:27:47,233 INF [ts2vec.py:141] v633 trans = 0.0528
+01/27/2023:04:27:47,741 INF [ts2vec.py:128] e634 loss = 0.266725 recons = 0.2425 orth = 0.0000 trans = 0.0242
+01/27/2023:04:27:47,879 INF [ts2vec.py:141] v634 trans = 0.0524
+01/27/2023:04:27:48,385 INF [ts2vec.py:128] e635 loss = 0.264924 recons = 0.2426 orth = 0.0000 trans = 0.0223
+01/27/2023:04:27:48,525 INF [ts2vec.py:141] v635 trans = 0.0548
+01/27/2023:04:27:49,31 INF [ts2vec.py:128] e636 loss = 0.269511 recons = 0.2431 orth = 0.0000 trans = 0.0264
+01/27/2023:04:27:49,170 INF [ts2vec.py:141] v636 trans = 0.0574
+01/27/2023:04:27:49,680 INF [ts2vec.py:128] e637 loss = 0.265948 recons = 0.2429 orth = 0.0000 trans = 0.0230
+01/27/2023:04:27:49,819 INF [ts2vec.py:141] v637 trans = 0.0550
+01/27/2023:04:27:50,322 INF [ts2vec.py:128] e638 loss = 0.267584 recons = 0.2427 orth = 0.0000 trans = 0.0249
+01/27/2023:04:27:50,462 INF [ts2vec.py:141] v638 trans = 0.0519
+01/27/2023:04:27:50,980 INF [ts2vec.py:128] e639 loss = 0.267676 recons = 0.2420 orth = 0.0000 trans = 0.0257
+01/27/2023:04:27:51,120 INF [ts2vec.py:141] v639 trans = 0.0536
+01/27/2023:04:27:51,634 INF [ts2vec.py:128] e640 loss = 0.263702 recons = 0.2419 orth = 0.0000 trans = 0.0218
+01/27/2023:04:27:51,774 INF [ts2vec.py:141] v640 trans = 0.0569
+01/27/2023:04:27:52,284 INF [ts2vec.py:128] e641 loss = 0.266664 recons = 0.2421 orth = 0.0000 trans = 0.0246
+01/27/2023:04:27:52,423 INF [ts2vec.py:141] v641 trans = 0.0561
+01/27/2023:04:27:52,923 INF [ts2vec.py:128] e642 loss = 0.267798 recons = 0.2428 orth = 0.0000 trans = 0.0250
+01/27/2023:04:27:53,61 INF [ts2vec.py:141] v642 trans = 0.0547
+01/27/2023:04:27:53,564 INF [ts2vec.py:128] e643 loss = 0.267187 recons = 0.2426 orth = 0.0000 trans = 0.0246
+01/27/2023:04:27:53,702 INF [ts2vec.py:141] v643 trans = 0.0583
+01/27/2023:04:27:54,207 INF [ts2vec.py:128] e644 loss = 0.267419 recons = 0.2422 orth = 0.0000 trans = 0.0252
+01/27/2023:04:27:54,345 INF [ts2vec.py:141] v644 trans = 0.0553
+01/27/2023:04:27:54,851 INF [ts2vec.py:128] e645 loss = 0.267493 recons = 0.2420 orth = 0.0000 trans = 0.0255
+01/27/2023:04:27:54,989 INF [ts2vec.py:141] v645 trans = 0.0524
+01/27/2023:04:27:55,494 INF [ts2vec.py:128] e646 loss = 0.266907 recons = 0.2419 orth = 0.0000 trans = 0.0251
+01/27/2023:04:27:55,630 INF [ts2vec.py:141] v646 trans = 0.0530
+01/27/2023:04:27:56,139 INF [ts2vec.py:128] e647 loss = 0.263449 recons = 0.2419 orth = 0.0000 trans = 0.0215
+01/27/2023:04:27:56,277 INF [ts2vec.py:141] v647 trans = 0.0581
+01/27/2023:04:27:56,782 INF [ts2vec.py:128] e648 loss = 0.263548 recons = 0.2422 orth = 0.0000 trans = 0.0213
+01/27/2023:04:27:56,920 INF [ts2vec.py:141] v648 trans = 0.0585
+01/27/2023:04:27:57,430 INF [ts2vec.py:128] e649 loss = 0.264894 recons = 0.2422 orth = 0.0000 trans = 0.0227
+01/27/2023:04:27:57,568 INF [ts2vec.py:141] v649 trans = 0.0553
+01/27/2023:04:27:58,75 INF [ts2vec.py:128] e650 loss = 0.265359 recons = 0.2417 orth = 0.0000 trans = 0.0237
+01/27/2023:04:27:58,213 INF [ts2vec.py:141] v650 trans = 0.0540
+01/27/2023:04:27:58,723 INF [ts2vec.py:128] e651 loss = 0.266799 recons = 0.2417 orth = 0.0000 trans = 0.0251
+01/27/2023:04:27:58,860 INF [ts2vec.py:141] v651 trans = 0.0497
+01/27/2023:04:27:59,369 INF [ts2vec.py:128] e652 loss = 0.264652 recons = 0.2418 orth = 0.0000 trans = 0.0229
+01/27/2023:04:27:59,507 INF [ts2vec.py:141] v652 trans = 0.0546
+01/27/2023:04:28:00,18 INF [ts2vec.py:128] e653 loss = 0.266146 recons = 0.2419 orth = 0.0000 trans = 0.0242
+01/27/2023:04:28:00,158 INF [ts2vec.py:141] v653 trans = 0.0583
+01/27/2023:04:28:00,671 INF [ts2vec.py:128] e654 loss = 0.265630 recons = 0.2422 orth = 0.0000 trans = 0.0235
+01/27/2023:04:28:00,810 INF [ts2vec.py:141] v654 trans = 0.0554
+01/27/2023:04:28:01,316 INF [ts2vec.py:128] e655 loss = 0.266471 recons = 0.2426 orth = 0.0000 trans = 0.0239
+01/27/2023:04:28:01,457 INF [ts2vec.py:141] v655 trans = 0.0563
+01/27/2023:04:28:01,977 INF [ts2vec.py:128] e656 loss = 0.267627 recons = 0.2424 orth = 0.0000 trans = 0.0252
+01/27/2023:04:28:02,116 INF [ts2vec.py:141] v656 trans = 0.0474
+01/27/2023:04:28:02,618 INF [ts2vec.py:128] e657 loss = 0.266351 recons = 0.2417 orth = 0.0000 trans = 0.0247
+01/27/2023:04:28:02,758 INF [ts2vec.py:141] v657 trans = 0.0506
+01/27/2023:04:28:03,270 INF [ts2vec.py:128] e658 loss = 0.263780 recons = 0.2420 orth = 0.0000 trans = 0.0218
+01/27/2023:04:28:03,409 INF [ts2vec.py:141] v658 trans = 0.0539
+01/27/2023:04:28:03,922 INF [ts2vec.py:128] e659 loss = 0.267782 recons = 0.2422 orth = 0.0000 trans = 0.0256
+01/27/2023:04:28:04,58 INF [ts2vec.py:141] v659 trans = 0.0639
+01/27/2023:04:28:04,572 INF [ts2vec.py:128] e660 loss = 0.266219 recons = 0.2423 orth = 0.0000 trans = 0.0239
+01/27/2023:04:28:04,712 INF [ts2vec.py:141] v660 trans = 0.0501
+01/27/2023:04:28:05,227 INF [ts2vec.py:128] e661 loss = 0.264811 recons = 0.2422 orth = 0.0000 trans = 0.0226
+01/27/2023:04:28:05,365 INF [ts2vec.py:141] v661 trans = 0.0522
+01/27/2023:04:28:05,871 INF [ts2vec.py:128] e662 loss = 0.265633 recons = 0.2425 orth = 0.0000 trans = 0.0231
+01/27/2023:04:28:06,7 INF [ts2vec.py:141] v662 trans = 0.0513
+01/27/2023:04:28:06,514 INF [ts2vec.py:128] e663 loss = 0.262606 recons = 0.2422 orth = 0.0000 trans = 0.0204
+01/27/2023:04:28:06,652 INF [ts2vec.py:141] v663 trans = 0.0490
+01/27/2023:04:28:07,157 INF [ts2vec.py:128] e664 loss = 0.264636 recons = 0.2424 orth = 0.0000 trans = 0.0222
+01/27/2023:04:28:07,294 INF [ts2vec.py:141] v664 trans = 0.0582
+01/27/2023:04:28:07,799 INF [ts2vec.py:128] e665 loss = 0.267766 recons = 0.2424 orth = 0.0000 trans = 0.0254
+01/27/2023:04:28:07,938 INF [ts2vec.py:141] v665 trans = 0.0561
+01/27/2023:04:28:08,445 INF [ts2vec.py:128] e666 loss = 0.269561 recons = 0.2425 orth = 0.0000 trans = 0.0271
+01/27/2023:04:28:08,585 INF [ts2vec.py:141] v666 trans = 0.0568
+01/27/2023:04:28:09,93 INF [ts2vec.py:128] e667 loss = 0.265152 recons = 0.2421 orth = 0.0000 trans = 0.0230
+01/27/2023:04:28:09,233 INF [ts2vec.py:141] v667 trans = 0.0557
+01/27/2023:04:28:09,741 INF [ts2vec.py:128] e668 loss = 0.263692 recons = 0.2419 orth = 0.0000 trans = 0.0218
+01/27/2023:04:28:09,880 INF [ts2vec.py:141] v668 trans = 0.0550
+01/27/2023:04:28:10,388 INF [ts2vec.py:128] e669 loss = 0.265195 recons = 0.2422 orth = 0.0000 trans = 0.0230
+01/27/2023:04:28:10,525 INF [ts2vec.py:141] v669 trans = 0.0615
+01/27/2023:04:28:11,29 INF [ts2vec.py:128] e670 loss = 0.265454 recons = 0.2418 orth = 0.0000 trans = 0.0237
+01/27/2023:04:28:11,167 INF [ts2vec.py:141] v670 trans = 0.0552
+01/27/2023:04:28:11,688 INF [ts2vec.py:128] e671 loss = 0.263703 recons = 0.2419 orth = 0.0000 trans = 0.0218
+01/27/2023:04:28:11,828 INF [ts2vec.py:141] v671 trans = 0.0600
+01/27/2023:04:28:12,342 INF [ts2vec.py:128] e672 loss = 0.266379 recons = 0.2417 orth = 0.0000 trans = 0.0247
+01/27/2023:04:28:12,479 INF [ts2vec.py:141] v672 trans = 0.0514
+01/27/2023:04:28:12,988 INF [ts2vec.py:128] e673 loss = 0.264138 recons = 0.2421 orth = 0.0000 trans = 0.0220
+01/27/2023:04:28:13,127 INF [ts2vec.py:141] v673 trans = 0.0544
+01/27/2023:04:28:13,626 INF [ts2vec.py:128] e674 loss = 0.266497 recons = 0.2415 orth = 0.0000 trans = 0.0249
+01/27/2023:04:28:13,762 INF [ts2vec.py:141] v674 trans = 0.0605
+01/27/2023:04:28:14,265 INF [ts2vec.py:128] e675 loss = 0.264388 recons = 0.2416 orth = 0.0000 trans = 0.0227
+01/27/2023:04:28:14,405 INF [ts2vec.py:141] v675 trans = 0.0599
+01/27/2023:04:28:14,905 INF [ts2vec.py:128] e676 loss = 0.265901 recons = 0.2421 orth = 0.0000 trans = 0.0238
+01/27/2023:04:28:15,46 INF [ts2vec.py:141] v676 trans = 0.0596
+01/27/2023:04:28:15,558 INF [ts2vec.py:128] e677 loss = 0.264369 recons = 0.2420 orth = 0.0000 trans = 0.0223
+01/27/2023:04:28:15,697 INF [ts2vec.py:141] v677 trans = 0.0559
+01/27/2023:04:28:16,202 INF [ts2vec.py:128] e678 loss = 0.266092 recons = 0.2424 orth = 0.0000 trans = 0.0237
+01/27/2023:04:28:16,341 INF [ts2vec.py:141] v678 trans = 0.0533
+01/27/2023:04:28:16,855 INF [ts2vec.py:128] e679 loss = 0.264753 recons = 0.2421 orth = 0.0000 trans = 0.0226
+01/27/2023:04:28:16,992 INF [ts2vec.py:141] v679 trans = 0.0518
+01/27/2023:04:28:17,497 INF [ts2vec.py:128] e680 loss = 0.265479 recons = 0.2420 orth = 0.0000 trans = 0.0235
+01/27/2023:04:28:17,635 INF [ts2vec.py:141] v680 trans = 0.0529
+01/27/2023:04:28:18,137 INF [ts2vec.py:128] e681 loss = 0.265624 recons = 0.2419 orth = 0.0000 trans = 0.0237
+01/27/2023:04:28:18,275 INF [ts2vec.py:141] v681 trans = 0.0511
+01/27/2023:04:28:18,784 INF [ts2vec.py:128] e682 loss = 0.265146 recons = 0.2418 orth = 0.0000 trans = 0.0234
+01/27/2023:04:28:18,923 INF [ts2vec.py:141] v682 trans = 0.0530
+01/27/2023:04:28:19,426 INF [ts2vec.py:128] e683 loss = 0.264460 recons = 0.2418 orth = 0.0000 trans = 0.0227
+01/27/2023:04:28:19,565 INF [ts2vec.py:141] v683 trans = 0.0584
+01/27/2023:04:28:20,68 INF [ts2vec.py:128] e684 loss = 0.263810 recons = 0.2423 orth = 0.0000 trans = 0.0216
+01/27/2023:04:28:20,206 INF [ts2vec.py:141] v684 trans = 0.0541
+01/27/2023:04:28:20,713 INF [ts2vec.py:128] e685 loss = 0.263906 recons = 0.2427 orth = 0.0000 trans = 0.0212
+01/27/2023:04:28:20,852 INF [ts2vec.py:141] v685 trans = 0.0528
+01/27/2023:04:28:21,359 INF [ts2vec.py:128] e686 loss = 0.269355 recons = 0.2427 orth = 0.0000 trans = 0.0267
+01/27/2023:04:28:21,510 INF [ts2vec.py:141] v686 trans = 0.0569
+01/27/2023:04:28:22,27 INF [ts2vec.py:128] e687 loss = 0.266317 recons = 0.2421 orth = 0.0000 trans = 0.0242
+01/27/2023:04:28:22,165 INF [ts2vec.py:141] v687 trans = 0.0616
+01/27/2023:04:28:22,672 INF [ts2vec.py:128] e688 loss = 0.266431 recons = 0.2419 orth = 0.0000 trans = 0.0246
+01/27/2023:04:28:22,809 INF [ts2vec.py:141] v688 trans = 0.0541
+01/27/2023:04:28:23,314 INF [ts2vec.py:128] e689 loss = 0.265942 recons = 0.2417 orth = 0.0000 trans = 0.0242
+01/27/2023:04:28:23,451 INF [ts2vec.py:141] v689 trans = 0.0589
+01/27/2023:04:28:23,967 INF [ts2vec.py:128] e690 loss = 0.265711 recons = 0.2419 orth = 0.0000 trans = 0.0238
+01/27/2023:04:28:24,107 INF [ts2vec.py:141] v690 trans = 0.0561
+01/27/2023:04:28:24,607 INF [ts2vec.py:128] e691 loss = 0.264081 recons = 0.2426 orth = 0.0000 trans = 0.0215
+01/27/2023:04:28:24,745 INF [ts2vec.py:141] v691 trans = 0.0542
+01/27/2023:04:28:25,257 INF [ts2vec.py:128] e692 loss = 0.265138 recons = 0.2426 orth = 0.0000 trans = 0.0226
+01/27/2023:04:28:25,395 INF [ts2vec.py:141] v692 trans = 0.0545
+01/27/2023:04:28:25,901 INF [ts2vec.py:128] e693 loss = 0.263751 recons = 0.2420 orth = 0.0000 trans = 0.0217
+01/27/2023:04:28:26,41 INF [ts2vec.py:141] v693 trans = 0.0492
+01/27/2023:04:28:26,545 INF [ts2vec.py:128] e694 loss = 0.266014 recons = 0.2421 orth = 0.0000 trans = 0.0240
+01/27/2023:04:28:26,685 INF [ts2vec.py:141] v694 trans = 0.0560
+01/27/2023:04:28:27,192 INF [ts2vec.py:128] e695 loss = 0.267670 recons = 0.2426 orth = 0.0000 trans = 0.0250
+01/27/2023:04:28:27,334 INF [ts2vec.py:141] v695 trans = 0.0595
+01/27/2023:04:28:27,846 INF [ts2vec.py:128] e696 loss = 0.264099 recons = 0.2426 orth = 0.0000 trans = 0.0215
+01/27/2023:04:28:27,987 INF [ts2vec.py:141] v696 trans = 0.0544
+01/27/2023:04:28:28,502 INF [ts2vec.py:128] e697 loss = 0.265539 recons = 0.2424 orth = 0.0000 trans = 0.0231
+01/27/2023:04:28:28,639 INF [ts2vec.py:141] v697 trans = 0.0529
+01/27/2023:04:28:29,145 INF [ts2vec.py:128] e698 loss = 0.266698 recons = 0.2423 orth = 0.0000 trans = 0.0244
+01/27/2023:04:28:29,283 INF [ts2vec.py:141] v698 trans = 0.0564
+01/27/2023:04:28:29,785 INF [ts2vec.py:128] e699 loss = 0.264251 recons = 0.2423 orth = 0.0000 trans = 0.0220
+01/27/2023:04:28:29,921 INF [ts2vec.py:141] v699 trans = 0.0563
+01/27/2023:04:28:30,426 INF [ts2vec.py:128] e700 loss = 0.264779 recons = 0.2422 orth = 0.0000 trans = 0.0226
+01/27/2023:04:28:30,565 INF [ts2vec.py:141] v700 trans = 0.0562
+01/27/2023:04:28:31,79 INF [ts2vec.py:128] e701 loss = 0.267347 recons = 0.2424 orth = 0.0000 trans = 0.0250
+01/27/2023:04:28:31,217 INF [ts2vec.py:141] v701 trans = 0.0543
+01/27/2023:04:28:31,735 INF [ts2vec.py:128] e702 loss = 0.266684 recons = 0.2425 orth = 0.0000 trans = 0.0242
+01/27/2023:04:28:31,874 INF [ts2vec.py:141] v702 trans = 0.0600
+01/27/2023:04:28:32,382 INF [ts2vec.py:128] e703 loss = 0.265807 recons = 0.2423 orth = 0.0000 trans = 0.0235
+01/27/2023:04:28:32,520 INF [ts2vec.py:141] v703 trans = 0.0562
+01/27/2023:04:28:33,26 INF [ts2vec.py:128] e704 loss = 0.264788 recons = 0.2421 orth = 0.0000 trans = 0.0227
+01/27/2023:04:28:33,165 INF [ts2vec.py:141] v704 trans = 0.0553
+01/27/2023:04:28:33,671 INF [ts2vec.py:128] e705 loss = 0.265440 recons = 0.2419 orth = 0.0000 trans = 0.0235
+01/27/2023:04:28:33,810 INF [ts2vec.py:141] v705 trans = 0.0523
+01/27/2023:04:28:34,320 INF [ts2vec.py:128] e706 loss = 0.267256 recons = 0.2417 orth = 0.0000 trans = 0.0255
+01/27/2023:04:28:34,459 INF [ts2vec.py:141] v706 trans = 0.0518
+01/27/2023:04:28:34,969 INF [ts2vec.py:128] e707 loss = 0.264093 recons = 0.2423 orth = 0.0000 trans = 0.0218
+01/27/2023:04:28:35,107 INF [ts2vec.py:141] v707 trans = 0.0552
+01/27/2023:04:28:35,618 INF [ts2vec.py:128] e708 loss = 0.265003 recons = 0.2423 orth = 0.0000 trans = 0.0227
+01/27/2023:04:28:35,756 INF [ts2vec.py:141] v708 trans = 0.0552
+01/27/2023:04:28:36,262 INF [ts2vec.py:128] e709 loss = 0.264893 recons = 0.2422 orth = 0.0000 trans = 0.0227
+01/27/2023:04:28:36,401 INF [ts2vec.py:141] v709 trans = 0.0514
+01/27/2023:04:28:36,902 INF [ts2vec.py:128] e710 loss = 0.264280 recons = 0.2422 orth = 0.0000 trans = 0.0221
+01/27/2023:04:28:37,41 INF [ts2vec.py:141] v710 trans = 0.0547
+01/27/2023:04:28:37,548 INF [ts2vec.py:128] e711 loss = 0.264841 recons = 0.2425 orth = 0.0000 trans = 0.0223
+01/27/2023:04:28:37,688 INF [ts2vec.py:141] v711 trans = 0.0560
+01/27/2023:04:28:38,191 INF [ts2vec.py:128] e712 loss = 0.267262 recons = 0.2423 orth = 0.0000 trans = 0.0250
+01/27/2023:04:28:38,328 INF [ts2vec.py:141] v712 trans = 0.0575
+01/27/2023:04:28:38,838 INF [ts2vec.py:128] e713 loss = 0.265123 recons = 0.2419 orth = 0.0000 trans = 0.0232
+01/27/2023:04:28:38,975 INF [ts2vec.py:141] v713 trans = 0.0578
+01/27/2023:04:28:39,484 INF [ts2vec.py:128] e714 loss = 0.266064 recons = 0.2420 orth = 0.0000 trans = 0.0240
+01/27/2023:04:28:39,630 INF [ts2vec.py:141] v714 trans = 0.0585
+01/27/2023:04:28:40,134 INF [ts2vec.py:128] e715 loss = 0.263041 recons = 0.2419 orth = 0.0000 trans = 0.0212
+01/27/2023:04:28:40,271 INF [ts2vec.py:141] v715 trans = 0.0557
+01/27/2023:04:28:40,775 INF [ts2vec.py:128] e716 loss = 0.262727 recons = 0.2421 orth = 0.0000 trans = 0.0207
+01/27/2023:04:28:40,914 INF [ts2vec.py:141] v716 trans = 0.0588
+01/27/2023:04:28:41,423 INF [ts2vec.py:128] e717 loss = 0.267822 recons = 0.2419 orth = 0.0000 trans = 0.0260
+01/27/2023:04:28:41,564 INF [ts2vec.py:141] v717 trans = 0.0528
+01/27/2023:04:28:42,79 INF [ts2vec.py:128] e718 loss = 0.263208 recons = 0.2422 orth = 0.0000 trans = 0.0210
+01/27/2023:04:28:42,217 INF [ts2vec.py:141] v718 trans = 0.0569
+01/27/2023:04:28:42,720 INF [ts2vec.py:128] e719 loss = 0.264774 recons = 0.2419 orth = 0.0000 trans = 0.0229
+01/27/2023:04:28:42,858 INF [ts2vec.py:141] v719 trans = 0.0491
+01/27/2023:04:28:43,362 INF [ts2vec.py:128] e720 loss = 0.263584 recons = 0.2417 orth = 0.0000 trans = 0.0219
+01/27/2023:04:28:43,502 INF [ts2vec.py:141] v720 trans = 0.0558
+01/27/2023:04:28:44,11 INF [ts2vec.py:128] e721 loss = 0.264550 recons = 0.2420 orth = 0.0000 trans = 0.0226
+01/27/2023:04:28:44,151 INF [ts2vec.py:141] v721 trans = 0.0541
+01/27/2023:04:28:44,657 INF [ts2vec.py:128] e722 loss = 0.267196 recons = 0.2432 orth = 0.0000 trans = 0.0240
+01/27/2023:04:28:44,795 INF [ts2vec.py:141] v722 trans = 0.0589
+01/27/2023:04:28:45,294 INF [ts2vec.py:128] e723 loss = 0.265608 recons = 0.2431 orth = 0.0000 trans = 0.0225
+01/27/2023:04:28:45,436 INF [ts2vec.py:141] v723 trans = 0.0591
+01/27/2023:04:28:45,940 INF [ts2vec.py:128] e724 loss = 0.266297 recons = 0.2430 orth = 0.0000 trans = 0.0232
+01/27/2023:04:28:46,78 INF [ts2vec.py:141] v724 trans = 0.0502
+01/27/2023:04:28:46,583 INF [ts2vec.py:128] e725 loss = 0.266195 recons = 0.2432 orth = 0.0000 trans = 0.0230
+01/27/2023:04:28:46,722 INF [ts2vec.py:141] v725 trans = 0.0528
+01/27/2023:04:28:47,230 INF [ts2vec.py:128] e726 loss = 0.269140 recons = 0.2430 orth = 0.0000 trans = 0.0261
+01/27/2023:04:28:47,369 INF [ts2vec.py:141] v726 trans = 0.0514
+01/27/2023:04:28:47,869 INF [ts2vec.py:128] e727 loss = 0.268325 recons = 0.2426 orth = 0.0000 trans = 0.0257
+01/27/2023:04:28:48,7 INF [ts2vec.py:141] v727 trans = 0.0562
+01/27/2023:04:28:48,511 INF [ts2vec.py:128] e728 loss = 0.264927 recons = 0.2424 orth = 0.0000 trans = 0.0225
+01/27/2023:04:28:48,647 INF [ts2vec.py:141] v728 trans = 0.0505
+01/27/2023:04:28:49,153 INF [ts2vec.py:128] e729 loss = 0.266842 recons = 0.2428 orth = 0.0000 trans = 0.0241
+01/27/2023:04:28:49,291 INF [ts2vec.py:141] v729 trans = 0.0538
+01/27/2023:04:28:49,805 INF [ts2vec.py:128] e730 loss = 0.263845 recons = 0.2425 orth = 0.0000 trans = 0.0214
+01/27/2023:04:28:49,943 INF [ts2vec.py:141] v730 trans = 0.0623
+01/27/2023:04:28:50,447 INF [ts2vec.py:128] e731 loss = 0.266283 recons = 0.2420 orth = 0.0000 trans = 0.0243
+01/27/2023:04:28:50,586 INF [ts2vec.py:141] v731 trans = 0.0568
+01/27/2023:04:28:51,92 INF [ts2vec.py:128] e732 loss = 0.264166 recons = 0.2419 orth = 0.0000 trans = 0.0223
+01/27/2023:04:28:51,229 INF [ts2vec.py:141] v732 trans = 0.0561
+01/27/2023:04:28:51,750 INF [ts2vec.py:128] e733 loss = 0.262676 recons = 0.2418 orth = 0.0000 trans = 0.0209
+01/27/2023:04:28:51,890 INF [ts2vec.py:141] v733 trans = 0.0535
+01/27/2023:04:28:52,394 INF [ts2vec.py:128] e734 loss = 0.261991 recons = 0.2416 orth = 0.0000 trans = 0.0204
+01/27/2023:04:28:52,532 INF [ts2vec.py:141] v734 trans = 0.0549
+01/27/2023:04:28:53,45 INF [ts2vec.py:128] e735 loss = 0.266322 recons = 0.2422 orth = 0.0000 trans = 0.0241
+01/27/2023:04:28:53,184 INF [ts2vec.py:141] v735 trans = 0.0542
+01/27/2023:04:28:53,692 INF [ts2vec.py:128] e736 loss = 0.265901 recons = 0.2419 orth = 0.0000 trans = 0.0240
+01/27/2023:04:28:53,830 INF [ts2vec.py:141] v736 trans = 0.0547
+01/27/2023:04:28:54,331 INF [ts2vec.py:128] e737 loss = 0.263592 recons = 0.2420 orth = 0.0000 trans = 0.0216
+01/27/2023:04:28:54,471 INF [ts2vec.py:141] v737 trans = 0.0562
+01/27/2023:04:28:54,981 INF [ts2vec.py:128] e738 loss = 0.263872 recons = 0.2417 orth = 0.0000 trans = 0.0222
+01/27/2023:04:28:55,120 INF [ts2vec.py:141] v738 trans = 0.0525
+01/27/2023:04:28:55,631 INF [ts2vec.py:128] e739 loss = 0.269887 recons = 0.2418 orth = 0.0000 trans = 0.0281
+01/27/2023:04:28:55,771 INF [ts2vec.py:141] v739 trans = 0.0576
+01/27/2023:04:28:56,275 INF [ts2vec.py:128] e740 loss = 0.265968 recons = 0.2419 orth = 0.0000 trans = 0.0241
+01/27/2023:04:28:56,414 INF [ts2vec.py:141] v740 trans = 0.0596
+01/27/2023:04:28:56,925 INF [ts2vec.py:128] e741 loss = 0.263417 recons = 0.2417 orth = 0.0000 trans = 0.0217
+01/27/2023:04:28:57,65 INF [ts2vec.py:141] v741 trans = 0.0562
+01/27/2023:04:28:57,578 INF [ts2vec.py:128] e742 loss = 0.264401 recons = 0.2419 orth = 0.0000 trans = 0.0225
+01/27/2023:04:28:57,719 INF [ts2vec.py:141] v742 trans = 0.0540
+01/27/2023:04:28:58,228 INF [ts2vec.py:128] e743 loss = 0.265039 recons = 0.2420 orth = 0.0000 trans = 0.0231
+01/27/2023:04:28:58,366 INF [ts2vec.py:141] v743 trans = 0.0595
+01/27/2023:04:28:58,872 INF [ts2vec.py:128] e744 loss = 0.266026 recons = 0.2421 orth = 0.0000 trans = 0.0239
+01/27/2023:04:28:59,12 INF [ts2vec.py:141] v744 trans = 0.0611
+01/27/2023:04:28:59,512 INF [ts2vec.py:128] e745 loss = 0.263804 recons = 0.2422 orth = 0.0000 trans = 0.0216
+01/27/2023:04:28:59,650 INF [ts2vec.py:141] v745 trans = 0.0509
+01/27/2023:04:29:00,160 INF [ts2vec.py:128] e746 loss = 0.262836 recons = 0.2419 orth = 0.0000 trans = 0.0209
+01/27/2023:04:29:00,297 INF [ts2vec.py:141] v746 trans = 0.0542
+01/27/2023:04:29:00,814 INF [ts2vec.py:128] e747 loss = 0.264338 recons = 0.2423 orth = 0.0000 trans = 0.0221
+01/27/2023:04:29:00,955 INF [ts2vec.py:141] v747 trans = 0.0535
+01/27/2023:04:29:01,459 INF [ts2vec.py:128] e748 loss = 0.263372 recons = 0.2420 orth = 0.0000 trans = 0.0213
+01/27/2023:04:29:01,605 INF [ts2vec.py:141] v748 trans = 0.0567
+01/27/2023:04:29:02,122 INF [ts2vec.py:128] e749 loss = 0.265315 recons = 0.2419 orth = 0.0000 trans = 0.0234
+01/27/2023:04:29:02,258 INF [ts2vec.py:141] v749 trans = 0.0571
+01/27/2023:04:29:02,764 INF [ts2vec.py:128] e750 loss = 0.265261 recons = 0.2416 orth = 0.0000 trans = 0.0237
+01/27/2023:04:29:02,903 INF [ts2vec.py:141] v750 trans = 0.0544
+01/27/2023:04:29:03,411 INF [ts2vec.py:128] e751 loss = 0.262850 recons = 0.2414 orth = 0.0000 trans = 0.0215
+01/27/2023:04:29:03,551 INF [ts2vec.py:141] v751 trans = 0.0535
+01/27/2023:04:29:04,56 INF [ts2vec.py:128] e752 loss = 0.265875 recons = 0.2415 orth = 0.0000 trans = 0.0244
+01/27/2023:04:29:04,195 INF [ts2vec.py:141] v752 trans = 0.0585
+01/27/2023:04:29:04,693 INF [ts2vec.py:128] e753 loss = 0.265379 recons = 0.2412 orth = 0.0000 trans = 0.0242
+01/27/2023:04:29:04,831 INF [ts2vec.py:141] v753 trans = 0.0541
+01/27/2023:04:29:05,344 INF [ts2vec.py:128] e754 loss = 0.263089 recons = 0.2414 orth = 0.0000 trans = 0.0216
+01/27/2023:04:29:05,482 INF [ts2vec.py:141] v754 trans = 0.0496
+01/27/2023:04:29:05,987 INF [ts2vec.py:128] e755 loss = 0.264496 recons = 0.2416 orth = 0.0000 trans = 0.0229
+01/27/2023:04:29:06,124 INF [ts2vec.py:141] v755 trans = 0.0553
+01/27/2023:04:29:06,639 INF [ts2vec.py:128] e756 loss = 0.265318 recons = 0.2414 orth = 0.0000 trans = 0.0239
+01/27/2023:04:29:06,778 INF [ts2vec.py:141] v756 trans = 0.0552
+01/27/2023:04:29:07,286 INF [ts2vec.py:128] e757 loss = 0.264388 recons = 0.2411 orth = 0.0000 trans = 0.0233
+01/27/2023:04:29:07,425 INF [ts2vec.py:141] v757 trans = 0.0587
+01/27/2023:04:29:07,933 INF [ts2vec.py:128] e758 loss = 0.263632 recons = 0.2411 orth = 0.0000 trans = 0.0225
+01/27/2023:04:29:08,71 INF [ts2vec.py:141] v758 trans = 0.0541
+01/27/2023:04:29:08,580 INF [ts2vec.py:128] e759 loss = 0.261481 recons = 0.2411 orth = 0.0000 trans = 0.0204
+01/27/2023:04:29:08,719 INF [ts2vec.py:141] v759 trans = 0.0535
+01/27/2023:04:29:09,237 INF [ts2vec.py:128] e760 loss = 0.265053 recons = 0.2411 orth = 0.0000 trans = 0.0239
+01/27/2023:04:29:09,376 INF [ts2vec.py:141] v760 trans = 0.0568
+01/27/2023:04:29:09,901 INF [ts2vec.py:128] e761 loss = 0.264315 recons = 0.2411 orth = 0.0000 trans = 0.0232
+01/27/2023:04:29:10,42 INF [ts2vec.py:141] v761 trans = 0.0562
+01/27/2023:04:29:10,553 INF [ts2vec.py:128] e762 loss = 0.262084 recons = 0.2410 orth = 0.0000 trans = 0.0211
+01/27/2023:04:29:10,692 INF [ts2vec.py:141] v762 trans = 0.0553
+01/27/2023:04:29:11,192 INF [ts2vec.py:128] e763 loss = 0.264952 recons = 0.2410 orth = 0.0000 trans = 0.0239
+01/27/2023:04:29:11,332 INF [ts2vec.py:141] v763 trans = 0.0548
+01/27/2023:04:29:11,856 INF [ts2vec.py:128] e764 loss = 0.265898 recons = 0.2413 orth = 0.0000 trans = 0.0246
+01/27/2023:04:29:11,994 INF [ts2vec.py:141] v764 trans = 0.0587
+01/27/2023:04:29:12,500 INF [ts2vec.py:128] e765 loss = 0.267731 recons = 0.2413 orth = 0.0000 trans = 0.0264
+01/27/2023:04:29:12,638 INF [ts2vec.py:141] v765 trans = 0.0583
+01/27/2023:04:29:13,143 INF [ts2vec.py:128] e766 loss = 0.263210 recons = 0.2411 orth = 0.0000 trans = 0.0222
+01/27/2023:04:29:13,282 INF [ts2vec.py:141] v766 trans = 0.0524
+01/27/2023:04:29:13,789 INF [ts2vec.py:128] e767 loss = 0.264954 recons = 0.2410 orth = 0.0000 trans = 0.0239
+01/27/2023:04:29:13,929 INF [ts2vec.py:141] v767 trans = 0.0570
+01/27/2023:04:29:14,427 INF [ts2vec.py:128] e768 loss = 0.265982 recons = 0.2411 orth = 0.0000 trans = 0.0248
+01/27/2023:04:29:14,563 INF [ts2vec.py:141] v768 trans = 0.0526
+01/27/2023:04:29:15,71 INF [ts2vec.py:128] e769 loss = 0.262938 recons = 0.2412 orth = 0.0000 trans = 0.0218
+01/27/2023:04:29:15,208 INF [ts2vec.py:141] v769 trans = 0.0556
+01/27/2023:04:29:15,715 INF [ts2vec.py:128] e770 loss = 0.267669 recons = 0.2413 orth = 0.0000 trans = 0.0263
+01/27/2023:04:29:15,854 INF [ts2vec.py:141] v770 trans = 0.0526
+01/27/2023:04:29:16,362 INF [ts2vec.py:128] e771 loss = 0.263706 recons = 0.2415 orth = 0.0000 trans = 0.0222
+01/27/2023:04:29:16,501 INF [ts2vec.py:141] v771 trans = 0.0588
+01/27/2023:04:29:17,15 INF [ts2vec.py:128] e772 loss = 0.263208 recons = 0.2410 orth = 0.0000 trans = 0.0222
+01/27/2023:04:29:17,155 INF [ts2vec.py:141] v772 trans = 0.0510
+01/27/2023:04:29:17,666 INF [ts2vec.py:128] e773 loss = 0.266230 recons = 0.2410 orth = 0.0000 trans = 0.0252
+01/27/2023:04:29:17,806 INF [ts2vec.py:141] v773 trans = 0.0574
+01/27/2023:04:29:18,317 INF [ts2vec.py:128] e774 loss = 0.263191 recons = 0.2413 orth = 0.0000 trans = 0.0219
+01/27/2023:04:29:18,456 INF [ts2vec.py:141] v774 trans = 0.0557
+01/27/2023:04:29:18,970 INF [ts2vec.py:128] e775 loss = 0.265391 recons = 0.2411 orth = 0.0000 trans = 0.0243
+01/27/2023:04:29:19,112 INF [ts2vec.py:141] v775 trans = 0.0552
+01/27/2023:04:29:19,628 INF [ts2vec.py:128] e776 loss = 0.266525 recons = 0.2410 orth = 0.0000 trans = 0.0255
+01/27/2023:04:29:19,767 INF [ts2vec.py:141] v776 trans = 0.0551
+01/27/2023:04:29:20,270 INF [ts2vec.py:128] e777 loss = 0.259785 recons = 0.2412 orth = 0.0000 trans = 0.0186
+01/27/2023:04:29:20,410 INF [ts2vec.py:141] v777 trans = 0.0562
+01/27/2023:04:29:20,928 INF [ts2vec.py:128] e778 loss = 0.261021 recons = 0.2409 orth = 0.0000 trans = 0.0202
+01/27/2023:04:29:21,69 INF [ts2vec.py:141] v778 trans = 0.0549
+01/27/2023:04:29:21,588 INF [ts2vec.py:128] e779 loss = 0.260472 recons = 0.2409 orth = 0.0000 trans = 0.0196
+01/27/2023:04:29:21,728 INF [ts2vec.py:141] v779 trans = 0.0591
+01/27/2023:04:29:22,231 INF [ts2vec.py:128] e780 loss = 0.264330 recons = 0.2410 orth = 0.0000 trans = 0.0234
+01/27/2023:04:29:22,369 INF [ts2vec.py:141] v780 trans = 0.0564
+01/27/2023:04:29:22,873 INF [ts2vec.py:128] e781 loss = 0.263432 recons = 0.2415 orth = 0.0000 trans = 0.0220
+01/27/2023:04:29:23,14 INF [ts2vec.py:141] v781 trans = 0.0517
+01/27/2023:04:29:23,522 INF [ts2vec.py:128] e782 loss = 0.261378 recons = 0.2409 orth = 0.0000 trans = 0.0204
+01/27/2023:04:29:23,664 INF [ts2vec.py:141] v782 trans = 0.0586
+01/27/2023:04:29:24,173 INF [ts2vec.py:128] e783 loss = 0.261203 recons = 0.2407 orth = 0.0000 trans = 0.0205
+01/27/2023:04:29:24,310 INF [ts2vec.py:141] v783 trans = 0.0526
+01/27/2023:04:29:24,815 INF [ts2vec.py:128] e784 loss = 0.263436 recons = 0.2407 orth = 0.0000 trans = 0.0228
+01/27/2023:04:29:24,955 INF [ts2vec.py:141] v784 trans = 0.0559
+01/27/2023:04:29:25,467 INF [ts2vec.py:128] e785 loss = 0.263005 recons = 0.2406 orth = 0.0000 trans = 0.0224
+01/27/2023:04:29:25,606 INF [ts2vec.py:141] v785 trans = 0.0572
+01/27/2023:04:29:26,110 INF [ts2vec.py:128] e786 loss = 0.260868 recons = 0.2406 orth = 0.0000 trans = 0.0202
+01/27/2023:04:29:26,253 INF [ts2vec.py:141] v786 trans = 0.0550
+01/27/2023:04:29:26,758 INF [ts2vec.py:128] e787 loss = 0.260907 recons = 0.2405 orth = 0.0000 trans = 0.0204
+01/27/2023:04:29:26,897 INF [ts2vec.py:141] v787 trans = 0.0570
+01/27/2023:04:29:27,414 INF [ts2vec.py:128] e788 loss = 0.263567 recons = 0.2408 orth = 0.0000 trans = 0.0228
+01/27/2023:04:29:27,554 INF [ts2vec.py:141] v788 trans = 0.0537
+01/27/2023:04:29:28,70 INF [ts2vec.py:128] e789 loss = 0.262747 recons = 0.2404 orth = 0.0000 trans = 0.0223
+01/27/2023:04:29:28,208 INF [ts2vec.py:141] v789 trans = 0.0558
+01/27/2023:04:29:28,724 INF [ts2vec.py:128] e790 loss = 0.263399 recons = 0.2407 orth = 0.0000 trans = 0.0227
+01/27/2023:04:29:28,865 INF [ts2vec.py:141] v790 trans = 0.0538
+01/27/2023:04:29:29,373 INF [ts2vec.py:128] e791 loss = 0.262246 recons = 0.2408 orth = 0.0000 trans = 0.0215
+01/27/2023:04:29:29,513 INF [ts2vec.py:141] v791 trans = 0.0578
+01/27/2023:04:29:30,31 INF [ts2vec.py:128] e792 loss = 0.263334 recons = 0.2406 orth = 0.0000 trans = 0.0228
+01/27/2023:04:29:30,170 INF [ts2vec.py:141] v792 trans = 0.0570
+01/27/2023:04:29:30,675 INF [ts2vec.py:128] e793 loss = 0.260520 recons = 0.2404 orth = 0.0000 trans = 0.0201
+01/27/2023:04:29:30,813 INF [ts2vec.py:141] v793 trans = 0.0594
+01/27/2023:04:29:31,314 INF [ts2vec.py:128] e794 loss = 0.265025 recons = 0.2404 orth = 0.0000 trans = 0.0246
+01/27/2023:04:29:31,456 INF [ts2vec.py:141] v794 trans = 0.0547
+01/27/2023:04:29:31,978 INF [ts2vec.py:128] e795 loss = 0.263885 recons = 0.2406 orth = 0.0000 trans = 0.0233
+01/27/2023:04:29:32,117 INF [ts2vec.py:141] v795 trans = 0.0611
+01/27/2023:04:29:32,624 INF [ts2vec.py:128] e796 loss = 0.261780 recons = 0.2406 orth = 0.0000 trans = 0.0212
+01/27/2023:04:29:32,762 INF [ts2vec.py:141] v796 trans = 0.0564
+01/27/2023:04:29:33,265 INF [ts2vec.py:128] e797 loss = 0.262938 recons = 0.2411 orth = 0.0000 trans = 0.0218
+01/27/2023:04:29:33,404 INF [ts2vec.py:141] v797 trans = 0.0610
+01/27/2023:04:29:33,918 INF [ts2vec.py:128] e798 loss = 0.260338 recons = 0.2409 orth = 0.0000 trans = 0.0194
+01/27/2023:04:29:34,56 INF [ts2vec.py:141] v798 trans = 0.0579
+01/27/2023:04:29:34,563 INF [ts2vec.py:128] e799 loss = 0.263889 recons = 0.2407 orth = 0.0000 trans = 0.0232
+01/27/2023:04:29:34,703 INF [ts2vec.py:141] v799 trans = 0.0552
+01/27/2023:04:29:35,213 INF [ts2vec.py:128] e800 loss = 0.263244 recons = 0.2407 orth = 0.0000 trans = 0.0225
+01/27/2023:04:29:35,352 INF [ts2vec.py:141] v800 trans = 0.0561
+01/27/2023:04:29:35,860 INF [ts2vec.py:128] e801 loss = 0.263645 recons = 0.2411 orth = 0.0000 trans = 0.0225
+01/27/2023:04:29:35,999 INF [ts2vec.py:141] v801 trans = 0.0550
+01/27/2023:04:29:36,502 INF [ts2vec.py:128] e802 loss = 0.263172 recons = 0.2413 orth = 0.0000 trans = 0.0219
+01/27/2023:04:29:36,640 INF [ts2vec.py:141] v802 trans = 0.0576
+01/27/2023:04:29:37,149 INF [ts2vec.py:128] e803 loss = 0.264534 recons = 0.2415 orth = 0.0000 trans = 0.0231
+01/27/2023:04:29:37,287 INF [ts2vec.py:141] v803 trans = 0.0549
+01/27/2023:04:29:37,797 INF [ts2vec.py:128] e804 loss = 0.264805 recons = 0.2413 orth = 0.0000 trans = 0.0235
+01/27/2023:04:29:37,936 INF [ts2vec.py:141] v804 trans = 0.0557
+01/27/2023:04:29:38,441 INF [ts2vec.py:128] e805 loss = 0.260710 recons = 0.2413 orth = 0.0000 trans = 0.0195
+01/27/2023:04:29:38,581 INF [ts2vec.py:141] v805 trans = 0.0512
+01/27/2023:04:29:39,93 INF [ts2vec.py:128] e806 loss = 0.261098 recons = 0.2410 orth = 0.0000 trans = 0.0201
+01/27/2023:04:29:39,233 INF [ts2vec.py:141] v806 trans = 0.0570
+01/27/2023:04:29:39,740 INF [ts2vec.py:128] e807 loss = 0.260452 recons = 0.2407 orth = 0.0000 trans = 0.0198
+01/27/2023:04:29:39,876 INF [ts2vec.py:141] v807 trans = 0.0588
+01/27/2023:04:29:40,383 INF [ts2vec.py:128] e808 loss = 0.262345 recons = 0.2407 orth = 0.0000 trans = 0.0217
+01/27/2023:04:29:40,520 INF [ts2vec.py:141] v808 trans = 0.0613
+01/27/2023:04:29:41,27 INF [ts2vec.py:128] e809 loss = 0.261264 recons = 0.2407 orth = 0.0000 trans = 0.0205
+01/27/2023:04:29:41,164 INF [ts2vec.py:141] v809 trans = 0.0567
+01/27/2023:04:29:41,683 INF [ts2vec.py:128] e810 loss = 0.260991 recons = 0.2409 orth = 0.0000 trans = 0.0201
+01/27/2023:04:29:41,824 INF [ts2vec.py:141] v810 trans = 0.0542
+01/27/2023:04:29:42,328 INF [ts2vec.py:128] e811 loss = 0.261038 recons = 0.2408 orth = 0.0000 trans = 0.0202
+01/27/2023:04:29:42,467 INF [ts2vec.py:141] v811 trans = 0.0598
+01/27/2023:04:29:42,975 INF [ts2vec.py:128] e812 loss = 0.263924 recons = 0.2409 orth = 0.0000 trans = 0.0230
+01/27/2023:04:29:43,115 INF [ts2vec.py:141] v812 trans = 0.0561
+01/27/2023:04:29:43,621 INF [ts2vec.py:128] e813 loss = 0.262925 recons = 0.2409 orth = 0.0000 trans = 0.0220
+01/27/2023:04:29:43,769 INF [ts2vec.py:141] v813 trans = 0.0571
+01/27/2023:04:29:44,276 INF [ts2vec.py:128] e814 loss = 0.264144 recons = 0.2408 orth = 0.0000 trans = 0.0233
+01/27/2023:04:29:44,415 INF [ts2vec.py:141] v814 trans = 0.0529
+01/27/2023:04:29:44,934 INF [ts2vec.py:128] e815 loss = 0.261959 recons = 0.2409 orth = 0.0000 trans = 0.0211
+01/27/2023:04:29:45,72 INF [ts2vec.py:141] v815 trans = 0.0579
+01/27/2023:04:29:45,584 INF [ts2vec.py:128] e816 loss = 0.263000 recons = 0.2408 orth = 0.0000 trans = 0.0222
+01/27/2023:04:29:45,723 INF [ts2vec.py:141] v816 trans = 0.0538
+01/27/2023:04:29:46,234 INF [ts2vec.py:128] e817 loss = 0.260141 recons = 0.2410 orth = 0.0000 trans = 0.0192
+01/27/2023:04:29:46,372 INF [ts2vec.py:141] v817 trans = 0.0579
+01/27/2023:04:29:46,874 INF [ts2vec.py:128] e818 loss = 0.263412 recons = 0.2407 orth = 0.0000 trans = 0.0227
+01/27/2023:04:29:47,13 INF [ts2vec.py:141] v818 trans = 0.0595
+01/27/2023:04:29:47,527 INF [ts2vec.py:128] e819 loss = 0.267071 recons = 0.2403 orth = 0.0000 trans = 0.0267
+01/27/2023:04:29:47,666 INF [ts2vec.py:141] v819 trans = 0.0546
+01/27/2023:04:29:48,173 INF [ts2vec.py:128] e820 loss = 0.260223 recons = 0.2404 orth = 0.0000 trans = 0.0198
+01/27/2023:04:29:48,310 INF [ts2vec.py:141] v820 trans = 0.0585
+01/27/2023:04:29:48,815 INF [ts2vec.py:128] e821 loss = 0.259543 recons = 0.2402 orth = 0.0000 trans = 0.0193
+01/27/2023:04:29:48,953 INF [ts2vec.py:141] v821 trans = 0.0543
+01/27/2023:04:29:49,466 INF [ts2vec.py:128] e822 loss = 0.261448 recons = 0.2403 orth = 0.0000 trans = 0.0212
+01/27/2023:04:29:49,604 INF [ts2vec.py:141] v822 trans = 0.0534
+01/27/2023:04:29:50,110 INF [ts2vec.py:128] e823 loss = 0.259194 recons = 0.2403 orth = 0.0000 trans = 0.0189
+01/27/2023:04:29:50,249 INF [ts2vec.py:141] v823 trans = 0.0531
+01/27/2023:04:29:50,756 INF [ts2vec.py:128] e824 loss = 0.261303 recons = 0.2403 orth = 0.0000 trans = 0.0210
+01/27/2023:04:29:50,896 INF [ts2vec.py:141] v824 trans = 0.0555
+01/27/2023:04:29:51,410 INF [ts2vec.py:128] e825 loss = 0.259832 recons = 0.2402 orth = 0.0000 trans = 0.0196
+01/27/2023:04:29:51,549 INF [ts2vec.py:141] v825 trans = 0.0557
+01/27/2023:04:29:52,66 INF [ts2vec.py:128] e826 loss = 0.260741 recons = 0.2403 orth = 0.0000 trans = 0.0205
+01/27/2023:04:29:52,202 INF [ts2vec.py:141] v826 trans = 0.0576
+01/27/2023:04:29:52,711 INF [ts2vec.py:128] e827 loss = 0.262640 recons = 0.2404 orth = 0.0000 trans = 0.0223
+01/27/2023:04:29:52,847 INF [ts2vec.py:141] v827 trans = 0.0594
+01/27/2023:04:29:53,350 INF [ts2vec.py:128] e828 loss = 0.259762 recons = 0.2405 orth = 0.0000 trans = 0.0193
+01/27/2023:04:29:53,486 INF [ts2vec.py:141] v828 trans = 0.0526
+01/27/2023:04:29:53,995 INF [ts2vec.py:128] e829 loss = 0.261829 recons = 0.2406 orth = 0.0000 trans = 0.0212
+01/27/2023:04:29:54,131 INF [ts2vec.py:141] v829 trans = 0.0546
+01/27/2023:04:29:54,637 INF [ts2vec.py:128] e830 loss = 0.262919 recons = 0.2407 orth = 0.0000 trans = 0.0223
+01/27/2023:04:29:54,776 INF [ts2vec.py:141] v830 trans = 0.0600
+01/27/2023:04:29:55,273 INF [ts2vec.py:128] e831 loss = 0.265079 recons = 0.2406 orth = 0.0000 trans = 0.0245
+01/27/2023:04:29:55,413 INF [ts2vec.py:141] v831 trans = 0.0580
+01/27/2023:04:29:55,914 INF [ts2vec.py:128] e832 loss = 0.261666 recons = 0.2402 orth = 0.0000 trans = 0.0214
+01/27/2023:04:29:56,52 INF [ts2vec.py:141] v832 trans = 0.0542
+01/27/2023:04:29:56,552 INF [ts2vec.py:128] e833 loss = 0.259798 recons = 0.2402 orth = 0.0000 trans = 0.0196
+01/27/2023:04:29:56,690 INF [ts2vec.py:141] v833 trans = 0.0529
+01/27/2023:04:29:57,203 INF [ts2vec.py:128] e834 loss = 0.258841 recons = 0.2403 orth = 0.0000 trans = 0.0186
+01/27/2023:04:29:57,343 INF [ts2vec.py:141] v834 trans = 0.0546
+01/27/2023:04:29:57,856 INF [ts2vec.py:128] e835 loss = 0.259952 recons = 0.2404 orth = 0.0000 trans = 0.0195
+01/27/2023:04:29:57,993 INF [ts2vec.py:141] v835 trans = 0.0546
+01/27/2023:04:29:58,499 INF [ts2vec.py:128] e836 loss = 0.261098 recons = 0.2406 orth = 0.0000 trans = 0.0205
+01/27/2023:04:29:58,638 INF [ts2vec.py:141] v836 trans = 0.0540
+01/27/2023:04:29:59,144 INF [ts2vec.py:128] e837 loss = 0.262838 recons = 0.2404 orth = 0.0000 trans = 0.0225
+01/27/2023:04:29:59,280 INF [ts2vec.py:141] v837 trans = 0.0584
+01/27/2023:04:29:59,800 INF [ts2vec.py:128] e838 loss = 0.262795 recons = 0.2405 orth = 0.0000 trans = 0.0223
+01/27/2023:04:29:59,939 INF [ts2vec.py:141] v838 trans = 0.0541
+01/27/2023:04:30:00,445 INF [ts2vec.py:128] e839 loss = 0.262927 recons = 0.2406 orth = 0.0000 trans = 0.0223
+01/27/2023:04:30:00,584 INF [ts2vec.py:141] v839 trans = 0.0548
+01/27/2023:04:30:01,85 INF [ts2vec.py:128] e840 loss = 0.261418 recons = 0.2407 orth = 0.0000 trans = 0.0208
+01/27/2023:04:30:01,220 INF [ts2vec.py:141] v840 trans = 0.0555
+01/27/2023:04:30:01,745 INF [ts2vec.py:128] e841 loss = 0.262178 recons = 0.2403 orth = 0.0000 trans = 0.0219
+01/27/2023:04:30:01,883 INF [ts2vec.py:141] v841 trans = 0.0584
+01/27/2023:04:30:02,382 INF [ts2vec.py:128] e842 loss = 0.262922 recons = 0.2402 orth = 0.0000 trans = 0.0228
+01/27/2023:04:30:02,520 INF [ts2vec.py:141] v842 trans = 0.0602
+01/27/2023:04:30:03,19 INF [ts2vec.py:128] e843 loss = 0.261246 recons = 0.2401 orth = 0.0000 trans = 0.0211
+01/27/2023:04:30:03,157 INF [ts2vec.py:141] v843 trans = 0.0571
+01/27/2023:04:30:03,666 INF [ts2vec.py:128] e844 loss = 0.262678 recons = 0.2403 orth = 0.0000 trans = 0.0223
+01/27/2023:04:30:03,805 INF [ts2vec.py:141] v844 trans = 0.0529
+01/27/2023:04:30:04,304 INF [ts2vec.py:128] e845 loss = 0.262107 recons = 0.2403 orth = 0.0000 trans = 0.0218
+01/27/2023:04:30:04,442 INF [ts2vec.py:141] v845 trans = 0.0574
+01/27/2023:04:30:04,950 INF [ts2vec.py:128] e846 loss = 0.262725 recons = 0.2403 orth = 0.0000 trans = 0.0225
+01/27/2023:04:30:05,88 INF [ts2vec.py:141] v846 trans = 0.0557
+01/27/2023:04:30:05,594 INF [ts2vec.py:128] e847 loss = 0.260336 recons = 0.2401 orth = 0.0000 trans = 0.0202
+01/27/2023:04:30:05,731 INF [ts2vec.py:141] v847 trans = 0.0568
+01/27/2023:04:30:06,242 INF [ts2vec.py:128] e848 loss = 0.259930 recons = 0.2402 orth = 0.0000 trans = 0.0198
+01/27/2023:04:30:06,380 INF [ts2vec.py:141] v848 trans = 0.0576
+01/27/2023:04:30:06,888 INF [ts2vec.py:128] e849 loss = 0.259446 recons = 0.2407 orth = 0.0000 trans = 0.0188
+01/27/2023:04:30:07,28 INF [ts2vec.py:141] v849 trans = 0.0573
+01/27/2023:04:30:07,536 INF [ts2vec.py:128] e850 loss = 0.262292 recons = 0.2403 orth = 0.0000 trans = 0.0220
+01/27/2023:04:30:07,674 INF [ts2vec.py:141] v850 trans = 0.0497
+01/27/2023:04:30:08,183 INF [ts2vec.py:128] e851 loss = 0.266150 recons = 0.2405 orth = 0.0000 trans = 0.0256
+01/27/2023:04:30:08,320 INF [ts2vec.py:141] v851 trans = 0.0557
+01/27/2023:04:30:08,829 INF [ts2vec.py:128] e852 loss = 0.262100 recons = 0.2407 orth = 0.0000 trans = 0.0214
+01/27/2023:04:30:08,968 INF [ts2vec.py:141] v852 trans = 0.0520
+01/27/2023:04:30:09,481 INF [ts2vec.py:128] e853 loss = 0.259126 recons = 0.2402 orth = 0.0000 trans = 0.0190
+01/27/2023:04:30:09,617 INF [ts2vec.py:141] v853 trans = 0.0568
+01/27/2023:04:30:10,127 INF [ts2vec.py:128] e854 loss = 0.259433 recons = 0.2401 orth = 0.0000 trans = 0.0193
+01/27/2023:04:30:10,264 INF [ts2vec.py:141] v854 trans = 0.0514
+01/27/2023:04:30:10,766 INF [ts2vec.py:128] e855 loss = 0.259462 recons = 0.2399 orth = 0.0000 trans = 0.0196
+01/27/2023:04:30:10,905 INF [ts2vec.py:141] v855 trans = 0.0565
+01/27/2023:04:30:11,411 INF [ts2vec.py:128] e856 loss = 0.259304 recons = 0.2399 orth = 0.0000 trans = 0.0194
+01/27/2023:04:30:11,551 INF [ts2vec.py:141] v856 trans = 0.0519
+01/27/2023:04:30:12,65 INF [ts2vec.py:128] e857 loss = 0.260353 recons = 0.2400 orth = 0.0000 trans = 0.0204
+01/27/2023:04:30:12,202 INF [ts2vec.py:141] v857 trans = 0.0522
+01/27/2023:04:30:12,711 INF [ts2vec.py:128] e858 loss = 0.260854 recons = 0.2405 orth = 0.0000 trans = 0.0204
+01/27/2023:04:30:12,846 INF [ts2vec.py:141] v858 trans = 0.0560
+01/27/2023:04:30:13,361 INF [ts2vec.py:128] e859 loss = 0.262319 recons = 0.2404 orth = 0.0000 trans = 0.0220
+01/27/2023:04:30:13,498 INF [ts2vec.py:141] v859 trans = 0.0532
+01/27/2023:04:30:14,7 INF [ts2vec.py:128] e860 loss = 0.262681 recons = 0.2403 orth = 0.0000 trans = 0.0223
+01/27/2023:04:30:14,144 INF [ts2vec.py:141] v860 trans = 0.0582
+01/27/2023:04:30:14,655 INF [ts2vec.py:128] e861 loss = 0.264196 recons = 0.2401 orth = 0.0000 trans = 0.0241
+01/27/2023:04:30:14,793 INF [ts2vec.py:141] v861 trans = 0.0603
+01/27/2023:04:30:15,297 INF [ts2vec.py:128] e862 loss = 0.259395 recons = 0.2399 orth = 0.0000 trans = 0.0195
+01/27/2023:04:30:15,436 INF [ts2vec.py:141] v862 trans = 0.0558
+01/27/2023:04:30:15,941 INF [ts2vec.py:128] e863 loss = 0.262096 recons = 0.2399 orth = 0.0000 trans = 0.0222
+01/27/2023:04:30:16,78 INF [ts2vec.py:141] v863 trans = 0.0563
+01/27/2023:04:30:16,589 INF [ts2vec.py:128] e864 loss = 0.261962 recons = 0.2398 orth = 0.0000 trans = 0.0222
+01/27/2023:04:30:16,728 INF [ts2vec.py:141] v864 trans = 0.0530
+01/27/2023:04:30:17,228 INF [ts2vec.py:128] e865 loss = 0.261146 recons = 0.2397 orth = 0.0000 trans = 0.0214
+01/27/2023:04:30:17,367 INF [ts2vec.py:141] v865 trans = 0.0569
+01/27/2023:04:30:17,868 INF [ts2vec.py:128] e866 loss = 0.262921 recons = 0.2399 orth = 0.0000 trans = 0.0231
+01/27/2023:04:30:18,6 INF [ts2vec.py:141] v866 trans = 0.0586
+01/27/2023:04:30:18,508 INF [ts2vec.py:128] e867 loss = 0.260015 recons = 0.2399 orth = 0.0000 trans = 0.0201
+01/27/2023:04:30:18,645 INF [ts2vec.py:141] v867 trans = 0.0531
+01/27/2023:04:30:19,151 INF [ts2vec.py:128] e868 loss = 0.260040 recons = 0.2400 orth = 0.0000 trans = 0.0200
+01/27/2023:04:30:19,290 INF [ts2vec.py:141] v868 trans = 0.0576
+01/27/2023:04:30:19,794 INF [ts2vec.py:128] e869 loss = 0.260175 recons = 0.2399 orth = 0.0000 trans = 0.0203
+01/27/2023:04:30:19,938 INF [ts2vec.py:141] v869 trans = 0.0575
+01/27/2023:04:30:20,441 INF [ts2vec.py:128] e870 loss = 0.261652 recons = 0.2397 orth = 0.0000 trans = 0.0219
+01/27/2023:04:30:20,579 INF [ts2vec.py:141] v870 trans = 0.0578
+01/27/2023:04:30:21,92 INF [ts2vec.py:128] e871 loss = 0.259946 recons = 0.2398 orth = 0.0000 trans = 0.0201
+01/27/2023:04:30:21,229 INF [ts2vec.py:141] v871 trans = 0.0544
+01/27/2023:04:30:21,749 INF [ts2vec.py:128] e872 loss = 0.260336 recons = 0.2399 orth = 0.0000 trans = 0.0204
+01/27/2023:04:30:21,896 INF [ts2vec.py:141] v872 trans = 0.0544
+01/27/2023:04:30:22,416 INF [ts2vec.py:128] e873 loss = 0.262702 recons = 0.2397 orth = 0.0000 trans = 0.0230
+01/27/2023:04:30:22,553 INF [ts2vec.py:141] v873 trans = 0.0566
+01/27/2023:04:30:23,67 INF [ts2vec.py:128] e874 loss = 0.261407 recons = 0.2399 orth = 0.0000 trans = 0.0215
+01/27/2023:04:30:23,205 INF [ts2vec.py:141] v874 trans = 0.0553
+01/27/2023:04:30:23,721 INF [ts2vec.py:128] e875 loss = 0.260892 recons = 0.2400 orth = 0.0000 trans = 0.0209
+01/27/2023:04:30:23,858 INF [ts2vec.py:141] v875 trans = 0.0543
+01/27/2023:04:30:24,365 INF [ts2vec.py:128] e876 loss = 0.260716 recons = 0.2398 orth = 0.0000 trans = 0.0209
+01/27/2023:04:30:24,504 INF [ts2vec.py:141] v876 trans = 0.0537
+01/27/2023:04:30:25,7 INF [ts2vec.py:128] e877 loss = 0.260312 recons = 0.2399 orth = 0.0000 trans = 0.0204
+01/27/2023:04:30:25,143 INF [ts2vec.py:141] v877 trans = 0.0583
+01/27/2023:04:30:25,648 INF [ts2vec.py:128] e878 loss = 0.259639 recons = 0.2399 orth = 0.0000 trans = 0.0198
+01/27/2023:04:30:25,784 INF [ts2vec.py:141] v878 trans = 0.0535
+01/27/2023:04:30:26,304 INF [ts2vec.py:128] e879 loss = 0.260405 recons = 0.2399 orth = 0.0000 trans = 0.0205
+01/27/2023:04:30:26,457 INF [ts2vec.py:141] v879 trans = 0.0558
+01/27/2023:04:30:27,41 INF [ts2vec.py:128] e880 loss = 0.262866 recons = 0.2399 orth = 0.0000 trans = 0.0230
+01/27/2023:04:30:27,177 INF [ts2vec.py:141] v880 trans = 0.0571
+01/27/2023:04:30:27,690 INF [ts2vec.py:128] e881 loss = 0.260044 recons = 0.2396 orth = 0.0000 trans = 0.0205
+01/27/2023:04:30:27,827 INF [ts2vec.py:141] v881 trans = 0.0549
+01/27/2023:04:30:28,346 INF [ts2vec.py:128] e882 loss = 0.262887 recons = 0.2395 orth = 0.0000 trans = 0.0234
+01/27/2023:04:30:28,483 INF [ts2vec.py:141] v882 trans = 0.0585
+01/27/2023:04:30:28,989 INF [ts2vec.py:128] e883 loss = 0.260695 recons = 0.2396 orth = 0.0000 trans = 0.0211
+01/27/2023:04:30:29,126 INF [ts2vec.py:141] v883 trans = 0.0563
+01/27/2023:04:30:29,635 INF [ts2vec.py:128] e884 loss = 0.261203 recons = 0.2397 orth = 0.0000 trans = 0.0215
+01/27/2023:04:30:29,774 INF [ts2vec.py:141] v884 trans = 0.0555
+01/27/2023:04:30:30,287 INF [ts2vec.py:128] e885 loss = 0.259728 recons = 0.2396 orth = 0.0000 trans = 0.0201
+01/27/2023:04:30:30,434 INF [ts2vec.py:141] v885 trans = 0.0575
+01/27/2023:04:30:31,17 INF [ts2vec.py:128] e886 loss = 0.259750 recons = 0.2395 orth = 0.0000 trans = 0.0203
+01/27/2023:04:30:31,155 INF [ts2vec.py:141] v886 trans = 0.0549
+01/27/2023:04:30:31,681 INF [ts2vec.py:128] e887 loss = 0.261863 recons = 0.2394 orth = 0.0000 trans = 0.0225
+01/27/2023:04:30:31,821 INF [ts2vec.py:141] v887 trans = 0.0591
+01/27/2023:04:30:32,328 INF [ts2vec.py:128] e888 loss = 0.260801 recons = 0.2395 orth = 0.0000 trans = 0.0213
+01/27/2023:04:30:32,466 INF [ts2vec.py:141] v888 trans = 0.0575
+01/27/2023:04:30:32,971 INF [ts2vec.py:128] e889 loss = 0.260107 recons = 0.2393 orth = 0.0000 trans = 0.0208
+01/27/2023:04:30:33,108 INF [ts2vec.py:141] v889 trans = 0.0570
+01/27/2023:04:30:33,619 INF [ts2vec.py:128] e890 loss = 0.258402 recons = 0.2394 orth = 0.0000 trans = 0.0190
+01/27/2023:04:30:33,756 INF [ts2vec.py:141] v890 trans = 0.0536
+01/27/2023:04:30:34,268 INF [ts2vec.py:128] e891 loss = 0.260613 recons = 0.2398 orth = 0.0000 trans = 0.0208
+01/27/2023:04:30:34,405 INF [ts2vec.py:141] v891 trans = 0.0570
+01/27/2023:04:30:34,912 INF [ts2vec.py:128] e892 loss = 0.258954 recons = 0.2403 orth = 0.0000 trans = 0.0187
+01/27/2023:04:30:35,49 INF [ts2vec.py:141] v892 trans = 0.0582
+01/27/2023:04:30:35,555 INF [ts2vec.py:128] e893 loss = 0.259034 recons = 0.2399 orth = 0.0000 trans = 0.0191
+01/27/2023:04:30:35,694 INF [ts2vec.py:141] v893 trans = 0.0555
+01/27/2023:04:30:36,200 INF [ts2vec.py:128] e894 loss = 0.259433 recons = 0.2399 orth = 0.0000 trans = 0.0196
+01/27/2023:04:30:36,336 INF [ts2vec.py:141] v894 trans = 0.0551
+01/27/2023:04:30:36,845 INF [ts2vec.py:128] e895 loss = 0.261538 recons = 0.2400 orth = 0.0000 trans = 0.0215
+01/27/2023:04:30:36,985 INF [ts2vec.py:141] v895 trans = 0.0550
+01/27/2023:04:30:37,498 INF [ts2vec.py:128] e896 loss = 0.258964 recons = 0.2396 orth = 0.0000 trans = 0.0193
+01/27/2023:04:30:37,638 INF [ts2vec.py:141] v896 trans = 0.0569
+01/27/2023:04:30:38,152 INF [ts2vec.py:128] e897 loss = 0.261075 recons = 0.2398 orth = 0.0000 trans = 0.0212
+01/27/2023:04:30:38,288 INF [ts2vec.py:141] v897 trans = 0.0539
+01/27/2023:04:30:38,791 INF [ts2vec.py:128] e898 loss = 0.260451 recons = 0.2397 orth = 0.0000 trans = 0.0207
+01/27/2023:04:30:38,930 INF [ts2vec.py:141] v898 trans = 0.0562
+01/27/2023:04:30:39,434 INF [ts2vec.py:128] e899 loss = 0.260331 recons = 0.2396 orth = 0.0000 trans = 0.0208
+01/27/2023:04:30:39,572 INF [ts2vec.py:141] v899 trans = 0.0580
+01/27/2023:04:30:40,77 INF [ts2vec.py:128] e900 loss = 0.261226 recons = 0.2396 orth = 0.0000 trans = 0.0216
+01/27/2023:04:30:40,217 INF [ts2vec.py:141] v900 trans = 0.0575
+01/27/2023:04:30:40,730 INF [ts2vec.py:128] e901 loss = 0.263003 recons = 0.2394 orth = 0.0000 trans = 0.0236
+01/27/2023:04:30:40,866 INF [ts2vec.py:141] v901 trans = 0.0587
+01/27/2023:04:30:41,375 INF [ts2vec.py:128] e902 loss = 0.258904 recons = 0.2394 orth = 0.0000 trans = 0.0196
+01/27/2023:04:30:41,515 INF [ts2vec.py:141] v902 trans = 0.0537
+01/27/2023:04:30:42,32 INF [ts2vec.py:128] e903 loss = 0.258963 recons = 0.2393 orth = 0.0000 trans = 0.0197
+01/27/2023:04:30:42,169 INF [ts2vec.py:141] v903 trans = 0.0554
+01/27/2023:04:30:42,674 INF [ts2vec.py:128] e904 loss = 0.259905 recons = 0.2395 orth = 0.0000 trans = 0.0204
+01/27/2023:04:30:42,813 INF [ts2vec.py:141] v904 trans = 0.0589
+01/27/2023:04:30:43,322 INF [ts2vec.py:128] e905 loss = 0.258956 recons = 0.2393 orth = 0.0000 trans = 0.0196
+01/27/2023:04:30:43,460 INF [ts2vec.py:141] v905 trans = 0.0585
+01/27/2023:04:30:43,966 INF [ts2vec.py:128] e906 loss = 0.259310 recons = 0.2392 orth = 0.0000 trans = 0.0201
+01/27/2023:04:30:44,103 INF [ts2vec.py:141] v906 trans = 0.0602
+01/27/2023:04:30:44,609 INF [ts2vec.py:128] e907 loss = 0.260953 recons = 0.2394 orth = 0.0000 trans = 0.0216
+01/27/2023:04:30:44,746 INF [ts2vec.py:141] v907 trans = 0.0564
+01/27/2023:04:30:45,251 INF [ts2vec.py:128] e908 loss = 0.259011 recons = 0.2396 orth = 0.0000 trans = 0.0194
+01/27/2023:04:30:45,390 INF [ts2vec.py:141] v908 trans = 0.0571
+01/27/2023:04:30:45,902 INF [ts2vec.py:128] e909 loss = 0.260181 recons = 0.2396 orth = 0.0000 trans = 0.0205
+01/27/2023:04:30:46,39 INF [ts2vec.py:141] v909 trans = 0.0566
+01/27/2023:04:30:46,545 INF [ts2vec.py:128] e910 loss = 0.262132 recons = 0.2398 orth = 0.0000 trans = 0.0224
+01/27/2023:04:30:46,681 INF [ts2vec.py:141] v910 trans = 0.0573
+01/27/2023:04:30:47,184 INF [ts2vec.py:128] e911 loss = 0.261169 recons = 0.2398 orth = 0.0000 trans = 0.0214
+01/27/2023:04:30:47,321 INF [ts2vec.py:141] v911 trans = 0.0589
+01/27/2023:04:30:47,827 INF [ts2vec.py:128] e912 loss = 0.261862 recons = 0.2398 orth = 0.0000 trans = 0.0220
+01/27/2023:04:30:47,966 INF [ts2vec.py:141] v912 trans = 0.0619
+01/27/2023:04:30:48,478 INF [ts2vec.py:128] e913 loss = 0.260431 recons = 0.2395 orth = 0.0000 trans = 0.0209
+01/27/2023:04:30:48,615 INF [ts2vec.py:141] v913 trans = 0.0546
+01/27/2023:04:30:49,122 INF [ts2vec.py:128] e914 loss = 0.258491 recons = 0.2393 orth = 0.0000 trans = 0.0192
+01/27/2023:04:30:49,260 INF [ts2vec.py:141] v914 trans = 0.0575
+01/27/2023:04:30:49,768 INF [ts2vec.py:128] e915 loss = 0.261318 recons = 0.2394 orth = 0.0000 trans = 0.0219
+01/27/2023:04:30:49,905 INF [ts2vec.py:141] v915 trans = 0.0566
+01/27/2023:04:30:50,420 INF [ts2vec.py:128] e916 loss = 0.260530 recons = 0.2394 orth = 0.0000 trans = 0.0212
+01/27/2023:04:30:50,557 INF [ts2vec.py:141] v916 trans = 0.0562
+01/27/2023:04:30:51,72 INF [ts2vec.py:128] e917 loss = 0.258715 recons = 0.2392 orth = 0.0000 trans = 0.0195
+01/27/2023:04:30:51,209 INF [ts2vec.py:141] v917 trans = 0.0564
+01/27/2023:04:30:51,729 INF [ts2vec.py:128] e918 loss = 0.257879 recons = 0.2391 orth = 0.0000 trans = 0.0188
+01/27/2023:04:30:51,869 INF [ts2vec.py:141] v918 trans = 0.0540
+01/27/2023:04:30:52,376 INF [ts2vec.py:128] e919 loss = 0.258908 recons = 0.2391 orth = 0.0000 trans = 0.0198
+01/27/2023:04:30:52,514 INF [ts2vec.py:141] v919 trans = 0.0602
+01/27/2023:04:30:53,22 INF [ts2vec.py:128] e920 loss = 0.259248 recons = 0.2392 orth = 0.0000 trans = 0.0200
+01/27/2023:04:30:53,160 INF [ts2vec.py:141] v920 trans = 0.0541
+01/27/2023:04:30:53,666 INF [ts2vec.py:128] e921 loss = 0.258612 recons = 0.2392 orth = 0.0000 trans = 0.0194
+01/27/2023:04:30:53,802 INF [ts2vec.py:141] v921 trans = 0.0554
+01/27/2023:04:30:54,304 INF [ts2vec.py:128] e922 loss = 0.260916 recons = 0.2391 orth = 0.0000 trans = 0.0218
+01/27/2023:04:30:54,441 INF [ts2vec.py:141] v922 trans = 0.0543
+01/27/2023:04:30:54,967 INF [ts2vec.py:128] e923 loss = 0.260372 recons = 0.2392 orth = 0.0000 trans = 0.0212
+01/27/2023:04:30:55,103 INF [ts2vec.py:141] v923 trans = 0.0578
+01/27/2023:04:30:55,608 INF [ts2vec.py:128] e924 loss = 0.257758 recons = 0.2392 orth = 0.0000 trans = 0.0186
+01/27/2023:04:30:55,746 INF [ts2vec.py:141] v924 trans = 0.0568
+01/27/2023:04:30:56,264 INF [ts2vec.py:128] e925 loss = 0.259477 recons = 0.2391 orth = 0.0000 trans = 0.0204
+01/27/2023:04:30:56,402 INF [ts2vec.py:141] v925 trans = 0.0593
+01/27/2023:04:30:56,908 INF [ts2vec.py:128] e926 loss = 0.260011 recons = 0.2390 orth = 0.0000 trans = 0.0210
+01/27/2023:04:30:57,45 INF [ts2vec.py:141] v926 trans = 0.0587
+01/27/2023:04:30:57,567 INF [ts2vec.py:128] e927 loss = 0.259162 recons = 0.2391 orth = 0.0000 trans = 0.0200
+01/27/2023:04:30:57,703 INF [ts2vec.py:141] v927 trans = 0.0580
+01/27/2023:04:30:58,206 INF [ts2vec.py:128] e928 loss = 0.263011 recons = 0.2392 orth = 0.0000 trans = 0.0238
+01/27/2023:04:30:58,344 INF [ts2vec.py:141] v928 trans = 0.0532
+01/27/2023:04:30:58,855 INF [ts2vec.py:128] e929 loss = 0.260734 recons = 0.2390 orth = 0.0000 trans = 0.0217
+01/27/2023:04:30:58,991 INF [ts2vec.py:141] v929 trans = 0.0533
+01/27/2023:04:30:59,507 INF [ts2vec.py:128] e930 loss = 0.260378 recons = 0.2394 orth = 0.0000 trans = 0.0210
+01/27/2023:04:30:59,644 INF [ts2vec.py:141] v930 trans = 0.0602
+01/27/2023:04:31:00,155 INF [ts2vec.py:128] e931 loss = 0.260081 recons = 0.2392 orth = 0.0000 trans = 0.0209
+01/27/2023:04:31:00,292 INF [ts2vec.py:141] v931 trans = 0.0510
+01/27/2023:04:31:00,797 INF [ts2vec.py:128] e932 loss = 0.261173 recons = 0.2391 orth = 0.0000 trans = 0.0221
+01/27/2023:04:31:00,934 INF [ts2vec.py:141] v932 trans = 0.0583
+01/27/2023:04:31:01,438 INF [ts2vec.py:128] e933 loss = 0.260417 recons = 0.2390 orth = 0.0000 trans = 0.0215
+01/27/2023:04:31:01,578 INF [ts2vec.py:141] v933 trans = 0.0567
+01/27/2023:04:31:02,89 INF [ts2vec.py:128] e934 loss = 0.260506 recons = 0.2390 orth = 0.0000 trans = 0.0216
+01/27/2023:04:31:02,226 INF [ts2vec.py:141] v934 trans = 0.0516
+01/27/2023:04:31:02,735 INF [ts2vec.py:128] e935 loss = 0.258806 recons = 0.2391 orth = 0.0000 trans = 0.0197
+01/27/2023:04:31:02,873 INF [ts2vec.py:141] v935 trans = 0.0570
+01/27/2023:04:31:03,383 INF [ts2vec.py:128] e936 loss = 0.260362 recons = 0.2394 orth = 0.0000 trans = 0.0209
+01/27/2023:04:31:03,519 INF [ts2vec.py:141] v936 trans = 0.0550
+01/27/2023:04:31:04,23 INF [ts2vec.py:128] e937 loss = 0.259418 recons = 0.2393 orth = 0.0000 trans = 0.0202
+01/27/2023:04:31:04,160 INF [ts2vec.py:141] v937 trans = 0.0561
+01/27/2023:04:31:04,660 INF [ts2vec.py:128] e938 loss = 0.259629 recons = 0.2390 orth = 0.0000 trans = 0.0206
+01/27/2023:04:31:04,797 INF [ts2vec.py:141] v938 trans = 0.0555
+01/27/2023:04:31:05,305 INF [ts2vec.py:128] e939 loss = 0.261325 recons = 0.2390 orth = 0.0000 trans = 0.0223
+01/27/2023:04:31:05,444 INF [ts2vec.py:141] v939 trans = 0.0532
+01/27/2023:04:31:05,956 INF [ts2vec.py:128] e940 loss = 0.260816 recons = 0.2389 orth = 0.0000 trans = 0.0219
+01/27/2023:04:31:06,94 INF [ts2vec.py:141] v940 trans = 0.0606
+01/27/2023:04:31:06,599 INF [ts2vec.py:128] e941 loss = 0.260115 recons = 0.2390 orth = 0.0000 trans = 0.0211
+01/27/2023:04:31:06,737 INF [ts2vec.py:141] v941 trans = 0.0576
+01/27/2023:04:31:07,243 INF [ts2vec.py:128] e942 loss = 0.261619 recons = 0.2389 orth = 0.0000 trans = 0.0227
+01/27/2023:04:31:07,380 INF [ts2vec.py:141] v942 trans = 0.0534
+01/27/2023:04:31:07,888 INF [ts2vec.py:128] e943 loss = 0.256589 recons = 0.2389 orth = 0.0000 trans = 0.0177
+01/27/2023:04:31:08,26 INF [ts2vec.py:141] v943 trans = 0.0555
+01/27/2023:04:31:08,530 INF [ts2vec.py:128] e944 loss = 0.258576 recons = 0.2388 orth = 0.0000 trans = 0.0198
+01/27/2023:04:31:08,667 INF [ts2vec.py:141] v944 trans = 0.0589
+01/27/2023:04:31:09,172 INF [ts2vec.py:128] e945 loss = 0.261343 recons = 0.2389 orth = 0.0000 trans = 0.0225
+01/27/2023:04:31:09,309 INF [ts2vec.py:141] v945 trans = 0.0538
+01/27/2023:04:31:09,819 INF [ts2vec.py:128] e946 loss = 0.261913 recons = 0.2389 orth = 0.0000 trans = 0.0230
+01/27/2023:04:31:09,956 INF [ts2vec.py:141] v946 trans = 0.0539
+01/27/2023:04:31:10,459 INF [ts2vec.py:128] e947 loss = 0.260062 recons = 0.2390 orth = 0.0000 trans = 0.0211
+01/27/2023:04:31:10,597 INF [ts2vec.py:141] v947 trans = 0.0588
+01/27/2023:04:31:11,104 INF [ts2vec.py:128] e948 loss = 0.260496 recons = 0.2388 orth = 0.0000 trans = 0.0217
+01/27/2023:04:31:11,241 INF [ts2vec.py:141] v948 trans = 0.0569
+01/27/2023:04:31:11,770 INF [ts2vec.py:128] e949 loss = 0.259031 recons = 0.2388 orth = 0.0000 trans = 0.0202
+01/27/2023:04:31:11,908 INF [ts2vec.py:141] v949 trans = 0.0547
+01/27/2023:04:31:12,423 INF [ts2vec.py:128] e950 loss = 0.262060 recons = 0.2387 orth = 0.0000 trans = 0.0233
+01/27/2023:04:31:12,563 INF [ts2vec.py:141] v950 trans = 0.0540
+01/27/2023:04:31:13,73 INF [ts2vec.py:128] e951 loss = 0.258187 recons = 0.2387 orth = 0.0000 trans = 0.0195
+01/27/2023:04:31:13,211 INF [ts2vec.py:141] v951 trans = 0.0588
+01/27/2023:04:31:13,724 INF [ts2vec.py:128] e952 loss = 0.257579 recons = 0.2387 orth = 0.0000 trans = 0.0189
+01/27/2023:04:31:13,863 INF [ts2vec.py:141] v952 trans = 0.0561
+01/27/2023:04:31:14,363 INF [ts2vec.py:128] e953 loss = 0.260987 recons = 0.2386 orth = 0.0000 trans = 0.0224
+01/27/2023:04:31:14,501 INF [ts2vec.py:141] v953 trans = 0.0545
+01/27/2023:04:31:15,11 INF [ts2vec.py:128] e954 loss = 0.258439 recons = 0.2388 orth = 0.0000 trans = 0.0196
+01/27/2023:04:31:15,149 INF [ts2vec.py:141] v954 trans = 0.0582
+01/27/2023:04:31:15,655 INF [ts2vec.py:128] e955 loss = 0.260634 recons = 0.2387 orth = 0.0000 trans = 0.0220
+01/27/2023:04:31:15,792 INF [ts2vec.py:141] v955 trans = 0.0623
+01/27/2023:04:31:16,301 INF [ts2vec.py:128] e956 loss = 0.259559 recons = 0.2386 orth = 0.0000 trans = 0.0209
+01/27/2023:04:31:16,437 INF [ts2vec.py:141] v956 trans = 0.0526
+01/27/2023:04:31:16,936 INF [ts2vec.py:128] e957 loss = 0.259378 recons = 0.2387 orth = 0.0000 trans = 0.0207
+01/27/2023:04:31:17,73 INF [ts2vec.py:141] v957 trans = 0.0550
+01/27/2023:04:31:17,586 INF [ts2vec.py:128] e958 loss = 0.259709 recons = 0.2387 orth = 0.0000 trans = 0.0210
+01/27/2023:04:31:17,723 INF [ts2vec.py:141] v958 trans = 0.0612
+01/27/2023:04:31:18,226 INF [ts2vec.py:128] e959 loss = 0.259426 recons = 0.2387 orth = 0.0000 trans = 0.0208
+01/27/2023:04:31:18,364 INF [ts2vec.py:141] v959 trans = 0.0587
+01/27/2023:04:31:18,865 INF [ts2vec.py:128] e960 loss = 0.259718 recons = 0.2386 orth = 0.0000 trans = 0.0211
+01/27/2023:04:31:19,6 INF [ts2vec.py:141] v960 trans = 0.0555
+01/27/2023:04:31:19,518 INF [ts2vec.py:128] e961 loss = 0.258692 recons = 0.2386 orth = 0.0000 trans = 0.0201
+01/27/2023:04:31:19,653 INF [ts2vec.py:141] v961 trans = 0.0569
+01/27/2023:04:31:20,166 INF [ts2vec.py:128] e962 loss = 0.260678 recons = 0.2386 orth = 0.0000 trans = 0.0221
+01/27/2023:04:31:20,302 INF [ts2vec.py:141] v962 trans = 0.0548
+01/27/2023:04:31:20,817 INF [ts2vec.py:128] e963 loss = 0.256200 recons = 0.2385 orth = 0.0000 trans = 0.0177
+01/27/2023:04:31:20,955 INF [ts2vec.py:141] v963 trans = 0.0565
+01/27/2023:04:31:21,464 INF [ts2vec.py:128] e964 loss = 0.257936 recons = 0.2386 orth = 0.0000 trans = 0.0193
+01/27/2023:04:31:21,602 INF [ts2vec.py:141] v964 trans = 0.0588
+01/27/2023:04:31:22,120 INF [ts2vec.py:128] e965 loss = 0.257922 recons = 0.2385 orth = 0.0000 trans = 0.0194
+01/27/2023:04:31:22,255 INF [ts2vec.py:141] v965 trans = 0.0576
+01/27/2023:04:31:22,755 INF [ts2vec.py:128] e966 loss = 0.258097 recons = 0.2386 orth = 0.0000 trans = 0.0195
+01/27/2023:04:31:22,893 INF [ts2vec.py:141] v966 trans = 0.0537
+01/27/2023:04:31:23,394 INF [ts2vec.py:128] e967 loss = 0.259721 recons = 0.2385 orth = 0.0000 trans = 0.0212
+01/27/2023:04:31:23,532 INF [ts2vec.py:141] v967 trans = 0.0543
+01/27/2023:04:31:24,35 INF [ts2vec.py:128] e968 loss = 0.259162 recons = 0.2385 orth = 0.0000 trans = 0.0206
+01/27/2023:04:31:24,173 INF [ts2vec.py:141] v968 trans = 0.0559
+01/27/2023:04:31:24,680 INF [ts2vec.py:128] e969 loss = 0.260356 recons = 0.2387 orth = 0.0000 trans = 0.0217
+01/27/2023:04:31:24,816 INF [ts2vec.py:141] v969 trans = 0.0531
+01/27/2023:04:31:25,324 INF [ts2vec.py:128] e970 loss = 0.261418 recons = 0.2386 orth = 0.0000 trans = 0.0228
+01/27/2023:04:31:25,464 INF [ts2vec.py:141] v970 trans = 0.0606
+01/27/2023:04:31:25,974 INF [ts2vec.py:128] e971 loss = 0.256935 recons = 0.2386 orth = 0.0000 trans = 0.0183
+01/27/2023:04:31:26,109 INF [ts2vec.py:141] v971 trans = 0.0543
+01/27/2023:04:31:26,618 INF [ts2vec.py:128] e972 loss = 0.260325 recons = 0.2385 orth = 0.0000 trans = 0.0218
+01/27/2023:04:31:26,755 INF [ts2vec.py:141] v972 trans = 0.0554
+01/27/2023:04:31:27,268 INF [ts2vec.py:128] e973 loss = 0.258044 recons = 0.2385 orth = 0.0000 trans = 0.0195
+01/27/2023:04:31:27,406 INF [ts2vec.py:141] v973 trans = 0.0586
+01/27/2023:04:31:27,919 INF [ts2vec.py:128] e974 loss = 0.258323 recons = 0.2385 orth = 0.0000 trans = 0.0199
+01/27/2023:04:31:28,56 INF [ts2vec.py:141] v974 trans = 0.0561
+01/27/2023:04:31:28,565 INF [ts2vec.py:128] e975 loss = 0.257685 recons = 0.2384 orth = 0.0000 trans = 0.0193
+01/27/2023:04:31:28,702 INF [ts2vec.py:141] v975 trans = 0.0566
+01/27/2023:04:31:29,211 INF [ts2vec.py:128] e976 loss = 0.258814 recons = 0.2384 orth = 0.0000 trans = 0.0204
+01/27/2023:04:31:29,347 INF [ts2vec.py:141] v976 trans = 0.0596
+01/27/2023:04:31:29,853 INF [ts2vec.py:128] e977 loss = 0.259095 recons = 0.2386 orth = 0.0000 trans = 0.0205
+01/27/2023:04:31:29,990 INF [ts2vec.py:141] v977 trans = 0.0536
+01/27/2023:04:31:30,497 INF [ts2vec.py:128] e978 loss = 0.256010 recons = 0.2385 orth = 0.0000 trans = 0.0175
+01/27/2023:04:31:30,633 INF [ts2vec.py:141] v978 trans = 0.0561
+01/27/2023:04:31:31,139 INF [ts2vec.py:128] e979 loss = 0.259088 recons = 0.2384 orth = 0.0000 trans = 0.0207
+01/27/2023:04:31:31,275 INF [ts2vec.py:141] v979 trans = 0.0589
+01/27/2023:04:31:31,802 INF [ts2vec.py:128] e980 loss = 0.260443 recons = 0.2384 orth = 0.0000 trans = 0.0220
+01/27/2023:04:31:31,940 INF [ts2vec.py:141] v980 trans = 0.0555
+01/27/2023:04:31:32,448 INF [ts2vec.py:128] e981 loss = 0.260743 recons = 0.2384 orth = 0.0000 trans = 0.0223
+01/27/2023:04:31:32,584 INF [ts2vec.py:141] v981 trans = 0.0540
+01/27/2023:04:31:33,92 INF [ts2vec.py:128] e982 loss = 0.259990 recons = 0.2385 orth = 0.0000 trans = 0.0215
+01/27/2023:04:31:33,229 INF [ts2vec.py:141] v982 trans = 0.0552
+01/27/2023:04:31:33,744 INF [ts2vec.py:128] e983 loss = 0.260161 recons = 0.2384 orth = 0.0000 trans = 0.0218
+01/27/2023:04:31:33,880 INF [ts2vec.py:141] v983 trans = 0.0555
+01/27/2023:04:31:34,384 INF [ts2vec.py:128] e984 loss = 0.256333 recons = 0.2384 orth = 0.0000 trans = 0.0179
+01/27/2023:04:31:34,521 INF [ts2vec.py:141] v984 trans = 0.0584
+01/27/2023:04:31:35,31 INF [ts2vec.py:128] e985 loss = 0.258463 recons = 0.2384 orth = 0.0000 trans = 0.0201
+01/27/2023:04:31:35,169 INF [ts2vec.py:141] v985 trans = 0.0548
+01/27/2023:04:31:35,674 INF [ts2vec.py:128] e986 loss = 0.259071 recons = 0.2383 orth = 0.0000 trans = 0.0208
+01/27/2023:04:31:35,812 INF [ts2vec.py:141] v986 trans = 0.0555
+01/27/2023:04:31:36,320 INF [ts2vec.py:128] e987 loss = 0.258685 recons = 0.2383 orth = 0.0000 trans = 0.0204
+01/27/2023:04:31:36,457 INF [ts2vec.py:141] v987 trans = 0.0561
+01/27/2023:04:31:36,963 INF [ts2vec.py:128] e988 loss = 0.257794 recons = 0.2383 orth = 0.0000 trans = 0.0195
+01/27/2023:04:31:37,99 INF [ts2vec.py:141] v988 trans = 0.0526
+01/27/2023:04:31:37,606 INF [ts2vec.py:128] e989 loss = 0.258454 recons = 0.2383 orth = 0.0000 trans = 0.0201
+01/27/2023:04:31:37,741 INF [ts2vec.py:141] v989 trans = 0.0583
+01/27/2023:04:31:38,279 INF [ts2vec.py:128] e990 loss = 0.260412 recons = 0.2384 orth = 0.0000 trans = 0.0220
+01/27/2023:04:31:38,427 INF [ts2vec.py:141] v990 trans = 0.0558
+01/27/2023:04:31:38,968 INF [ts2vec.py:128] e991 loss = 0.258904 recons = 0.2384 orth = 0.0000 trans = 0.0205
+01/27/2023:04:31:39,112 INF [ts2vec.py:141] v991 trans = 0.0578
+01/27/2023:04:31:39,615 INF [ts2vec.py:128] e992 loss = 0.256482 recons = 0.2383 orth = 0.0000 trans = 0.0181
+01/27/2023:04:31:39,758 INF [ts2vec.py:141] v992 trans = 0.0543
+01/27/2023:04:31:40,292 INF [ts2vec.py:128] e993 loss = 0.259215 recons = 0.2383 orth = 0.0000 trans = 0.0209
+01/27/2023:04:31:40,437 INF [ts2vec.py:141] v993 trans = 0.0567
+01/27/2023:04:31:40,952 INF [ts2vec.py:128] e994 loss = 0.257329 recons = 0.2383 orth = 0.0000 trans = 0.0190
+01/27/2023:04:31:41,89 INF [ts2vec.py:141] v994 trans = 0.0543
+01/27/2023:04:31:41,610 INF [ts2vec.py:128] e995 loss = 0.260232 recons = 0.2384 orth = 0.0000 trans = 0.0219
+01/27/2023:04:31:41,749 INF [ts2vec.py:141] v995 trans = 0.0599
+01/27/2023:04:31:42,257 INF [ts2vec.py:128] e996 loss = 0.256572 recons = 0.2382 orth = 0.0000 trans = 0.0183
+01/27/2023:04:31:42,396 INF [ts2vec.py:141] v996 trans = 0.0583
+01/27/2023:04:31:42,925 INF [ts2vec.py:128] e997 loss = 0.259221 recons = 0.2384 orth = 0.0000 trans = 0.0209
+01/27/2023:04:31:43,62 INF [ts2vec.py:141] v997 trans = 0.0572
+01/27/2023:04:31:43,564 INF [ts2vec.py:128] e998 loss = 0.256637 recons = 0.2383 orth = 0.0000 trans = 0.0183
+01/27/2023:04:31:43,700 INF [ts2vec.py:141] v998 trans = 0.0569
+01/27/2023:04:31:44,214 INF [ts2vec.py:128] e999 loss = 0.261204 recons = 0.2382 orth = 0.0000 trans = 0.0230
+01/27/2023:04:31:44,353 INF [ts2vec.py:141] v999 trans = 0.0548
+01/27/2023:04:31:44,881 INF [ts2vec.py:128] e1000 loss = 0.259254 recons = 0.2383 orth = 0.0000 trans = 0.0209
+01/27/2023:04:31:45,20 INF [ts2vec.py:141] v1000 trans = 0.0583

@@ -1,0 +1,106 @@
+.scatter-wrap {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .scatter {
+    width: 100%;
+    flex: 5;
+    overflow: hidden;
+    position: relative;
+
+    #scatter-tooltip {
+      position: absolute;
+      text-align: center;
+      padding: 0.5rem;
+      background: #ffffff;
+      color: #333333;
+      border: 1px solid #eeeeee;
+      border-radius: 8px;
+      pointer-events: none;
+      font-size: 0.8rem;
+      z-index: 99;
+      white-space: pre-line;
+    }
+
+    .lasso path {
+      stroke: rgb(80, 80, 80);
+      stroke-width: 2px;
+    }
+
+    .lasso .drawn {
+      fill-opacity: 0.05;
+    }
+
+    .lasso .loop_close {
+      fill: none;
+      stroke-dasharray: 4, 4;
+    }
+
+    //   .not_possible {
+    //     fill: rgb(200, 200, 200);
+    //   }
+
+    //   .possible {
+    //     fill: #ec888c;
+    //   }
+
+    .selected {
+      //   fill: steelblue;
+      stroke: rgb(80, 80, 80);
+    }
+  }
+  .scatter-control {
+    flex: 1;
+    width: 100%;
+    padding: 2px 5px;
+
+    .scatter-control-color {
+      display: flex;
+      flex-direction: row;
+      height: 24px;
+      border-top: 1px solid #eee;
+      border-bottom: 1px solid #eee;
+      .scatter-control-color-text {
+        flex: 1;
+        height: 100%;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 24px;
+      }
+      .scatter-control-color-radio {
+        flex: 3;
+        height: 100%;
+        .ant-radio-wrapper {
+          font-size: 12px;
+        }
+      }
+    }
+
+    .scatter-control-label {
+      display: flex;
+      flex-direction: row;
+      height: 30px;
+      border-top: 1px solid #eee;
+      border-bottom: 1px solid #eee;
+      .scatter-control-label-text {
+        flex: 1;
+        height: 100%;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 30px;
+      }
+      .scatter-control-label-select {
+        flex: 3;
+        height: 100%;
+        line-height: 30px;
+        .ant-form-item {
+          line-height: 30px;
+        }
+      }
+    }
+  }
+}

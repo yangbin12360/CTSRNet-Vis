@@ -1,0 +1,164 @@
+{
+  "global": { "tabEnableFloat": false },
+  "borders": [],
+  "layout": {
+    "type": "row",
+    "weight": 100,
+    "children": [
+      {
+        "type": "row",
+        "weight": 65,
+        "children": [
+          {
+            "type": "row",
+            "weight": 25,
+            "children": [
+              {
+                "type": "row",
+                "weight": 28,
+                "children": [
+                  {
+                    "type": "tabset",
+                    "children": [
+                      {
+                        "type": "tab",
+                        "name": "Control Panel",
+                        "component": "control-panel"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "row",
+                "weight": 72,
+                "children": [
+                  {
+                    "type": "tabset",
+                    "children": [
+                      {
+                        "type": "tab",
+                        "name": "Timestamp Bar",
+                        "component": "dense-line"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "row",
+            "weight": 35,
+            "children": [
+              {
+                "type": "row",
+                "weight": 28,
+                "children": [
+                  {
+                    "type": "tabset",
+                    "children": [
+                      { "type": "tab", "name": "Map", "component": "map" }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "row",
+                "weight": 72,
+                "children": [
+                  {
+                    "type": "tabset",
+                    "children": [
+                      {
+                        "type": "tab",
+                        "name": "Group Lines",
+                        "component": "avg-line"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "row",
+            "weight": 40,
+            "children": [
+              {
+                "type": "row",
+                "weight": 40,
+                "children": [
+                  {
+                    "type": "tabset",
+                    "children": [
+                      {
+                        "type": "tab",
+                        "name": "Cluster Scatter",
+                        "component": "cluster-scatter"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "row",
+                "weight": 60,
+                "children": [
+                  {
+                    "type": "tabset",
+                    "children": [
+                      {
+                        "type": "tab",
+                        "name": "Cluster Compare",
+                        "component": "cluster-radar"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "row",
+        "weight": 35,
+        "children": [
+          {
+            "type": "row",
+            "weight": 30,
+            "children": [
+              {
+                "type": "tabset",
+                "children": [
+                  {
+                    "type": "tab",
+                    "name": "111",
+                    "component": "title-bar"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "row",
+            "weight": 70,
+            "children": [
+              {
+                "type": "tabset",
+                "children": [
+                  {
+                    "type": "tab",
+                    "name": "222",
+                    "component": "title-bar"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
