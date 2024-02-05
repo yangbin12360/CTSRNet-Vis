@@ -14,36 +14,10 @@ const FeatureTransition = (props) => {
 
   const transRef = useRef(null);
   const isSelf = useRef(false);
-  // let ft = startFtData;
-  // let fc = startFcData;
-  // setFtData(ft);
-  // setFcData(fc);
-  const generateData = () => {
-    const data = [];
-    for (let i = 0; i < 6; i++) {
-      const innerArray = [];
-      for (let j = 0; j < 61; j++) {
-        let randomNum = Math.random() * 1.8 - 0.9; // 生成[-1.2, 1.2]之间的浮点数
-        randomNum = parseFloat(randomNum.toFixed(2)); // 限制到小数点后两位，并转回为数字
-        innerArray.push(randomNum);
-      }
-      data.push(innerArray);
-    }
-    return data;
-  };
-  const generateFcData = () => {
-    const data = [];
-    for (let i = 0; i < 5; i++) {
-      const innerArray = [];
-      for (let j = 0; j < 25; j++) {
-        let randomNum = Math.random() * 2.4 - 1.2; // 生成[-1.2, 1.2]之间的浮点数
-        randomNum = parseFloat(randomNum.toFixed(2)); // 限制到小数点后两位，并转回为数字
-        innerArray.push(randomNum);
-      }
-      data.push(innerArray);
-    }
-    return data;
-  };
+  let ft = startFtData;
+  let fc = startFcData;
+  setFtData(ft);
+  setFcData(fc);
   const drawLines = () => {
     let existInstance = echarts.getInstanceByDom(transRef.current);
     if (existInstance !== undefined) {
